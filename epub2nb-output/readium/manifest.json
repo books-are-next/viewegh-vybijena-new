@@ -1,0 +1,594 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Vybíjená",
+    "identifier": "urn:uuid:ff9b167b-04a4-4339-b2c5-1341285330ae",
+    "author": "Michal Viewegh",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2019-01-24T00:00:00.000Z",
+    "published": "2019-01-22T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.8.1"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vybijena_071.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/vybjen_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_vybijena_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "EVA",
+      "href": "OEBPS/Text/vybijena_006.xhtml#toc_marker-2"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_007.xhtml#toc_marker-3"
+    },
+    {
+      "title": "EVA",
+      "href": "OEBPS/Text/vybijena_008.xhtml#toc_marker-4"
+    },
+    {
+      "title": "JEFF",
+      "href": "OEBPS/Text/vybijena_009.xhtml#toc_marker-5"
+    },
+    {
+      "title": "AUTOR",
+      "href": "OEBPS/Text/vybijena_010.xhtml#toc_marker-6"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_011.xhtml#toc_marker-7"
+    },
+    {
+      "title": "EVA",
+      "href": "OEBPS/Text/vybijena_012.xhtml#toc_marker-8"
+    },
+    {
+      "title": "SKIPPY",
+      "href": "OEBPS/Text/vybijena_013.xhtml#toc_marker-9"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_014.xhtml#toc_marker-10"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_015.xhtml#toc_marker-11"
+    },
+    {
+      "title": "EVA",
+      "href": "OEBPS/Text/vybijena_016.xhtml#toc_marker-12"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_017.xhtml#toc_marker-13"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_018.xhtml#toc_marker-14"
+    },
+    {
+      "title": "SKIPPY",
+      "href": "OEBPS/Text/vybijena_019.xhtml#toc_marker-15"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_020.xhtml#toc_marker-16"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_021.xhtml#toc_marker-17"
+    },
+    {
+      "title": "AUTOR",
+      "href": "OEBPS/Text/vybijena_022.xhtml#toc_marker-18"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_023.xhtml#toc_marker-19"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_024.xhtml#toc_marker-20"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_025.xhtml#toc_marker-21"
+    },
+    {
+      "title": "JEFF",
+      "href": "OEBPS/Text/vybijena_026.xhtml#toc_marker-22"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_027.xhtml#toc_marker-23"
+    },
+    {
+      "title": "EVA",
+      "href": "OEBPS/Text/vybijena_028.xhtml#toc_marker-24"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_029.xhtml#toc_marker-25"
+    },
+    {
+      "title": "AUTOR",
+      "href": "OEBPS/Text/vybijena_030.xhtml#toc_marker-26"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_031.xhtml#toc_marker-27"
+    },
+    {
+      "title": "JEFF",
+      "href": "OEBPS/Text/vybijena_032.xhtml#toc_marker-28"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_033.xhtml#toc_marker-29"
+    },
+    {
+      "title": "SKIPPY",
+      "href": "OEBPS/Text/vybijena_034.xhtml#toc_marker-30"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_035.xhtml#toc_marker-31"
+    },
+    {
+      "title": "EVA",
+      "href": "OEBPS/Text/vybijena_036.xhtml#toc_marker-32"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_037.xhtml#toc_marker-33"
+    },
+    {
+      "title": "JEFF",
+      "href": "OEBPS/Text/vybijena_038.xhtml#toc_marker-34"
+    },
+    {
+      "title": "EVA",
+      "href": "OEBPS/Text/vybijena_039.xhtml#toc_marker-35"
+    },
+    {
+      "title": "JEFF",
+      "href": "OEBPS/Text/vybijena_040.xhtml#toc_marker-36"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_041.xhtml#toc_marker-37"
+    },
+    {
+      "title": "AUTOR",
+      "href": "OEBPS/Text/vybijena_042.xhtml#toc_marker-38"
+    },
+    {
+      "title": "EVA",
+      "href": "OEBPS/Text/vybijena_043.xhtml#toc_marker-39"
+    },
+    {
+      "title": "JEFF",
+      "href": "OEBPS/Text/vybijena_044.xhtml#toc_marker-40"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_045.xhtml#toc_marker-41"
+    },
+    {
+      "title": "JEFF",
+      "href": "OEBPS/Text/vybijena_046.xhtml#toc_marker-42"
+    },
+    {
+      "title": "EVA",
+      "href": "OEBPS/Text/vybijena_047.xhtml#toc_marker-43"
+    },
+    {
+      "title": "SKIPPY",
+      "href": "OEBPS/Text/vybijena_048.xhtml#toc_marker-44"
+    },
+    {
+      "title": "JEFF",
+      "href": "OEBPS/Text/vybijena_049.xhtml#toc_marker-45"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_050.xhtml#toc_marker-46"
+    },
+    {
+      "title": "JEFF",
+      "href": "OEBPS/Text/vybijena_051.xhtml#toc_marker-47"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_052.xhtml#toc_marker-48"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_053.xhtml#toc_marker-49"
+    },
+    {
+      "title": "JEFF",
+      "href": "OEBPS/Text/vybijena_054.xhtml#toc_marker-50"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_055.xhtml#toc_marker-51"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_056.xhtml#toc_marker-52"
+    },
+    {
+      "title": "SKIPPY",
+      "href": "OEBPS/Text/vybijena_057.xhtml#toc_marker-53"
+    },
+    {
+      "title": "JEFF",
+      "href": "OEBPS/Text/vybijena_058.xhtml#toc_marker-54"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_059.xhtml#toc_marker-55"
+    },
+    {
+      "title": "SKIPPY",
+      "href": "OEBPS/Text/vybijena_060.xhtml#toc_marker-56"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_061.xhtml#toc_marker-57"
+    },
+    {
+      "title": "AUTOR",
+      "href": "OEBPS/Text/vybijena_062.xhtml#toc_marker-58"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_063.xhtml#toc_marker-59"
+    },
+    {
+      "title": "EVA",
+      "href": "OEBPS/Text/vybijena_064.xhtml#toc_marker-60"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_065.xhtml#toc_marker-61"
+    },
+    {
+      "title": "EVA",
+      "href": "OEBPS/Text/vybijena_066.xhtml#toc_marker-62"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_067.xhtml#toc_marker-63"
+    },
+    {
+      "title": "AUTOR",
+      "href": "OEBPS/Text/vybijena_068.xhtml#toc_marker-64"
+    },
+    {
+      "title": "HUJEROVÁ",
+      "href": "OEBPS/Text/vybijena_069.xhtml#toc_marker-65"
+    },
+    {
+      "title": "TOM",
+      "href": "OEBPS/Text/vybijena_070.xhtml#toc_marker-66"
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:ff9b167b-04a4-4339-b2c5-1341285330ae" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Vybíjená</text>
+  </docTitle>
+  <docAuthor>
+    <text>Michal Viewegh</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_005.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>EVA</text>
+      </navLabel>
+      <content src="Text/vybijena_006.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_007.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>EVA</text>
+      </navLabel>
+      <content src="Text/vybijena_008.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>JEFF</text>
+      </navLabel>
+      <content src="Text/vybijena_009.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>AUTOR</text>
+      </navLabel>
+      <content src="Text/vybijena_010.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_011.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>EVA</text>
+      </navLabel>
+      <content src="Text/vybijena_012.xhtml#toc_marker-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>SKIPPY</text>
+      </navLabel>
+      <content src="Text/vybijena_013.xhtml#toc_marker-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_014.xhtml#toc_marker-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_015.xhtml#toc_marker-11"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>EVA</text>
+      </navLabel>
+      <content src="Text/vybijena_016.xhtml#toc_marker-12"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_017.xhtml#toc_marker-13"/>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_018.xhtml#toc_marker-14"/>
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>SKIPPY</text>
+      </navLabel>
+      <content src="Text/vybijena_019.xhtml#toc_marker-15"/>
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_020.xhtml#toc_marker-16"/>
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_021.xhtml#toc_marker-17"/>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>AUTOR</text>
+      </navLabel>
+      <content src="Text/vybijena_022.xhtml#toc_marker-18"/>
+    </navPoint>
+    <navPoint id="navpoint19" playOrder="19">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_023.xhtml#toc_marker-19"/>
+    </navPoint>
+    <navPoint id="navpoint20" playOrder="20">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_024.xhtml#toc_marker-20"/>
+    </navPoint>
+    <navPoint id="navpoint21" playOrder="21">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_025.xhtml#toc_marker-21"/>
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>JEFF</text>
+      </navLabel>
+      <content src="Text/vybijena_026.xhtml#toc_marker-22"/>
+    </navPoint>
+    <navPoint id="navpoint23" playOrder="23">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_027.xhtml#toc_marker-23"/>
+    </navPoint>
+    <navPoint id="navpoint24" playOrder="24">
+      <navLabel>
+        <text>EVA</text>
+      </navLabel>
+      <content src="Text/vybijena_028.xhtml#toc_marker-24"/>
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_029.xhtml#toc_marker-25"/>
+    </navPoint>
+    <navPoint id="navpoint26" playOrder="26">
+      <navLabel>
+        <text>AUTOR</text>
+      </navLabel>
+      <content src="Text/vybijena_030.xhtml#toc_marker-26"/>
+    </navPoint>
+    <navPoint id="navpoint27" playOrder="27">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_031.xhtml#toc_marker-27"/>
+    </navPoint>
+    <navPoint id="navpoint28" playOrder="28">
+      <navLabel>
+        <text>JEFF</text>
+      </navLabel>
+      <content src="Text/vybijena_032.xhtml#toc_marker-28"/>
+    </navPoint>
+    <navPoint id="navpoint29" playOrder="29">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_033.xhtml#toc_marker-29"/>
+    </navPoint>
+    <navPoint id="navpoint30" playOrder="30">
+      <navLabel>
+        <text>SKIPPY</text>
+      </navLabel>
+      <content src="Text/vybijena_034.xhtml#toc_marker-30"/>
+    </navPoint>
+    <navPoint id="navpoint31" playOrder="31">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_035.xhtml#toc_marker-31"/>
+    </navPoint>
+    <navPoint id="navpoint32" playOrder="32">
+      <navLabel>
+        <text>EVA</text>
+      </navLabel>
+      <content src="Text/vybijena_036.xhtml#toc_marker-32"/>
+    </navPoint>
+    <navPoint id="navpoint33" playOrder="33">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_037.xhtml#toc_marker-33"/>
+    </navPoint>
+    <navPoint id="navpoint34" playOrder="34">
+      <navLabel>
+        <text>JEFF</text>
+      </navLabel>
+      <content src="Text/vybijena_038.xhtml#toc_marker-34"/>
+    </navPoint>
+    <navPoint id="navpoint35" playOrder="35">
+      <navLabel>
+        <text>EVA</text>
+      </navLabel>
+      <content src="Text/vybijena_039.xhtml#toc_marker-35"/>
+    </navPoint>
+    <navPoint id="navpoint36" playOrder="36">
+      <navLabel>
+        <text>JEFF</text>
+      </navLabel>
+      <content src="Text/vybijena_040.xhtml#toc_marker-36"/>
+    </navPoint>
+    <navPoint id="navpoint37" playOrder="37">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_041.xhtml#toc_marker-37"/>
+    </navPoint>
+    <navPoint id="navpoint38" playOrder="38">
+      <navLabel>
+        <text>AUTOR</text>
+      </navLabel>
+      <content src="Text/vybijena_042.xhtml#toc_marker-38"/>
+    </navPoint>
+    <navPoint id="navpoint39" playOrder="39">
+      <navLabel>
+        <text>EVA</text>
+      </navLabel>
+      <content src="Text/vybijena_043.xhtml#toc_marker-39"/>
+    </navPoint>
+    <navPoint id="navpoint40" playOrder="40">
+      <navLabel>
+        <text>JEFF</text>
+      </navLabel>
+      <content src="Text/vybijena_044.xhtml#toc_marker-40"/>
+    </navPoint>
+    <navPoint id="navpoint41" playOrder="41">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_045.xhtml#toc_marker-41"/>
+    </navPoint>
+    <navPoint id="navpoint42" playOrder="42">
+      <navLabel>
+        <text>JEFF</text>
+      </navLabel>
+      <content src="Text/vybijena_046.xhtml#toc_marker-42"/>
+    </navPoint>
+    <navPoint id="navpoint43" playOrder="43">
+      <navLabel>
+        <text>EVA</text>
+      </navLabel>
+      <content src="Text/vybijena_047.xhtml#toc_marker-43"/>
+    </navPoint>
+    <navPoint id="navpoint44" playOrder="44">
+      <navLabel>
+        <text>SKIPPY</text>
+      </navLabel>
+      <content src="Text/vybijena_048.xhtml#toc_marker-44"/>
+    </navPoint>
+    <navPoint id="navpoint45" playOrder="45">
+      <navLabel>
+        <text>JEFF</text>
+      </navLabel>
+      <content src="Text/vybijena_049.xhtml#toc_marker-45"/>
+    </navPoint>
+    <navPoint id="navpoint46" playOrder="46">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_050.xhtml#toc_marker-46"/>
+    </navPoint>
+    <navPoint id="navpoint47" playOrder="47">
+      <navLabel>
+        <text>JEFF</text>
+      </navLabel>
+      <content src="Text/vybijena_051.xhtml#toc_marker-47"/>
+    </navPoint>
+    <navPoint id="navpoint48" playOrder="48">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_052.xhtml#toc_marker-48"/>
+    </navPoint>
+    <navPoint id="navpoint49" playOrder="49">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_053.xhtml#toc_marker-49"/>
+    </navPoint>
+    <navPoint id="navpoint50" playOrder="50">
+      <navLabel>
+        <text>JEFF</text>
+      </navLabel>
+      <content src="Text/vybijena_054.xhtml#toc_marker-50"/>
+    </navPoint>
+    <navPoint id="navpoint51" playOrder="51">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_055.xhtml#toc_marker-51"/>
+    </navPoint>
+    <navPoint id="navpoint52" playOrder="52">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_056.xhtml#toc_marker-52"/>
+    </navPoint>
+    <navPoint id="navpoint53" playOrder="53">
+      <navLabel>
+        <text>SKIPPY</text>
+      </navLabel>
+      <content src="Text/vybijena_057.xhtml#toc_marker-53"/>
+    </navPoint>
+    <navPoint id="navpoint54" playOrder="54">
+      <navLabel>
+        <text>JEFF</text>
+      </navLabel>
+      <content src="Text/vybijena_058.xhtml#toc_marker-54"/>
+    </navPoint>
+    <navPoint id="navpoint55" playOrder="55">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_059.xhtml#toc_marker-55"/>
+    </navPoint>
+    <navPoint id="navpoint56" playOrder="56">
+      <navLabel>
+        <text>SKIPPY</text>
+      </navLabel>
+      <content src="Text/vybijena_060.xhtml#toc_marker-56"/>
+    </navPoint>
+    <navPoint id="navpoint57" playOrder="57">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_061.xhtml#toc_marker-57"/>
+    </navPoint>
+    <navPoint id="navpoint58" playOrder="58">
+      <navLabel>
+        <text>AUTOR</text>
+      </navLabel>
+      <content src="Text/vybijena_062.xhtml#toc_marker-58"/>
+    </navPoint>
+    <navPoint id="navpoint59" playOrder="59">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_063.xhtml#toc_marker-59"/>
+    </navPoint>
+    <navPoint id="navpoint60" playOrder="60">
+      <navLabel>
+        <text>EVA</text>
+      </navLabel>
+      <content src="Text/vybijena_064.xhtml#toc_marker-60"/>
+    </navPoint>
+    <navPoint id="navpoint61" playOrder="61">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_065.xhtml#toc_marker-61"/>
+    </navPoint>
+    <navPoint id="navpoint62" playOrder="62">
+      <navLabel>
+        <text>EVA</text>
+      </navLabel>
+      <content src="Text/vybijena_066.xhtml#toc_marker-62"/>
+    </navPoint>
+    <navPoint id="navpoint63" playOrder="63">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_067.xhtml#toc_marker-63"/>
+    </navPoint>
+    <navPoint id="navpoint64" playOrder="64">
+      <navLabel>
+        <text>AUTOR</text>
+      </navLabel>
+      <content src="Text/vybijena_068.xhtml#toc_marker-64"/>
+    </navPoint>
+    <navPoint id="navpoint65" playOrder="65">
+      <navLabel>
+        <text>HUJEROVÁ</text>
+      </navLabel>
+      <content src="Text/vybijena_069.xhtml#toc_marker-65"/>
+    </navPoint>
+    <navPoint id="navpoint66" playOrder="66">
+      <navLabel>
+        <text>TOM</text>
+      </navLabel>
+      <content src="Text/vybijena_070.xhtml#toc_marker-66"/>
+    </navPoint>
+  </navMap>
+</ncx>
