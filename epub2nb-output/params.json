@@ -1,27 +1,31 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Vybíjená",
       "identifier": "urn:uuid:ff9b167b-04a4-4339-b2c5-1341285330ae",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-01-24T00:00:00.000Z"
+      "modified": "2019-01-24T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP-uroven2-kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\n",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "blockquote": "",
+      "figure": "MLP-obrazky",
+      "em": "MLP-znak-kurziva-11b",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
       "remove": "",
       "ignore": ""
@@ -30,17 +34,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "vybijena_001.md",
             "xhtml": "vybijena_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vybijena_002.md",
@@ -48,32 +54,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vybijena_003.md",
             "xhtml": "vybijena_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vybijena_004.md",
             "xhtml": "vybijena_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "vybijena_005.md",
@@ -84,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_006.md",
@@ -95,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
           },
           {
             "filename": "vybijena_007.md",
@@ -106,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_008.md",
@@ -117,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
           },
           {
             "filename": "vybijena_009.md",
@@ -128,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
           },
           {
             "filename": "vybijena_010.md",
@@ -139,7 +158,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "AUTOR"
           },
           {
             "filename": "vybijena_011.md",
@@ -150,7 +171,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_012.md",
@@ -161,7 +184,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
           },
           {
             "filename": "vybijena_013.md",
@@ -172,7 +197,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SKIPPY"
           },
           {
             "filename": "vybijena_014.md",
@@ -183,7 +210,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_015.md",
@@ -194,7 +223,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_016.md",
@@ -205,7 +236,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
           },
           {
             "filename": "vybijena_017.md",
@@ -216,7 +249,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_018.md",
@@ -227,7 +262,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_019.md",
@@ -238,7 +275,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SKIPPY"
           },
           {
             "filename": "vybijena_020.md",
@@ -249,7 +288,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_021.md",
@@ -260,7 +301,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_022.md",
@@ -271,7 +314,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "AUTOR"
           },
           {
             "filename": "vybijena_023.md",
@@ -282,7 +327,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_024.md",
@@ -293,7 +340,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_025.md",
@@ -304,7 +353,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_026.md",
@@ -315,7 +366,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
           },
           {
             "filename": "vybijena_027.md",
@@ -326,7 +379,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_028.md",
@@ -337,7 +392,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
           },
           {
             "filename": "vybijena_029.md",
@@ -348,7 +405,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_030.md",
@@ -359,7 +418,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "AUTOR"
           },
           {
             "filename": "vybijena_031.md",
@@ -370,7 +431,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_032.md",
@@ -381,7 +444,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
           },
           {
             "filename": "vybijena_033.md",
@@ -392,7 +457,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_034.md",
@@ -403,7 +470,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SKIPPY"
           },
           {
             "filename": "vybijena_035.md",
@@ -414,7 +483,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_036.md",
@@ -425,7 +496,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
           },
           {
             "filename": "vybijena_037.md",
@@ -436,7 +509,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_038.md",
@@ -447,7 +522,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
           },
           {
             "filename": "vybijena_039.md",
@@ -458,7 +535,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
           },
           {
             "filename": "vybijena_040.md",
@@ -469,7 +548,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
           },
           {
             "filename": "vybijena_041.md",
@@ -480,7 +561,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_042.md",
@@ -491,7 +574,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "AUTOR"
           },
           {
             "filename": "vybijena_043.md",
@@ -502,7 +587,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
           },
           {
             "filename": "vybijena_044.md",
@@ -513,7 +600,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
           },
           {
             "filename": "vybijena_045.md",
@@ -524,7 +613,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_046.md",
@@ -535,7 +626,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
           },
           {
             "filename": "vybijena_047.md",
@@ -546,7 +639,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
           },
           {
             "filename": "vybijena_048.md",
@@ -557,7 +652,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SKIPPY"
           },
           {
             "filename": "vybijena_049.md",
@@ -568,7 +665,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
           },
           {
             "filename": "vybijena_050.md",
@@ -579,7 +678,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_051.md",
@@ -590,7 +691,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
           },
           {
             "filename": "vybijena_052.md",
@@ -601,7 +704,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_053.md",
@@ -612,7 +717,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_054.md",
@@ -623,7 +730,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
           },
           {
             "filename": "vybijena_055.md",
@@ -634,7 +743,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_056.md",
@@ -645,7 +756,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_057.md",
@@ -656,7 +769,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SKIPPY"
           },
           {
             "filename": "vybijena_058.md",
@@ -667,7 +782,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
           },
           {
             "filename": "vybijena_059.md",
@@ -678,7 +795,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_060.md",
@@ -689,7 +808,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SKIPPY"
           },
           {
             "filename": "vybijena_061.md",
@@ -700,7 +821,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_062.md",
@@ -711,7 +834,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "AUTOR"
           },
           {
             "filename": "vybijena_063.md",
@@ -722,7 +847,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_064.md",
@@ -733,7 +860,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
           },
           {
             "filename": "vybijena_065.md",
@@ -744,7 +873,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_066.md",
@@ -755,7 +886,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
           },
           {
             "filename": "vybijena_067.md",
@@ -766,7 +899,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_068.md",
@@ -777,7 +912,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "AUTOR"
           },
           {
             "filename": "vybijena_069.md",
@@ -788,7 +925,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
           },
           {
             "filename": "vybijena_070.md",
@@ -799,18 +938,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
           },
           {
             "filename": "vybijena_071.md",
             "xhtml": "vybijena_071.xhtml",
             "id": 70,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -1306,6 +1448,6 @@
       "user": "books-are-next",
       "repo": "viewegh-vybijena-new"
     },
-    "generatedAt": 1648464101816
+    "generatedAt": 1648464681542
   }
 }

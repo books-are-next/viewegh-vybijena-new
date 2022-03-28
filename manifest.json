@@ -1,0 +1,1390 @@
+{
+  "author": "Michal Viewegh",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "viewegh-vybijena-c1e7d40",
+  "languagecode": "cs",
+  "modified": "2019-01-24T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Vybíjená",
+  "revision": "c1e7d40",
+  "generatedAt": {
+    "date": "Mon Mar 28 2022 10:52:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648464728891
+  },
+  "documents": [
+    {
+      "title": "Vybíjená",
+      "file": "vybijena_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "vybijena_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_005.html",
+      "words": 284,
+      "chars": 1811,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 1,
+      "prev": "vybijena_002.html",
+      "next": "vybijena_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVA • Vybíjená",
+      "file": "vybijena_006.html",
+      "words": 1226,
+      "chars": 7268,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 2,
+      "prev": "vybijena_005.html",
+      "next": "vybijena_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EVA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_007.html",
+      "words": 918,
+      "chars": 5663,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 3,
+      "prev": "vybijena_006.html",
+      "next": "vybijena_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVA • Vybíjená",
+      "file": "vybijena_008.html",
+      "words": 832,
+      "chars": 5032,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 4,
+      "prev": "vybijena_007.html",
+      "next": "vybijena_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EVA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEFF • Vybíjená",
+      "file": "vybijena_009.html",
+      "words": 334,
+      "chars": 2011,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 5,
+      "prev": "vybijena_008.html",
+      "next": "vybijena_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEFF",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "AUTOR • Vybíjená",
+      "file": "vybijena_010.html",
+      "words": 610,
+      "chars": 3901,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 6,
+      "prev": "vybijena_009.html",
+      "next": "vybijena_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "AUTOR",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_011.html",
+      "words": 1035,
+      "chars": 6459,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 7,
+      "prev": "vybijena_010.html",
+      "next": "vybijena_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVA • Vybíjená",
+      "file": "vybijena_012.html",
+      "words": 625,
+      "chars": 3819,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 8,
+      "prev": "vybijena_011.html",
+      "next": "vybijena_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EVA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "SKIPPY • Vybíjená",
+      "file": "vybijena_013.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 9,
+      "prev": "vybijena_012.html",
+      "next": "vybijena_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "SKIPPY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_014.html",
+      "words": 728,
+      "chars": 4420,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 10,
+      "prev": "vybijena_013.html",
+      "next": "vybijena_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_015.html",
+      "words": 966,
+      "chars": 5962,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 11,
+      "prev": "vybijena_014.html",
+      "next": "vybijena_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVA • Vybíjená",
+      "file": "vybijena_016.html",
+      "words": 707,
+      "chars": 4190,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 12,
+      "prev": "vybijena_015.html",
+      "next": "vybijena_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EVA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_017.html",
+      "words": 1392,
+      "chars": 8397,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 13,
+      "prev": "vybijena_016.html",
+      "next": "vybijena_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_018.html",
+      "words": 742,
+      "chars": 4698,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 14,
+      "prev": "vybijena_017.html",
+      "next": "vybijena_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "SKIPPY • Vybíjená",
+      "file": "vybijena_019.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 15,
+      "prev": "vybijena_018.html",
+      "next": "vybijena_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "SKIPPY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_020.html",
+      "words": 1345,
+      "chars": 8312,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 16,
+      "prev": "vybijena_019.html",
+      "next": "vybijena_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_021.html",
+      "words": 568,
+      "chars": 3457,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 17,
+      "prev": "vybijena_020.html",
+      "next": "vybijena_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "AUTOR • Vybíjená",
+      "file": "vybijena_022.html",
+      "words": 327,
+      "chars": 1948,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 18,
+      "prev": "vybijena_021.html",
+      "next": "vybijena_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "AUTOR",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_023.html",
+      "words": 887,
+      "chars": 5410,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 19,
+      "prev": "vybijena_022.html",
+      "next": "vybijena_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_024.html",
+      "words": 814,
+      "chars": 4791,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 20,
+      "prev": "vybijena_023.html",
+      "next": "vybijena_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_025.html",
+      "words": 1131,
+      "chars": 6657,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 21,
+      "prev": "vybijena_024.html",
+      "next": "vybijena_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEFF • Vybíjená",
+      "file": "vybijena_026.html",
+      "words": 1026,
+      "chars": 6255,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 22,
+      "prev": "vybijena_025.html",
+      "next": "vybijena_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEFF",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_027.html",
+      "words": 993,
+      "chars": 5935,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 23,
+      "prev": "vybijena_026.html",
+      "next": "vybijena_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVA • Vybíjená",
+      "file": "vybijena_028.html",
+      "words": 945,
+      "chars": 5324,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 24,
+      "prev": "vybijena_027.html",
+      "next": "vybijena_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EVA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_029.html",
+      "words": 933,
+      "chars": 5817,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 25,
+      "prev": "vybijena_028.html",
+      "next": "vybijena_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "AUTOR • Vybíjená",
+      "file": "vybijena_030.html",
+      "words": 320,
+      "chars": 1966,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 26,
+      "prev": "vybijena_029.html",
+      "next": "vybijena_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "AUTOR",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_031.html",
+      "words": 2083,
+      "chars": 12376,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 27,
+      "prev": "vybijena_030.html",
+      "next": "vybijena_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEFF • Vybíjená",
+      "file": "vybijena_032.html",
+      "words": 713,
+      "chars": 4208,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 28,
+      "prev": "vybijena_031.html",
+      "next": "vybijena_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEFF",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_033.html",
+      "words": 925,
+      "chars": 5600,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 29,
+      "prev": "vybijena_032.html",
+      "next": "vybijena_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "SKIPPY • Vybíjená",
+      "file": "vybijena_034.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 30,
+      "prev": "vybijena_033.html",
+      "next": "vybijena_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "SKIPPY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_035.html",
+      "words": 1306,
+      "chars": 8052,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 31,
+      "prev": "vybijena_034.html",
+      "next": "vybijena_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVA • Vybíjená",
+      "file": "vybijena_036.html",
+      "words": 899,
+      "chars": 5516,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 32,
+      "prev": "vybijena_035.html",
+      "next": "vybijena_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EVA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_037.html",
+      "words": 653,
+      "chars": 3957,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 33,
+      "prev": "vybijena_036.html",
+      "next": "vybijena_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEFF • Vybíjená",
+      "file": "vybijena_038.html",
+      "words": 1370,
+      "chars": 8357,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 34,
+      "prev": "vybijena_037.html",
+      "next": "vybijena_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEFF",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVA • Vybíjená",
+      "file": "vybijena_039.html",
+      "words": 711,
+      "chars": 4234,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 35,
+      "prev": "vybijena_038.html",
+      "next": "vybijena_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EVA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEFF • Vybíjená",
+      "file": "vybijena_040.html",
+      "words": 872,
+      "chars": 5290,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 36,
+      "prev": "vybijena_039.html",
+      "next": "vybijena_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEFF",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_041.html",
+      "words": 396,
+      "chars": 2530,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 37,
+      "prev": "vybijena_040.html",
+      "next": "vybijena_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "AUTOR • Vybíjená",
+      "file": "vybijena_042.html",
+      "words": 225,
+      "chars": 1380,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 38,
+      "prev": "vybijena_041.html",
+      "next": "vybijena_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "AUTOR",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVA • Vybíjená",
+      "file": "vybijena_043.html",
+      "words": 1659,
+      "chars": 10314,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 39,
+      "prev": "vybijena_042.html",
+      "next": "vybijena_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EVA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEFF • Vybíjená",
+      "file": "vybijena_044.html",
+      "words": 256,
+      "chars": 1566,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 40,
+      "prev": "vybijena_043.html",
+      "next": "vybijena_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEFF",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_045.html",
+      "words": 1475,
+      "chars": 8883,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 41,
+      "prev": "vybijena_044.html",
+      "next": "vybijena_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEFF • Vybíjená",
+      "file": "vybijena_046.html",
+      "words": 389,
+      "chars": 2208,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 42,
+      "prev": "vybijena_045.html",
+      "next": "vybijena_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEFF",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVA • Vybíjená",
+      "file": "vybijena_047.html",
+      "words": 546,
+      "chars": 3317,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 43,
+      "prev": "vybijena_046.html",
+      "next": "vybijena_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EVA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "SKIPPY • Vybíjená",
+      "file": "vybijena_048.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 44,
+      "prev": "vybijena_047.html",
+      "next": "vybijena_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "SKIPPY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEFF • Vybíjená",
+      "file": "vybijena_049.html",
+      "words": 483,
+      "chars": 2805,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 45,
+      "prev": "vybijena_048.html",
+      "next": "vybijena_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEFF",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_050.html",
+      "words": 559,
+      "chars": 3480,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 46,
+      "prev": "vybijena_049.html",
+      "next": "vybijena_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEFF • Vybíjená",
+      "file": "vybijena_051.html",
+      "words": 322,
+      "chars": 1884,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 47,
+      "prev": "vybijena_050.html",
+      "next": "vybijena_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEFF",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_052.html",
+      "words": 542,
+      "chars": 3123,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 48,
+      "prev": "vybijena_051.html",
+      "next": "vybijena_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_053.html",
+      "words": 492,
+      "chars": 2991,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 49,
+      "prev": "vybijena_052.html",
+      "next": "vybijena_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEFF • Vybíjená",
+      "file": "vybijena_054.html",
+      "words": 655,
+      "chars": 3872,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 50,
+      "prev": "vybijena_053.html",
+      "next": "vybijena_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEFF",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_055.html",
+      "words": 290,
+      "chars": 1706,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 51,
+      "prev": "vybijena_054.html",
+      "next": "vybijena_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_056.html",
+      "words": 354,
+      "chars": 2245,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 52,
+      "prev": "vybijena_055.html",
+      "next": "vybijena_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "SKIPPY • Vybíjená",
+      "file": "vybijena_057.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 53,
+      "prev": "vybijena_056.html",
+      "next": "vybijena_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "SKIPPY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEFF • Vybíjená",
+      "file": "vybijena_058.html",
+      "words": 749,
+      "chars": 4421,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 54,
+      "prev": "vybijena_057.html",
+      "next": "vybijena_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEFF",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_059.html",
+      "words": 1604,
+      "chars": 9876,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 55,
+      "prev": "vybijena_058.html",
+      "next": "vybijena_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "SKIPPY • Vybíjená",
+      "file": "vybijena_060.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 56,
+      "prev": "vybijena_059.html",
+      "next": "vybijena_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "SKIPPY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_061.html",
+      "words": 435,
+      "chars": 2665,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 57,
+      "prev": "vybijena_060.html",
+      "next": "vybijena_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "AUTOR • Vybíjená",
+      "file": "vybijena_062.html",
+      "words": 325,
+      "chars": 1969,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 58,
+      "prev": "vybijena_061.html",
+      "next": "vybijena_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "AUTOR",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_063.html",
+      "words": 1045,
+      "chars": 6296,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 59,
+      "prev": "vybijena_062.html",
+      "next": "vybijena_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVA • Vybíjená",
+      "file": "vybijena_064.html",
+      "words": 649,
+      "chars": 3823,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 60,
+      "prev": "vybijena_063.html",
+      "next": "vybijena_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EVA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_065.html",
+      "words": 1473,
+      "chars": 8986,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 61,
+      "prev": "vybijena_064.html",
+      "next": "vybijena_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EVA • Vybíjená",
+      "file": "vybijena_066.html",
+      "words": 101,
+      "chars": 625,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 62,
+      "prev": "vybijena_065.html",
+      "next": "vybijena_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EVA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_067.html",
+      "words": 606,
+      "chars": 3713,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 63,
+      "prev": "vybijena_066.html",
+      "next": "vybijena_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "AUTOR • Vybíjená",
+      "file": "vybijena_068.html",
+      "words": 284,
+      "chars": 1687,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 64,
+      "prev": "vybijena_067.html",
+      "next": "vybijena_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "AUTOR",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HUJEROVÁ • Vybíjená",
+      "file": "vybijena_069.html",
+      "words": 445,
+      "chars": 2643,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 65,
+      "prev": "vybijena_068.html",
+      "next": "vybijena_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HUJEROVÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TOM • Vybíjená",
+      "file": "vybijena_070.html",
+      "words": 400,
+      "chars": 2504,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 66,
+      "prev": "vybijena_069.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Vybíjená",
+      "file": "colophon.html",
+      "words": 138,
+      "chars": 902,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
+      "prev": "vybijena_070.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 46128,
+      "chars": 279576,
+      "ideas": 1910
+    },
+    "chapters": {
+      "words": 45985,
+      "chars": 278641,
+      "ideas": 1884
+    }
+  }
+}
