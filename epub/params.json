@@ -1,1 +1,1454 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Vybíjená",
+      "identifier": "urn:uuid:ff9b167b-04a4-4339-b2c5-1341285330ae",
+      "author": "Michal Viewegh",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-01-24T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
+    },
+    "elements": {
+      "title": "MLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\n",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "MLP-obrazky",
+      "em": "MLP-znak-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "vybijena_001.md",
+            "xhtml": "vybijena_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "vybijena_002.md",
+            "xhtml": "vybijena_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "vybijena_003.md",
+            "xhtml": "vybijena_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "vybijena_004.md",
+            "xhtml": "vybijena_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "vybijena_005.md",
+            "xhtml": "vybijena_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_006.md",
+            "xhtml": "vybijena_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
+          },
+          {
+            "filename": "vybijena_007.md",
+            "xhtml": "vybijena_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_008.md",
+            "xhtml": "vybijena_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
+          },
+          {
+            "filename": "vybijena_009.md",
+            "xhtml": "vybijena_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
+          },
+          {
+            "filename": "vybijena_010.md",
+            "xhtml": "vybijena_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "AUTOR"
+          },
+          {
+            "filename": "vybijena_011.md",
+            "xhtml": "vybijena_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_012.md",
+            "xhtml": "vybijena_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
+          },
+          {
+            "filename": "vybijena_013.md",
+            "xhtml": "vybijena_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SKIPPY"
+          },
+          {
+            "filename": "vybijena_014.md",
+            "xhtml": "vybijena_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_015.md",
+            "xhtml": "vybijena_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_016.md",
+            "xhtml": "vybijena_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
+          },
+          {
+            "filename": "vybijena_017.md",
+            "xhtml": "vybijena_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_018.md",
+            "xhtml": "vybijena_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_019.md",
+            "xhtml": "vybijena_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SKIPPY"
+          },
+          {
+            "filename": "vybijena_020.md",
+            "xhtml": "vybijena_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_021.md",
+            "xhtml": "vybijena_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_022.md",
+            "xhtml": "vybijena_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "AUTOR"
+          },
+          {
+            "filename": "vybijena_023.md",
+            "xhtml": "vybijena_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_024.md",
+            "xhtml": "vybijena_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_025.md",
+            "xhtml": "vybijena_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_026.md",
+            "xhtml": "vybijena_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
+          },
+          {
+            "filename": "vybijena_027.md",
+            "xhtml": "vybijena_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_028.md",
+            "xhtml": "vybijena_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
+          },
+          {
+            "filename": "vybijena_029.md",
+            "xhtml": "vybijena_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_030.md",
+            "xhtml": "vybijena_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "AUTOR"
+          },
+          {
+            "filename": "vybijena_031.md",
+            "xhtml": "vybijena_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_032.md",
+            "xhtml": "vybijena_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
+          },
+          {
+            "filename": "vybijena_033.md",
+            "xhtml": "vybijena_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_034.md",
+            "xhtml": "vybijena_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SKIPPY"
+          },
+          {
+            "filename": "vybijena_035.md",
+            "xhtml": "vybijena_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_036.md",
+            "xhtml": "vybijena_036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
+          },
+          {
+            "filename": "vybijena_037.md",
+            "xhtml": "vybijena_037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_038.md",
+            "xhtml": "vybijena_038.xhtml",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
+          },
+          {
+            "filename": "vybijena_039.md",
+            "xhtml": "vybijena_039.xhtml",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
+          },
+          {
+            "filename": "vybijena_040.md",
+            "xhtml": "vybijena_040.xhtml",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
+          },
+          {
+            "filename": "vybijena_041.md",
+            "xhtml": "vybijena_041.xhtml",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_042.md",
+            "xhtml": "vybijena_042.xhtml",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "AUTOR"
+          },
+          {
+            "filename": "vybijena_043.md",
+            "xhtml": "vybijena_043.xhtml",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
+          },
+          {
+            "filename": "vybijena_044.md",
+            "xhtml": "vybijena_044.xhtml",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
+          },
+          {
+            "filename": "vybijena_045.md",
+            "xhtml": "vybijena_045.xhtml",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_046.md",
+            "xhtml": "vybijena_046.xhtml",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
+          },
+          {
+            "filename": "vybijena_047.md",
+            "xhtml": "vybijena_047.xhtml",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
+          },
+          {
+            "filename": "vybijena_048.md",
+            "xhtml": "vybijena_048.xhtml",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SKIPPY"
+          },
+          {
+            "filename": "vybijena_049.md",
+            "xhtml": "vybijena_049.xhtml",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
+          },
+          {
+            "filename": "vybijena_050.md",
+            "xhtml": "vybijena_050.xhtml",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_051.md",
+            "xhtml": "vybijena_051.xhtml",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
+          },
+          {
+            "filename": "vybijena_052.md",
+            "xhtml": "vybijena_052.xhtml",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_053.md",
+            "xhtml": "vybijena_053.xhtml",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_054.md",
+            "xhtml": "vybijena_054.xhtml",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
+          },
+          {
+            "filename": "vybijena_055.md",
+            "xhtml": "vybijena_055.xhtml",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_056.md",
+            "xhtml": "vybijena_056.xhtml",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_057.md",
+            "xhtml": "vybijena_057.xhtml",
+            "id": 56,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SKIPPY"
+          },
+          {
+            "filename": "vybijena_058.md",
+            "xhtml": "vybijena_058.xhtml",
+            "id": 57,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "JEFF"
+          },
+          {
+            "filename": "vybijena_059.md",
+            "xhtml": "vybijena_059.xhtml",
+            "id": 58,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_060.md",
+            "xhtml": "vybijena_060.xhtml",
+            "id": 59,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SKIPPY"
+          },
+          {
+            "filename": "vybijena_061.md",
+            "xhtml": "vybijena_061.xhtml",
+            "id": 60,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_062.md",
+            "xhtml": "vybijena_062.xhtml",
+            "id": 61,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "AUTOR"
+          },
+          {
+            "filename": "vybijena_063.md",
+            "xhtml": "vybijena_063.xhtml",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_064.md",
+            "xhtml": "vybijena_064.xhtml",
+            "id": 63,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
+          },
+          {
+            "filename": "vybijena_065.md",
+            "xhtml": "vybijena_065.xhtml",
+            "id": 64,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_066.md",
+            "xhtml": "vybijena_066.xhtml",
+            "id": 65,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EVA"
+          },
+          {
+            "filename": "vybijena_067.md",
+            "xhtml": "vybijena_067.xhtml",
+            "id": 66,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_068.md",
+            "xhtml": "vybijena_068.xhtml",
+            "id": 67,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "AUTOR"
+          },
+          {
+            "filename": "vybijena_069.md",
+            "xhtml": "vybijena_069.xhtml",
+            "id": 68,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "HUJEROVÁ"
+          },
+          {
+            "filename": "vybijena_070.md",
+            "xhtml": "vybijena_070.xhtml",
+            "id": 69,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "TOM"
+          },
+          {
+            "filename": "vybijena_071.md",
+            "xhtml": "vybijena_071.xhtml",
+            "id": 70,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Vybíjená",
+      "identifier": "urn:uuid:ff9b167b-04a4-4339-b2c5-1341285330ae",
+      "author": "Michal Viewegh",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-01-24T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vybijena_001.md",
+        "xhtml": "vybijena_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vybijena_002.md",
+        "xhtml": "vybijena_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vybijena_003.md",
+        "xhtml": "vybijena_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vybijena_004.md",
+        "xhtml": "vybijena_004.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_005.md",
+        "xhtml": "vybijena_005.xhtml"
+      },
+      {
+        "titleSuggest": "EVA",
+        "subtitleSuggest": "",
+        "filename": "vybijena_006.md",
+        "xhtml": "vybijena_006.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_007.md",
+        "xhtml": "vybijena_007.xhtml"
+      },
+      {
+        "titleSuggest": "EVA",
+        "subtitleSuggest": "",
+        "filename": "vybijena_008.md",
+        "xhtml": "vybijena_008.xhtml"
+      },
+      {
+        "titleSuggest": "JEFF",
+        "subtitleSuggest": "",
+        "filename": "vybijena_009.md",
+        "xhtml": "vybijena_009.xhtml"
+      },
+      {
+        "titleSuggest": "AUTOR",
+        "subtitleSuggest": "",
+        "filename": "vybijena_010.md",
+        "xhtml": "vybijena_010.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_011.md",
+        "xhtml": "vybijena_011.xhtml"
+      },
+      {
+        "titleSuggest": "EVA",
+        "subtitleSuggest": "",
+        "filename": "vybijena_012.md",
+        "xhtml": "vybijena_012.xhtml"
+      },
+      {
+        "titleSuggest": "SKIPPY",
+        "subtitleSuggest": "",
+        "filename": "vybijena_013.md",
+        "xhtml": "vybijena_013.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_014.md",
+        "xhtml": "vybijena_014.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_015.md",
+        "xhtml": "vybijena_015.xhtml"
+      },
+      {
+        "titleSuggest": "EVA",
+        "subtitleSuggest": "",
+        "filename": "vybijena_016.md",
+        "xhtml": "vybijena_016.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_017.md",
+        "xhtml": "vybijena_017.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_018.md",
+        "xhtml": "vybijena_018.xhtml"
+      },
+      {
+        "titleSuggest": "SKIPPY",
+        "subtitleSuggest": "",
+        "filename": "vybijena_019.md",
+        "xhtml": "vybijena_019.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_020.md",
+        "xhtml": "vybijena_020.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_021.md",
+        "xhtml": "vybijena_021.xhtml"
+      },
+      {
+        "titleSuggest": "AUTOR",
+        "subtitleSuggest": "",
+        "filename": "vybijena_022.md",
+        "xhtml": "vybijena_022.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_023.md",
+        "xhtml": "vybijena_023.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_024.md",
+        "xhtml": "vybijena_024.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_025.md",
+        "xhtml": "vybijena_025.xhtml"
+      },
+      {
+        "titleSuggest": "JEFF",
+        "subtitleSuggest": "",
+        "filename": "vybijena_026.md",
+        "xhtml": "vybijena_026.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_027.md",
+        "xhtml": "vybijena_027.xhtml"
+      },
+      {
+        "titleSuggest": "EVA",
+        "subtitleSuggest": "",
+        "filename": "vybijena_028.md",
+        "xhtml": "vybijena_028.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_029.md",
+        "xhtml": "vybijena_029.xhtml"
+      },
+      {
+        "titleSuggest": "AUTOR",
+        "subtitleSuggest": "",
+        "filename": "vybijena_030.md",
+        "xhtml": "vybijena_030.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_031.md",
+        "xhtml": "vybijena_031.xhtml"
+      },
+      {
+        "titleSuggest": "JEFF",
+        "subtitleSuggest": "",
+        "filename": "vybijena_032.md",
+        "xhtml": "vybijena_032.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_033.md",
+        "xhtml": "vybijena_033.xhtml"
+      },
+      {
+        "titleSuggest": "SKIPPY",
+        "subtitleSuggest": "",
+        "filename": "vybijena_034.md",
+        "xhtml": "vybijena_034.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_035.md",
+        "xhtml": "vybijena_035.xhtml"
+      },
+      {
+        "titleSuggest": "EVA",
+        "subtitleSuggest": "",
+        "filename": "vybijena_036.md",
+        "xhtml": "vybijena_036.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_037.md",
+        "xhtml": "vybijena_037.xhtml"
+      },
+      {
+        "titleSuggest": "JEFF",
+        "subtitleSuggest": "",
+        "filename": "vybijena_038.md",
+        "xhtml": "vybijena_038.xhtml"
+      },
+      {
+        "titleSuggest": "EVA",
+        "subtitleSuggest": "",
+        "filename": "vybijena_039.md",
+        "xhtml": "vybijena_039.xhtml"
+      },
+      {
+        "titleSuggest": "JEFF",
+        "subtitleSuggest": "",
+        "filename": "vybijena_040.md",
+        "xhtml": "vybijena_040.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_041.md",
+        "xhtml": "vybijena_041.xhtml"
+      },
+      {
+        "titleSuggest": "AUTOR",
+        "subtitleSuggest": "",
+        "filename": "vybijena_042.md",
+        "xhtml": "vybijena_042.xhtml"
+      },
+      {
+        "titleSuggest": "EVA",
+        "subtitleSuggest": "",
+        "filename": "vybijena_043.md",
+        "xhtml": "vybijena_043.xhtml"
+      },
+      {
+        "titleSuggest": "JEFF",
+        "subtitleSuggest": "",
+        "filename": "vybijena_044.md",
+        "xhtml": "vybijena_044.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_045.md",
+        "xhtml": "vybijena_045.xhtml"
+      },
+      {
+        "titleSuggest": "JEFF",
+        "subtitleSuggest": "",
+        "filename": "vybijena_046.md",
+        "xhtml": "vybijena_046.xhtml"
+      },
+      {
+        "titleSuggest": "EVA",
+        "subtitleSuggest": "",
+        "filename": "vybijena_047.md",
+        "xhtml": "vybijena_047.xhtml"
+      },
+      {
+        "titleSuggest": "SKIPPY",
+        "subtitleSuggest": "",
+        "filename": "vybijena_048.md",
+        "xhtml": "vybijena_048.xhtml"
+      },
+      {
+        "titleSuggest": "JEFF",
+        "subtitleSuggest": "",
+        "filename": "vybijena_049.md",
+        "xhtml": "vybijena_049.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_050.md",
+        "xhtml": "vybijena_050.xhtml"
+      },
+      {
+        "titleSuggest": "JEFF",
+        "subtitleSuggest": "",
+        "filename": "vybijena_051.md",
+        "xhtml": "vybijena_051.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_052.md",
+        "xhtml": "vybijena_052.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_053.md",
+        "xhtml": "vybijena_053.xhtml"
+      },
+      {
+        "titleSuggest": "JEFF",
+        "subtitleSuggest": "",
+        "filename": "vybijena_054.md",
+        "xhtml": "vybijena_054.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_055.md",
+        "xhtml": "vybijena_055.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_056.md",
+        "xhtml": "vybijena_056.xhtml"
+      },
+      {
+        "titleSuggest": "SKIPPY",
+        "subtitleSuggest": "",
+        "filename": "vybijena_057.md",
+        "xhtml": "vybijena_057.xhtml"
+      },
+      {
+        "titleSuggest": "JEFF",
+        "subtitleSuggest": "",
+        "filename": "vybijena_058.md",
+        "xhtml": "vybijena_058.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_059.md",
+        "xhtml": "vybijena_059.xhtml"
+      },
+      {
+        "titleSuggest": "SKIPPY",
+        "subtitleSuggest": "",
+        "filename": "vybijena_060.md",
+        "xhtml": "vybijena_060.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_061.md",
+        "xhtml": "vybijena_061.xhtml"
+      },
+      {
+        "titleSuggest": "AUTOR",
+        "subtitleSuggest": "",
+        "filename": "vybijena_062.md",
+        "xhtml": "vybijena_062.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_063.md",
+        "xhtml": "vybijena_063.xhtml"
+      },
+      {
+        "titleSuggest": "EVA",
+        "subtitleSuggest": "",
+        "filename": "vybijena_064.md",
+        "xhtml": "vybijena_064.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_065.md",
+        "xhtml": "vybijena_065.xhtml"
+      },
+      {
+        "titleSuggest": "EVA",
+        "subtitleSuggest": "",
+        "filename": "vybijena_066.md",
+        "xhtml": "vybijena_066.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_067.md",
+        "xhtml": "vybijena_067.xhtml"
+      },
+      {
+        "titleSuggest": "AUTOR",
+        "subtitleSuggest": "",
+        "filename": "vybijena_068.md",
+        "xhtml": "vybijena_068.xhtml"
+      },
+      {
+        "titleSuggest": "HUJEROVÁ",
+        "subtitleSuggest": "",
+        "filename": "vybijena_069.md",
+        "xhtml": "vybijena_069.xhtml"
+      },
+      {
+        "titleSuggest": "TOM",
+        "subtitleSuggest": "",
+        "filename": "vybijena_070.md",
+        "xhtml": "vybijena_070.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vybijena_071.md",
+        "xhtml": "vybijena_071.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/vybjen_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_vybijena_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-uroven2-kapitola",
+      "MLP-znak-kurziva-11b",
+      "char-style-override-1",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "viewegh-vybijena-new"
+    },
+    "generatedAt": 1648464101816
+  }
+}
