@@ -1,22 +1,93 @@
 {
-  "author": "Michal Viewegh",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "viewegh-vybijena-c1e7d40",
-  "languagecode": "cs",
-  "modified": "2019-01-24T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Vybíjená",
-  "revision": "c1e7d40",
+  "author": "Michal Viewegh",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "viewegh-vybijena-fab5b39",
+  "revision": "fab5b39",
+  "readingOrder": [
+    "promo.html",
+    "vybijena_005.html",
+    "vybijena_006.html",
+    "vybijena_007.html",
+    "vybijena_008.html",
+    "vybijena_009.html",
+    "vybijena_010.html",
+    "vybijena_011.html",
+    "vybijena_012.html",
+    "vybijena_013.html",
+    "vybijena_014.html",
+    "vybijena_015.html",
+    "vybijena_016.html",
+    "vybijena_017.html",
+    "vybijena_018.html",
+    "vybijena_019.html",
+    "vybijena_020.html",
+    "vybijena_021.html",
+    "vybijena_022.html",
+    "vybijena_023.html",
+    "vybijena_024.html",
+    "vybijena_025.html",
+    "vybijena_026.html",
+    "vybijena_027.html",
+    "vybijena_028.html",
+    "vybijena_029.html",
+    "vybijena_030.html",
+    "vybijena_031.html",
+    "vybijena_032.html",
+    "vybijena_033.html",
+    "vybijena_034.html",
+    "vybijena_035.html",
+    "vybijena_036.html",
+    "vybijena_037.html",
+    "vybijena_038.html",
+    "vybijena_039.html",
+    "vybijena_040.html",
+    "vybijena_041.html",
+    "vybijena_042.html",
+    "vybijena_043.html",
+    "vybijena_044.html",
+    "vybijena_045.html",
+    "vybijena_046.html",
+    "vybijena_047.html",
+    "vybijena_048.html",
+    "vybijena_049.html",
+    "vybijena_050.html",
+    "vybijena_051.html",
+    "vybijena_052.html",
+    "vybijena_053.html",
+    "vybijena_054.html",
+    "vybijena_055.html",
+    "vybijena_056.html",
+    "vybijena_057.html",
+    "vybijena_058.html",
+    "vybijena_059.html",
+    "vybijena_060.html",
+    "vybijena_061.html",
+    "vybijena_062.html",
+    "vybijena_063.html",
+    "vybijena_064.html",
+    "vybijena_065.html",
+    "vybijena_066.html",
+    "vybijena_067.html",
+    "vybijena_068.html",
+    "vybijena_069.html",
+    "vybijena_070.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 28 2022 10:52:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648464728891
+    "date": "Thu May 12 2022 10:41:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352075057
   },
   "documents": [
     {
-      "title": "Vybíjená",
-      "file": "vybijena_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +95,17 @@
       "order": 0,
       "prev": null,
       "next": "vybijena_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_005.html",
       "words": 284,
       "chars": 1811,
       "ideas": 4,
       "role": "chapter",
       "order": 1,
-      "prev": "vybijena_002.html",
+      "prev": "promo.html",
       "next": "vybijena_006.html",
       "toc": [
         {
@@ -55,7 +118,7 @@
       ]
     },
     {
-      "title": "EVA • Vybíjená",
+      "title": "EVA",
       "file": "vybijena_006.html",
       "words": 1226,
       "chars": 7268,
@@ -75,7 +138,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_007.html",
       "words": 918,
       "chars": 5663,
@@ -95,7 +158,7 @@
       ]
     },
     {
-      "title": "EVA • Vybíjená",
+      "title": "EVA",
       "file": "vybijena_008.html",
       "words": 832,
       "chars": 5032,
@@ -115,7 +178,7 @@
       ]
     },
     {
-      "title": "JEFF • Vybíjená",
+      "title": "JEFF",
       "file": "vybijena_009.html",
       "words": 334,
       "chars": 2011,
@@ -135,7 +198,7 @@
       ]
     },
     {
-      "title": "AUTOR • Vybíjená",
+      "title": "AUTOR",
       "file": "vybijena_010.html",
       "words": 610,
       "chars": 3901,
@@ -155,7 +218,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_011.html",
       "words": 1035,
       "chars": 6459,
@@ -175,7 +238,7 @@
       ]
     },
     {
-      "title": "EVA • Vybíjená",
+      "title": "EVA",
       "file": "vybijena_012.html",
       "words": 625,
       "chars": 3819,
@@ -195,7 +258,7 @@
       ]
     },
     {
-      "title": "SKIPPY • Vybíjená",
+      "title": "SKIPPY",
       "file": "vybijena_013.html",
       "words": 1,
       "chars": 6,
@@ -215,7 +278,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_014.html",
       "words": 728,
       "chars": 4420,
@@ -235,7 +298,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_015.html",
       "words": 966,
       "chars": 5962,
@@ -255,7 +318,7 @@
       ]
     },
     {
-      "title": "EVA • Vybíjená",
+      "title": "EVA",
       "file": "vybijena_016.html",
       "words": 707,
       "chars": 4190,
@@ -275,7 +338,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_017.html",
       "words": 1392,
       "chars": 8397,
@@ -295,7 +358,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_018.html",
       "words": 742,
       "chars": 4698,
@@ -315,7 +378,7 @@
       ]
     },
     {
-      "title": "SKIPPY • Vybíjená",
+      "title": "SKIPPY",
       "file": "vybijena_019.html",
       "words": 1,
       "chars": 6,
@@ -335,7 +398,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_020.html",
       "words": 1345,
       "chars": 8312,
@@ -355,7 +418,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_021.html",
       "words": 568,
       "chars": 3457,
@@ -375,7 +438,7 @@
       ]
     },
     {
-      "title": "AUTOR • Vybíjená",
+      "title": "AUTOR",
       "file": "vybijena_022.html",
       "words": 327,
       "chars": 1948,
@@ -395,7 +458,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_023.html",
       "words": 887,
       "chars": 5410,
@@ -415,7 +478,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_024.html",
       "words": 814,
       "chars": 4791,
@@ -435,7 +498,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_025.html",
       "words": 1131,
       "chars": 6657,
@@ -455,7 +518,7 @@
       ]
     },
     {
-      "title": "JEFF • Vybíjená",
+      "title": "JEFF",
       "file": "vybijena_026.html",
       "words": 1026,
       "chars": 6255,
@@ -475,7 +538,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_027.html",
       "words": 993,
       "chars": 5935,
@@ -495,7 +558,7 @@
       ]
     },
     {
-      "title": "EVA • Vybíjená",
+      "title": "EVA",
       "file": "vybijena_028.html",
       "words": 945,
       "chars": 5324,
@@ -515,7 +578,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_029.html",
       "words": 933,
       "chars": 5817,
@@ -535,7 +598,7 @@
       ]
     },
     {
-      "title": "AUTOR • Vybíjená",
+      "title": "AUTOR",
       "file": "vybijena_030.html",
       "words": 320,
       "chars": 1966,
@@ -555,7 +618,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_031.html",
       "words": 2083,
       "chars": 12376,
@@ -575,7 +638,7 @@
       ]
     },
     {
-      "title": "JEFF • Vybíjená",
+      "title": "JEFF",
       "file": "vybijena_032.html",
       "words": 713,
       "chars": 4208,
@@ -595,7 +658,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_033.html",
       "words": 925,
       "chars": 5600,
@@ -615,7 +678,7 @@
       ]
     },
     {
-      "title": "SKIPPY • Vybíjená",
+      "title": "SKIPPY",
       "file": "vybijena_034.html",
       "words": 1,
       "chars": 6,
@@ -635,7 +698,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_035.html",
       "words": 1306,
       "chars": 8052,
@@ -655,7 +718,7 @@
       ]
     },
     {
-      "title": "EVA • Vybíjená",
+      "title": "EVA",
       "file": "vybijena_036.html",
       "words": 899,
       "chars": 5516,
@@ -675,7 +738,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_037.html",
       "words": 653,
       "chars": 3957,
@@ -695,7 +758,7 @@
       ]
     },
     {
-      "title": "JEFF • Vybíjená",
+      "title": "JEFF",
       "file": "vybijena_038.html",
       "words": 1370,
       "chars": 8357,
@@ -715,7 +778,7 @@
       ]
     },
     {
-      "title": "EVA • Vybíjená",
+      "title": "EVA",
       "file": "vybijena_039.html",
       "words": 711,
       "chars": 4234,
@@ -735,7 +798,7 @@
       ]
     },
     {
-      "title": "JEFF • Vybíjená",
+      "title": "JEFF",
       "file": "vybijena_040.html",
       "words": 872,
       "chars": 5290,
@@ -755,7 +818,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_041.html",
       "words": 396,
       "chars": 2530,
@@ -775,7 +838,7 @@
       ]
     },
     {
-      "title": "AUTOR • Vybíjená",
+      "title": "AUTOR",
       "file": "vybijena_042.html",
       "words": 225,
       "chars": 1380,
@@ -795,7 +858,7 @@
       ]
     },
     {
-      "title": "EVA • Vybíjená",
+      "title": "EVA",
       "file": "vybijena_043.html",
       "words": 1659,
       "chars": 10314,
@@ -815,7 +878,7 @@
       ]
     },
     {
-      "title": "JEFF • Vybíjená",
+      "title": "JEFF",
       "file": "vybijena_044.html",
       "words": 256,
       "chars": 1566,
@@ -835,7 +898,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_045.html",
       "words": 1475,
       "chars": 8883,
@@ -855,7 +918,7 @@
       ]
     },
     {
-      "title": "JEFF • Vybíjená",
+      "title": "JEFF",
       "file": "vybijena_046.html",
       "words": 389,
       "chars": 2208,
@@ -875,7 +938,7 @@
       ]
     },
     {
-      "title": "EVA • Vybíjená",
+      "title": "EVA",
       "file": "vybijena_047.html",
       "words": 546,
       "chars": 3317,
@@ -895,7 +958,7 @@
       ]
     },
     {
-      "title": "SKIPPY • Vybíjená",
+      "title": "SKIPPY",
       "file": "vybijena_048.html",
       "words": 1,
       "chars": 6,
@@ -915,7 +978,7 @@
       ]
     },
     {
-      "title": "JEFF • Vybíjená",
+      "title": "JEFF",
       "file": "vybijena_049.html",
       "words": 483,
       "chars": 2805,
@@ -935,7 +998,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_050.html",
       "words": 559,
       "chars": 3480,
@@ -955,7 +1018,7 @@
       ]
     },
     {
-      "title": "JEFF • Vybíjená",
+      "title": "JEFF",
       "file": "vybijena_051.html",
       "words": 322,
       "chars": 1884,
@@ -975,7 +1038,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_052.html",
       "words": 542,
       "chars": 3123,
@@ -995,7 +1058,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_053.html",
       "words": 492,
       "chars": 2991,
@@ -1015,7 +1078,7 @@
       ]
     },
     {
-      "title": "JEFF • Vybíjená",
+      "title": "JEFF",
       "file": "vybijena_054.html",
       "words": 655,
       "chars": 3872,
@@ -1035,7 +1098,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_055.html",
       "words": 290,
       "chars": 1706,
@@ -1055,7 +1118,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_056.html",
       "words": 354,
       "chars": 2245,
@@ -1075,7 +1138,7 @@
       ]
     },
     {
-      "title": "SKIPPY • Vybíjená",
+      "title": "SKIPPY",
       "file": "vybijena_057.html",
       "words": 1,
       "chars": 6,
@@ -1095,7 +1158,7 @@
       ]
     },
     {
-      "title": "JEFF • Vybíjená",
+      "title": "JEFF",
       "file": "vybijena_058.html",
       "words": 749,
       "chars": 4421,
@@ -1115,7 +1178,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_059.html",
       "words": 1604,
       "chars": 9876,
@@ -1135,7 +1198,7 @@
       ]
     },
     {
-      "title": "SKIPPY • Vybíjená",
+      "title": "SKIPPY",
       "file": "vybijena_060.html",
       "words": 1,
       "chars": 6,
@@ -1155,7 +1218,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_061.html",
       "words": 435,
       "chars": 2665,
@@ -1175,7 +1238,7 @@
       ]
     },
     {
-      "title": "AUTOR • Vybíjená",
+      "title": "AUTOR",
       "file": "vybijena_062.html",
       "words": 325,
       "chars": 1969,
@@ -1195,7 +1258,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_063.html",
       "words": 1045,
       "chars": 6296,
@@ -1215,7 +1278,7 @@
       ]
     },
     {
-      "title": "EVA • Vybíjená",
+      "title": "EVA",
       "file": "vybijena_064.html",
       "words": 649,
       "chars": 3823,
@@ -1235,7 +1298,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_065.html",
       "words": 1473,
       "chars": 8986,
@@ -1255,7 +1318,7 @@
       ]
     },
     {
-      "title": "EVA • Vybíjená",
+      "title": "EVA",
       "file": "vybijena_066.html",
       "words": 101,
       "chars": 625,
@@ -1275,7 +1338,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_067.html",
       "words": 606,
       "chars": 3713,
@@ -1295,7 +1358,7 @@
       ]
     },
     {
-      "title": "AUTOR • Vybíjená",
+      "title": "AUTOR",
       "file": "vybijena_068.html",
       "words": 284,
       "chars": 1687,
@@ -1315,7 +1378,7 @@
       ]
     },
     {
-      "title": "HUJEROVÁ • Vybíjená",
+      "title": "HUJEROVÁ",
       "file": "vybijena_069.html",
       "words": 445,
       "chars": 2643,
@@ -1335,7 +1398,7 @@
       ]
     },
     {
-      "title": "TOM • Vybíjená",
+      "title": "TOM",
       "file": "vybijena_070.html",
       "words": 400,
       "chars": 2504,
@@ -1355,11 +1418,11 @@
       ]
     },
     {
-      "title": "Tiráž • Vybíjená",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 138,
-      "chars": 902,
-      "ideas": 22,
+      "words": 117,
+      "chars": 755,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "vybijena_070.html",
@@ -1377,9 +1440,9 @@
   ],
   "totals": {
     "all": {
-      "words": 46128,
-      "chars": 279576,
-      "ideas": 1910
+      "words": 46107,
+      "chars": 279429,
+      "ideas": 1904
     },
     "chapters": {
       "words": 45985,
