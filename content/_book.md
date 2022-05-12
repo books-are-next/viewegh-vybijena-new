@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - vybijena_002.html
+  - promo.html
   - vybijena_005.html
   - vybijena_006.html
   - vybijena_007.html
