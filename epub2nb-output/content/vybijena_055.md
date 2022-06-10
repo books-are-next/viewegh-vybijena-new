@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Nám ošklivým ostatní lidé připadají nejen hezčí, ale zároveň i sebevědomější, chytřejší, vyrovnanější a celkově šťastnější – a obvykle nás šokuje, pokud zjistíme, že tomu tak není. Když například na Tomově svatbě Eva poprvé uvidí Kláru, okamžitě se stáhne do sebe. Nejsem sama, kdo si toho všimne. Jeff se jí několikrát na cosi ptá, ale ona mu vůbec neodpoví. Komunikuje jenom s malou Alicí. Jdeme ji s dalšími spolužačkami pozdravit a především zjistit její reakci na tu skandální podobu.
 
 „Tak co tomu říkáš?“ šeptá Zuzana a významně šilhá směrem k mladičké nevěstě.

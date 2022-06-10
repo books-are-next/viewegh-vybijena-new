@@ -3,8 +3,6 @@ title: TOM
 contentType: prose
 ---
 
-  
-
 Od začátku třetího ročníku, prakticky celý podzim, mluvíme s Jeffem o tom, že tentokrát s sebou na hory o vánočních prázdninách už _opravdu_ vezmeme holky: Evu a Zuzanu.
 
 „Blázníš?“ říká Zuzana, když jí to navrhnu.

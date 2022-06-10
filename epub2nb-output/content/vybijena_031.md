@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Chcete vědět, jaký je největší skutečný erotický zážitek mého mládí? Zajímá vás, co v mém reálném sexuálním životě tvoří onu vrcholnou chvíli, ještě po letech znovu a znovu ožívající v mých vzpomínkách, zkrátka onu klíčovou scénu, při které v amerických filmech hudba pokaždé nápadně zesílí a ozvou se smyčce?
 
 Řeknu vám to: jeden jediný polibek.

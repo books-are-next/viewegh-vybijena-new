@@ -3,8 +3,6 @@ title: JEFF
 contentType: prose
 ---
 
-  
-
 Prosinec 2003: sedačka lanovky je vyváží k jednomu z mnoha zasněžených vrcholů Dolomit. Nebe je azurově modré. Oba páry lyží (Tomovy jsou sedm let staré, téměř dvoumetrové, zatímco Jeff si loni koupil nejnovější model krátkých carvingových lyží značky Atomic) se vznášejí nad širokým pásem jiskřícího sněhu, lemovaným po stranách nízkým borovicovým porostem; tu a tam se mezi převažující temnou zelení objeví řídká, žlutohnědá koruna modřínu.
 
 „Tak to vidíš,“ prohodí Tom, „už zase na horách sami…“

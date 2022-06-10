@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 První pomaturitní sraz se koná v restauraci U Medvídků na Perštýně, ale z tramvaje vystoupím už na Karlově náměstí: jednak mám tuhle zastávku odjakživa radši než ty věčné tlačenice před obchodním domem Máj – a za druhé si cestou aspoň zopakuji základní údaje o Liborovi. Před kostelem sv. Ignáce přejdu Ječnou a parkem dojdu k Novoměstské radnici – právě tady si v roce 1963 bral táta mou mámu. Záměrnou oklikou pokračuji Vodičkovou do Jungmannky, kde ke mně před Tuzexem automaticky nakročí jeden z přítomných veksláků – když si mě prohlédne líp, otočí se zády a koutkem úst cosi říká svému kolegovi. Proti své vůli zrychlím, ale jejich zlý řehot mě po pár metrech stejně dohoní.
 
   

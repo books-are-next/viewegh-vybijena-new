@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Z toho strašlivého nonstopu se vyhrabeme teprve po sedmé, a než se dostanu domů, je osm. Boris už dělá dětem v mikrovlnce kakao. Připomenu si, jak táta loni v létě spolu s mikrovlnným ohřevem omylem zapnul i gril, takže plastová miska, do níž jsem mu nachystala oběd, se žárem zbortila a jídlo se připeklo na skleněný talíř na dně. Od té doby si veškeré jídlo ohříval výlučně na plynovém sporáku. Mobilní telefon rovněž odmítl. Do jedenadvacátého století se nehodil – jako by ty tři roky přesluhoval. Airbagům a systémům ABS se posmíval (natožpak reflektorům, které se při pohybu volantu natáčejí po směru jízdy). Jeho svět, to byl autobus s přívěsem, telefon s kruhovým číselníkem a těžký hranatý radiomagnetofon Grundig. V posledních letech mi připadal jako ti staříci, které si občas moji klienti – bezpochyby vedeni ušlechtilou vůlí – berou s sebou do svých nových dvougeneračních bytů a kteří pak bloudí mezi vším tím minimalistickým designem, zmateně hledí na futuristické vodovodní baterie a marně hledají kohoutek.
 
 „Ááá, už jsme doma,“ říká Boris naoko nakvašeně. „A smrdíme jak fabrika na tabák.“

@@ -3,8 +3,6 @@ title: TOM
 contentType: prose
 ---
 
-  
-
 Rádio hraje jakousi obvyklou plytkost – a Klára dálkovým ovladačem zesílí zvuk. Podrážděně vzhlédnu od čtvrtletních slohových prací, ale vůbec si toho nevšimne: leží zády ke mně na pohovce _Karlanda_ a čte si časopis Elle. Stříbrným hrotem propisovačky si zlehka poklepává na rty. Náhle si všimnu, že její ústa se pohybují. Není pochyb, zná ten hloupý text zpaměti.
 
 Zařízení naší garsoniéry je hned trojím kompromisem: nejprve bylo třeba sladit Klářiny představy (IKEA naroubovaná romantismem dívčích pokojíčků) s mými (originalita, minimalismus, účelnost), výsledek přizpůsobit finančním možnostem a nakonec ze zdvořilosti ještě i několika studiím Hujerové, které mi vzhledem k našemu dlouholetému přátelství (jak to poněkud nadneseně sama vyjádřila) udělala zcela zdarma.

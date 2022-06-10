@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Fakta: narodila jsem se dvaadvacátého listopadu roku devatenáct set šedesát tři – přesně v den, kdy zastřelili Johna F. Kennedyho (někdy si říkám, jestli ten atentát symbolicky nepředznamenal všechna ta následující předčasná úmrtí…), rozvedenému pětatřicetiletému řidiči autobusu a sedmnáctileté studentce střední ekonomické školy.
 
 O mámu jsem se celá léta vůbec nezajímala; většinu z toho, co o ní vím, jsem se od otce dozvěděla teprve loni a letos v nemocnici. Pokud máte zkušenost s pravidelnými návštěvami takzvaně dlouhodobě nemocných, pak jistě víte, jak pomalu při nich nám zdravým plyne čas. Co si budeme nalhávat: po půl roce, ne-li dříve, jsou naše zásoby lítosti a soucitu z velké části vyčerpány a ve skladišti našeho srdce se začnou objevovat holé stěny povinnosti a nudy (občas se přistihuji, že mluvím jako Tom). Všechna představitelná témata jsme s tátou mnohokrát probrali, takže v posledních týdnech převážně mlčíme, pozorujeme modré pruhy na zašpiněném erárním povlečení a občas se na sebe povzbudivě usmějeme. V hodinách na bílé zdi každou minutu suše klapne. Přemýšlím, co ještě bych mu řekla – jenže co se dá vyprávět někomu, kdo tu za pár měsíců už nejspíš nebude? Povídejte umírajícímu o problémech s parkováním nebo o nových trendech ve skandinávském nábytku… Tohle vědomí mě od počátku natolik ochromuje, že po pár týdnech beru zavděk jakýmkoli jakž takž _použitelným_ námětem k hovoru – dokonce i takovým, který byl ještě nedávno v naší nekompletní rodině tabu.

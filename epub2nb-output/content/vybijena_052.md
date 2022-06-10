@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Tom si mě docela samozřejmě přivine a políbí mě na tvář.
 
 Vzniklo to takhle: Boris večer zaskočil do Barety pro dvě pizzy s černými olivami a hermelínem a narazil tam na Toma, který ho kupodivu poznal, přestože se viděli jen jednou v životě, na naší svatbě. Tom seděl sám a zřejmě postrádal společnost, protože ihned objednal láhev bílého; když ji vypili, Boris ho pozval k nám (z mých vzpomínek už dávno pochopil, co pro mě Tom kdysi znamenal, a chtěl mi udělat radost).

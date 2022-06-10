@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Tři roky po maturitě spáchá Irena Větvičková sebevraždu.
 
 Dozvím se to týž den večer od její matky (nejhorší telefonát mého života) jako první ze třídy – čili je bohužel na mně, abych to sdělila svým milým spolužákům. Dám si dva panáky fernetu a zavolám Tomovi.

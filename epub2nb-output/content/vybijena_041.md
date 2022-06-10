@@ -3,8 +3,6 @@ title: TOM
 contentType: prose
 ---
 
-  
-
 S úlevou shledávám, že potlučené šedivé dveře plechové skříňky na chodbě tentokrát nejsou vypáčené a že Janina fotografie je nepoškozená (na té předešlé měla nožem rozřezaná ňadra). Prohlížím si svou sváteční uniformu se zlatými prýmky, bílou košili, čepici s odznakem: laciné občasné huj, mající zakrýt každodenní fuj, všechnu tu špínu, řev a smrad. Náhle pocítím podivnou apatii. Pomalu, vstoje si zouvám sešlapané kanady (minimálně tři roky je přede mnou nosili jiní), svlékám si tuhé zatuchlé ponožky, zablácené maskáče i zelenou košili, naházím všechno na dno skříňky, znovu ji zamknu a jen v trenkách a tílku přecházím do umývárny.
 
 „Chemická očista, co?“ říká zavalitý dozorčí, když míjím jeho neutěšené stanoviště naproti vstupním dveřím.

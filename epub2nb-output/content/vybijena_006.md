@@ -3,8 +3,6 @@ title: EVA
 contentType: prose
 ---
 
-  
-
 Po rozvodu už zůstane sama.
 
 Všichni jí tenkrát říkali, že v devětadvaceti a hlavně se svou vizáží (nenávidí to slovo) nebude mít nejmenší problém najít si chlapa, ale ona vlastně žádného nehledá. Občas sice nějaké to pozvání na kávu nebo do divadla přijme – jenže nikdy z toho nic není. Většinou jí to už od začátku připadá takové… usilovné. Ti muži se velice snaží, což je možná právě ta chyba. Usmívá se, pozoruje ty drahé kravaty a poslouchá jednu vtipnou historku za druhou (Jeff tvrdíval, že její absence smyslu pro humor hraničí s mentálním postižením), ale v duchu už se těší, jak se vrátí domů, napustí si vanu, dá si do ní mandarinkovou pěnu a bude poslouchat to nové cédéčko U 2. Dá se tohle pochopit? Většina jejích kamarádek (natožpak její matka) by řekla, že nedá.

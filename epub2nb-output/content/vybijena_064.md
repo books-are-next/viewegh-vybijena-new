@@ -3,8 +3,6 @@ title: EVA
 contentType: prose
 ---
 
-  
-
 Na třídní srazy, které s obdivuhodnou vytrvalostí každoročně organizují Marie a Zuzana, se pokaždé docela těší – dokonce víc, než dokáže pochopit. Co si od toho pořád slibuji? ptá se Eva sama sebe, ale stejně si vždycky zajde k holiči a koupí něco nového na sebe.
 
 V posledních letech účast opět stoupá. Asi za tím bude sentiment. Jak říká Tom: _nostalgie se chytá čehokoliv_. Prý si začali uvědomovat, že jiné, lepší mládí už nedostanou, a snaží se spokojit s tím, co skutečně bylo. Navíc jim tahle setkání dávají _jistotu předvídatelnosti_: svět se mění tak rychle, až je to začíná děsit – na srazech se sice občas vzájemně překvapují, ale neděsí. Vědí, co od sebe mohou čekat. Možná na tom něco bude.

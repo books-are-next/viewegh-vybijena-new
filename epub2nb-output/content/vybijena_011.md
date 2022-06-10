@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 K věci: nejsem hezká. Ani trochu, vážně. Jsem _spíše ošklivá_, což bohužel není falešná skromnost, nýbrž realita. Ukažte moji fotku (třeba tu naprosto příšernou z občanky, ale klidně i tu o něco málo lepší z pasu, nebo třeba tu ze řidičáku, ono to vyjde nastejno) deseti náhodně vybraným lidem a dejte jim čtyři možnosti: _krásná, celkem hezká, spíše ošklivá a ošklivá_ – a můžete se vsadit, že minimálně sedm z nich bez váhání zaškrtne céčko a že od každého puberťáka, i kdyby byl sebeuhrovitější, dostanu pochopitelně déčko.
 
 Tak s tímhle žiju – pouze s tím rozdílem, že lidem na ulici neukazuju fotku, nýbrž rovnou svůj ksicht. I puberťákům.

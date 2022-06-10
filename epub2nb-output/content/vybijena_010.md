@@ -3,8 +3,6 @@ title: AUTOR
 contentType: prose
 ---
 
-  
-
 Je mu čtrnáct a půl roku; měří sto šedesát dva centimetrů.
 
 Rád nosí jednobarevné košile s rozhalenkou, do nichž si uvazuje hedvábný šátek. To hnědé semišové sáčko mu vlastnoručně ušila babička Věra, kožešnice. S výsledkem je očividně spokojená: když si autor sako poprvé oblékne, několikrát použije slovo nóbl.

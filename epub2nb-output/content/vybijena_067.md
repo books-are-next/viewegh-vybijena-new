@@ -3,8 +3,6 @@ title: TOM
 contentType: prose
 ---
 
-  
-
 O půlnoci už je nás jenom devět; vsadil bych se, že si všichni v duchu umiňují, že příští rok nepřijdou. Eva mě žádá, abych jí zavolal taxík.
 
 „Abiturientské srazy, zrcadla našich zmarněných životů,“ pravím.

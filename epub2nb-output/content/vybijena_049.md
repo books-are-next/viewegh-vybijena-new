@@ -3,8 +3,6 @@ title: JEFF
 contentType: prose
 ---
 
-  
-
 Po celou dobu vztahu s Evou se sprchuje dvakrát, někdy i třikrát denně.
 
 „Smrdíš, sportovče,“ říkává mu.

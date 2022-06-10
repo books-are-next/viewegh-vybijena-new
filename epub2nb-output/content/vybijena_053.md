@@ -3,8 +3,6 @@ title: TOM
 contentType: prose
 ---
 
-  
-
 Ráno mě v koupelně cosi zarazí: jsem čerstvě ostříhaný (svatba je svatba) a zrcadlo je čisté. Umývadlo také. Rozhlédnu se: koupelna je uklizená. Historie se opakuje.
 
 Když přijdu do kuchyně, na stole je prostřeno pro tři – znamená to, že na společnou snídani zřejmě dorazí i Jeff. Skippy stojí u sporáku a chystá mi šunku s vejci.

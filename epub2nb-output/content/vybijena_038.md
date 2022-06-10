@@ -3,8 +3,6 @@ title: JEFF
 contentType: prose
 ---
 
-  
-
 I když má pro Skippyho odjakživa slabost, v poslední době se občas přistihuje, že mu jde na nervy: například prakticky vůbec nenakupuje. Tvrdí, že úplně vystačí s jídlem, které přinášejí Jeff s Tomem – tváří se, jako by to byl bůhvíjak skvělý vtip, ale bohužel je to pravda.
 
 Když už se Skippy na nákup vydá, pokaždé to něco znamená. Jestliže například tak jako dnes nakoupí samé čisticí prostředky, je to nepřímý důkaz jeho úmyslu přivést si do _Doupěte_ dámskou návštěvu.

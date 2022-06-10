@@ -3,8 +3,6 @@ title: JEFF
 contentType: prose
 ---
 
-  
-
 Když mu Tom poprvé představí Kláru (náhodně se potkají na náměstí Bratří Synků), její podoba s Evou Jeffovi skoro vyrazí dech – ale dělá, že si ničeho nevšiml.
 
 „Seznamte se, rychle. Klára si ještě musí udělat domácí úkol z přírodopisu,“ žertuje nuceně Tom.

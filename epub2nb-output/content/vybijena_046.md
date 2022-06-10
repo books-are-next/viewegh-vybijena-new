@@ -3,8 +3,6 @@ title: JEFF
 contentType: prose
 ---
 
-  
-
 Kamkoli s Evou po svatbě přijede – na návštěvu ke známým, na chatu, na dovolenou k moři – vždycky tam jsou. _Malí nápadníci_. Takhle jim Eva říká. Nejčastěji je jim tak pět až deset. Když Evu poprvé spatří, dlouze na ni civí s otevřenou pusou – a během následujících dvou minut se do ní bezhlavě zamilují. Od té chvíle se od ní nehnou. Nechají si přinést pastelky a nakreslí pro ni ten nejkrásnější obrázek, jaký dovedou. Když musí Eva na záchod, jdou s ní a čekají oddaně přede dveřmi.
 
 „Alespoň doufám,“ říká kysele Jeff.

@@ -3,8 +3,6 @@ title: EVA
 contentType: prose
 ---
 
-  
-
 Vybíjenou postupně přestane mít ráda. Je sice celkem příjemné být v centru pozornosti, ale zároveň ji to vždycky znervózňuje. Nakonec ji to omrzí. Skoro pokaždé je kapitánkou, takže ji věčně sledují – komu nejvíc přihrává, jak se kroutí a jak nadskakuje, aby ji míč netrefil. Její tajné rozladění určitě souvisí i s tím, že ji od začátku nadhání Jeff – a nejen při vybíjené. Zpočátku se to ještě snaží skrývat, ale po pár týdnech už o ni usiluje zcela nepokrytě. Ráno přijde do třídy a podívá se na ni tak, že nemusí nic říkat… Je to stejné, jako když se ji na sportovkách pokouší vybít – dokonce mívá v očích týž zuřivý výraz.
 
   
