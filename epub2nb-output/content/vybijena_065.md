@@ -3,6 +3,8 @@ title: TOM
 contentType: prose
 ---
 
+<section>
+
 Na každém setkání bývalé třídy, obvykle hned na úvod, musím spolužákům vyprávět, co se za poslední rok na _našem_ gymnáziu změnilo; už se z toho stal jakýsi rituál. Ani letošní sraz není výjimkou.
 
 „Tak co je novýho, povídej,“ žádá mě bez okolků Marie.
@@ -43,7 +45,9 @@ Bublinu trapnosti, která nás dočasně uvězní, překvapivě propíchne Eva.
 
 Životem unavená, prošedivělá a obtloustlá třída se směje.
 
-  
+</section>
+
+<section>
 
 Řeč se později točí v předpokládaných kruzích: odrůstající děti, byty, nemoci rodičů, nemoci vlastní, recepty, doporučené léky. Rozdíl mezi mládím a stářím: o vaginálních čípcích se ve čtyřiceti mluví nahlas. Hujerové nedávno zemřel otec, takže dojde i na slzy a na pět minut všichni zvážníme. Víno je dobré, objednávám další dvě láhve a přitom si zkouším představit naši _sešlost_ z pohledu té mladičké servírky. Znovu si doliji; jako obvykle mám značný náskok – a tradičně to maskuji dlouhými, spatra pronášenými citáty.
 
@@ -158,3 +162,5 @@ Teprve nyní se vzpamatuji. Uhýbám servírce, aby mohla odnést prázdné skle
 „Sorry. Asi mám dneska hádavou.“
 
 „Ježíšikriste,“ říká Hujerová, „dyk ty v tom muzeu žiješ pořád.“
+
+</section>

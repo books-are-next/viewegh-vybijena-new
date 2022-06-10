@@ -3,6 +3,8 @@ title: TOM
 contentType: prose
 ---
 
+<section>
+
 Na tabuli v hale u pokladen je napsáno, že venkovní teplota je patnáct stupňů; voda má údajně devatenáct. Říkám, že bychom mohli bazén pro změnu vynechat a jít třeba do kina; Jeff je pro, ale Eva nás prosí, ať to nevzdáváme.
 
 „Já si prostě _musím_ zaplavat,“ tvrdí. „Musím!“
@@ -13,7 +15,9 @@ Jeff se na mě podívá.
 
 Eva radostně přiskočí a políbí mě na tvář.
 
-  
+</section>
+
+<section>
 
 Studený vítr trhá kalnou oblohu na šedobílé cáry. Koupaliště je úplně vylidněné, i plavčík zalezl dovnitř, v bazénu se pravidelně míjejí jediní dva plavci. Jeff a já sedíme ve dřepu zády ke vchodu do dámských šaten, každý po jedné straně, jektáme zubama a snažíme se co nejvíc schoulit do malých mokrých ručníků (velké osušky nikdy nenosíme, bůhvíproč nám připadají zženštilé).
 
@@ -46,3 +50,5 @@ Všichni tři se jako na povel rozběhneme, ale před bazénkem s dezinfekcí s
 Podobné grimasy, nekontrolovatelné záchvaty smíchu a především všemožné prostocviky a poskakování tvoří poslední spojnici s jejím dětstvím. Přeberu od ní velkou sportovní kabelu (_trýznivá zdvořilost_, dočtu se o mnoho let později v _Alexandrijském kvartetu_ Lawrence Durrella) a Jeff Evu vezme do náruče. Nese ji mnohem dál než pouze za hranu bazénku: buď jí chce demonstrovat svou sílu, nebo se snaží vzdálit co nejdál ode mě. Dívá se jí do očí, Eva jeho pohled opětuje – já sleduji pro změnu její dočasně zdeformovaná ňadra a překvapivě tmavé chloupky, které jí vylézají z plavek. Moje vylézající chloupky nepozoruje nikdo. Na dlouhé vteřiny přestávám existovat. Stojím po kotníky v jakémsi studeném chemickém roztoku, třesu se zimou a oběma rukama pevně svírám Evinu tašku.
 
 Začíná květen, měsíc lásky.
+
+</section>

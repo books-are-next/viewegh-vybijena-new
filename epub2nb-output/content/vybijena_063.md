@@ -3,6 +3,8 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
+<section>
+
 Stromy v nemocničním areálu jsou z větší části opadané a mezi holými větvemi objevuji budovy, které ještě před pár týdny nebylo vidět. Listí seschlo a ztvrdlo, při každém závanu studeného listopadového větru o asfalt skoro skřípe; na mnoha místech už je z něj jen hnědá drť, ale pod třešní u pavilonu, kde leží táta, jsou ještě poslední syté barvy: teplá žlutá a karmínová. Chytám se jich očima jako tonoucí stébla.
 
 „Tati? Chtěl bys napít?“
@@ -19,7 +21,9 @@ Je to alkoholik ve _finálním stadiu_ (když mi to sestra říká, položím si
 
 Táta už nemluví vůbec, jenže jeho oči jsou otevřené. Děsí mě to. Co proboha vidí? říkám si. Na co myslí? Pohladím ho po ruce a přiblížím dudlík láhve k jeho propadlým, neoholeným ústům. Nereaguje; teprve když láhev nakloním víc a on ucítí první kapky, nepatrně pohne rozpraskanými rty a začíná sát. Před čtyřiceti lety takhle krmil on mě.
 
-  
+</section>
+
+<section>
 
 V minulosti jsem někdy bývala raději, když mlčel – například tenkrát, když u nás byla na návštěvě Irena.
 
@@ -69,7 +73,9 @@ Po chvíli se to vysvětlí: má za sebou nejhorší incident své kariéry. _Zp
 
 Táta byl v naprostém šoku. Dělalo mu potíže udržet autobus na silnici. Větší ponížení nikdy v životě nezažil. Ještě když mi to vypráví, celý se klepe. Za komunistů se mu nic podobného nestalo.
 
-  
+</section>
+
+<section>
 
 V posledních letech volí lidovce. Když mi to po jistém naléhání konečně neochotně prozradí, zalapám po dechu.
 
@@ -89,7 +95,9 @@ Podívá se na mě.
 
 Víc z něj nikdy nedostanu.
 
-  
+</section>
+
+<section>
 
 Ještě minulý týden mluvil.
 
@@ -128,3 +136,5 @@ Táta znovu usíná.
 „Pletená vesta,“ odpovídám konejšivě. „Má ji jeden ze sta.“
 
 Ztiší se i tentokrát. Aspoň to mě potěší.
+
+</section>

@@ -3,6 +3,8 @@ title: JEFF
 contentType: prose
 ---
 
+<section>
+
 Když mu Tom poprvé představí Kláru (náhodně se potkají na náměstí Bratří Synků), její podoba s Evou Jeffovi skoro vyrazí dech – ale dělá, že si ničeho nevšiml.
 
 „Seznamte se, rychle. Klára si ještě musí udělat domácí úkol z přírodopisu,“ žertuje nuceně Tom.
@@ -15,7 +17,9 @@ Ta podoba doslova bije do očí. Jeffovi to připadá podobné, jako když si n�
 
 „Příští víkend se jedu formálně představit rodičům,“ usmívá se Tom a obejme Kláru kolem ramen. „Říkám formálně, protože mě znají z třídních schůzek.“
 
-  
+</section>
+
+<section>
 
 Když Jeff to setkání doma převypráví Evě, upřímně ji tím pobaví. Už dlouho se mu ji rozesmát nepodařilo, a tak je rád, že projednou našli společné téma. Otevře láhev červeného a celý večer ten věkově nesourodý vztah rozebírají. Jeff zastává názor, že Klára je pro Toma – ať vědomě, či nevědomě – pouhou náhražkou něčeho, co se mu nepodařilo získat v mládí.
 
@@ -36,3 +40,5 @@ Eva se mu opře o rameno. Napije se vína a přivře oči. Potom líně prohod
 „Je to trochu pubertální,“ souhlasí Eva. „Už by snad konečně mohl dospět.“
 
 Toho večera se po třech týdnech znovu milují.
+
+</section>

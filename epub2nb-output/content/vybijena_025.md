@@ -3,6 +3,8 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
+<section>
+
 Školní chodba o přestávce před biologií: sedím na teplém radiátoru, formálně nahlížím do sešitu (všechno už jsem se samozřejmě na­učila doma) a nahřívám si svou panenskou prcinku – když z ničeho nic přijde útok.
 
 „Podle mě Hujerová s tim svym klukem normálně kecá,“ říká Marie tak, abych to slyšela.
@@ -77,7 +79,9 @@ Nyní se už kromě Marie smějí všechny.
 
 „Jako koláč!“ odsekne Marie, ale ví, že prohrála.
 
-  
+</section>
+
+<section>
 
 Venku před gymnáziem se na vteřinu ohlédnu: vycházející studenti z nižšího ročníku vypadají tak samozřejmě, tak nevinně. Vzduch je příjemně ostrý a oprýskanou fasádu školní budovy pozlacuje nízké odpolední slunce. Tuší vůbec lidé na ulici, že za tou teplou barvou se může ukrývat malé peklo?
 
@@ -119,7 +123,9 @@ _Pani s natáčkama_. Otcova univerzální představa ženy středního věku. 
 
 „Polévka s kapáním,“ říkám škádlivě.
 
-  
+</section>
+
+<section>
 
 Po večeři se zavřu v pokoji. Vlezu pod postel, kam si schovávám _hezké_ papírové krabice (je mi sedmnáct, ale začínám mít staropanenské zvyky!), vyndám tu úplně největší a rozložím ji. Na lícové straně je barevný potisk, ale vnitřek je bílý. Vezmu nůžky, ustřihnu obě větší boční stěny a potom vytáhnu z šuplíku barevné fixy. Je půl osmé a já musím do zítřejšího rána dotvořit svého zatím až příliš neurčitého chlapce: jeho postavu, výšku a váhu, jeho vlasy, oči (hnědé? nebo radši zelené?), hlas, chůzi. Měla bych znát číslo jeho košile i číslo bot. Musím umět popsat jeho rodiče (co kdyby jeho matka byla nějaká pani s _natáčkama_?), a pokud možno i prarodiče. Taky jeho zvyky a koníčky: jaký dělá sport, jaké má auto, v kolik hodin o víkendu vstává a kam jezdí na dovolenou. Musím znát jeho pachy a vůně, značku jeho cigaret i jména kolegů z práce. Musím vědět, jestli v noci chrápe. Je třeba jasně definovat jeho přednosti a nedostatky. Pochopitelně je třeba zvážit, jak líbá, a rozhodnout se, jestli budeme používat kondom. Dále si musím vymyslet nejčastější důvody našich hádek i způsoby, jakými se obvykle usmiřujeme. A tohle všechno se musím naučit nazpaměť.
 
@@ -128,3 +134,5 @@ Nutně zkrátka potřebuji, aby ta nevěrohodná fiktivní postava jménem Libor
 Jak moc jsem zoufalá?
 
 Jak moc nějakého opravdového Libora potřebuju?
+
+</section>

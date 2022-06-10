@@ -3,13 +3,17 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
+<section>
+
 Svatba byla v jistém smyslu moje životní dílo.
 
 Vždycky jsem ostatně věřila, že kdybych si dala skutečně záležet, jsem schopna dočasného, _potěmkinovského_ půvabu – a svatba mi tohle tušení naštěstí potvrdila. Za pomoci čtvrt kila mejkapu, pudru, rtěnky, řasenky, tužky na obočí, bělící zubní pasty, laseru, podprsenky _push-up_, šněrovačky, krémových svatebních šatů z Paříže (se dvěma nenápadně vsazenými klínky) a prosté kytičky čajových růží jsem vytvořila něco jako katedrálu z písku. No vida, říkala jsem si před zrcadlem spokojeně (táta stál za mnou a dusil se štěstím), stačí jedna kadeřnice, kosmetička, dermatoložka, dvě dámské krejčové a květinářka – a na několik hodin nejsem ošklivá. Od příchodu na nuselskou radnici až do oběda v protilehlé restaurace U Bansethů jsem dokonce byla _svým_ _způsobem_ krásná. Bývalé spolužačky si mě podezíravě prohlížely a spolužáci se v duchu snažili přijít na to, proč mě vlastně na gymplu neojeli.
 
 Alespoň doufám.
 
-  
+</section>
+
+<section>
 
 Boris má na mé přání frak, v němž je poněkud nesvůj – a když mě kolega Stančev po obřadu dlouze políbí na ústa (vůbec nechápu, co to do něj vjelo), jeho nervozita ještě vzroste.
 
@@ -46,3 +50,5 @@ Smích svatebčanů obsahuje slyšitelnou úlevu.
 „Na zdraví ženicha a nevěsty!“ vykřikne Skippy do potlesku. „A sukně hore!“
 
 O tři hodiny později si ty nádherné šaty svléknu, jediný použitelný obličej svého života spláchnu do umývadla a proměním se zpátky v Hujerovou.
+
+</section>

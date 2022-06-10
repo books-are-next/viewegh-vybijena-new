@@ -3,6 +3,8 @@ title: EVA
 contentType: prose
 ---
 
+<section>
+
 Po rozvodu už zůstane sama.
 
 Všichni jí tenkrát říkali, že v devětadvaceti a hlavně se svou vizáží (nenávidí to slovo) nebude mít nejmenší problém najít si chlapa, ale ona vlastně žádného nehledá. Občas sice nějaké to pozvání na kávu nebo do divadla přijme – jenže nikdy z toho nic není. Většinou jí to už od začátku připadá takové… usilovné. Ti muži se velice snaží, což je možná právě ta chyba. Usmívá se, pozoruje ty drahé kravaty a poslouchá jednu vtipnou historku za druhou (Jeff tvrdíval, že její absence smyslu pro humor hraničí s mentálním postižením), ale v duchu už se těší, jak se vrátí domů, napustí si vanu, dá si do ní mandarinkovou pěnu a bude poslouchat to nové cédéčko U 2. Dá se tohle pochopit? Většina jejích kamarádek (natožpak její matka) by řekla, že nedá.
@@ -19,7 +21,9 @@ Všechno se tak obtížně vysvětluje. Všechno je v komunikaci, říkával Je
 
 „Komunikuj se mnou! Mluv! Jak mám tvoje tajuplný ženský pocity respektovat, když se mi je ani nepokusíš popsat? Jak se v tobě má člověk doprdele vyznat?“
 
-  
+</section>
+
+<section>
 
 Alice jí vyčítá, že v poslední době tráví ráno v koupelně čím dál víc času. Asi má pravdu, neměří si to. Seznam různých kosmetických nedostatků, které je třeba každé ráno nějak ošetřit či alespoň zakrýt, roste teď po čtyřicítce tak rychle, až ji to začíná zneklidňovat. V osmnácti jí ranní toaleta netrvala ani pět minut: vyčistila si zuby, opláchla obličej studenou vodou, natřela se prvním krémem, který na umývadle našla, projela si vlasy kartáčem – a všichni jí pak celý den říkali, jak je krásná. Když v sobotu ráno sešla dolů do kuchyně ke společné snídani, na otcově tváři se pokaždé objevilo radostné překvapení, téměř úžas. Až jí to vůči mámě připadalo netaktní. Někdy dokonce odložil rozečtené noviny a pozoroval, jak se pokouší smontovat jednotlivé díly kuchyňského robota, aby si mohla ze tří žlutozelených kubánských pomerančů udělat čerstvý džus.
 
@@ -37,7 +41,9 @@ Připadá jí, jako by to bylo včera. Dneska stráví v koupelně celou hodinu
 
 Někdy jí připadá, že se dcera začíná vyjadřovat jako Tom.
 
-  
+</section>
+
+<section>
 
 Večer bývá skoro vždycky doma. Chodila na jógu pro začátečníky, ale po půl roce toho nechala: ty polohy jí připadaly legrační, což musela před zapálenou cvičitelkou neustále skrývat. Paradoxně ji to definitivně přestalo bavit ve chvíli, kdy úspěšně zvládla první složitější cviky. Šlo jí to lépe než ostatním, cvičitelka ji chválila a dávala za příklad, ale Eva si v těch nepřirozených pozicích připadala trapně. Můžu se klidně stavět na hlavu, ale stejně zůstanu rozvedená, říkala si v duchu.
 
@@ -49,7 +55,9 @@ Eva neví. Je to její vina?
 
 Z té televize má hlavu plnou nejrůznějších reklamních sloganů a popěvků. Samozřejmě si tyhle věci nechce pamatovat. Je to slovní balast, kterého se nedokáže zbavit. Minulý týden viděla v rohovém podloubí na náměstí I. P. Pavlova močit jakéhosi muže. _Chlapi sobě_, napadlo ji okamžitě. Odvrátila pohoršeně zrak na střechu nejbližšího domu. _Bramac. Střecha na celý život_. Někdy si říká, jestli nějak takhle nezačíná přechod?
 
-  
+</section>
+
+<section>
 
 Do práce jezdí metrem, neboť cesta autem by jí v ranní špičce trvala skoro dvakrát déle. Vagóny bývají přeplněné, což upřímně nesnáší. Pokud se jí výjimečně podaří najít volné místo, listuje si v novinách. Čte jen přílohy: Volný čas, Kulturu, Zdraví, Finance; v domácím i zahraničním zpravodajství obvykle jen přelétne titulky. Nikdy se nedokázala přinutit, aby se o politiku zajímala víc. Řídí se spíše instinktem: všímá si, jak se ten či onen politik tváří, jak mluví, jak se obléká.
 
@@ -60,3 +68,5 @@ Do práce jezdí metrem, neboť cesta autem by jí v ranní špičce trvala sko
 „Takže kdyby Grebeníček vypadal jako Richard Gere, budeš volit komunisty?“
 
 Občas se na noviny nedokáže soustředit vůbec a místo toho nenápadně pozoruje spolucestující – hlavně ženy. Pod nohama cítí otřesy a vibrace mnohatunového podvozku. Jak to zvládáte vy? chtěla by se jich někdy zeptat. Nepřipadá vám život k neunesení těžký? Jak to, že jsme ještě tady? Jak to, že jsme stejně jako Irena neskončili dole v kolejišti?
+
+</section>

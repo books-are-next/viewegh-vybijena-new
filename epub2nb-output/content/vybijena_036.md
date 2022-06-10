@@ -3,11 +3,15 @@ title: EVA
 contentType: prose
 ---
 
+<section>
+
 _Autoerotiku neprovozuje_, říkával Jeff. Ne snad že by ji to nějak pohoršovalo, to ne, ale zřejmě se sama před sebou stydí.
 
 Jednou ve čtrnácti to ze zvědavosti zkusí: vykoupe se, popřeje rodičům dobrou noc, tiše se v pokojíčku zamkne, zatáhne závěsy a zhasne – a přesto se jí zdá, že ji všechny ty známé předměty kolem, jejichž obrysy nyní pouze tuší, udiveně, nesouhlasně pozorují. Upírá oči do tmy a připadá si natolik divně, jakoby _cize_, že toho po chvíli nechá – a ani později nemá potřebu se k tomu zážitku vracet. Prostě s tím nezačne, takže jí to nechybí – to je celé. Jeff se v oněch nekonečných měsících, kdy ho znovu a znovu odmítá, pochopitelně začne domnívat, že je Eva _tak trochu frigidní_. Nemůže mu to vyčítat a ani mu to nevymlouvá, ale od oné suplované hodiny s Varteckým ví své.
 
-  
+</section>
+
+<section>
 
 Varteckého vstup do třídy provází zvědavé ticho – nečekají ho. Není žádný mladík, už překročil čtyřicítku; je vysoký, statný, trochu při těle. Nedávno se zřejmě nechal ostříhat (Eva to pozná podle světlých proužků pod okraji kotlet), ale na tváři má přinejmenším dvoudenní strniště. Oblečení: světle hnědé manšestráky a tmavá kostkovaná košile s ohrnutými rukávy. V silných opálených rukách nese gramofon, dva reproduktory a několik desek; úplně nahoře leží odřená kožená aktovka. Bez nejmenší nervozity si třídu prohlíží, téměř jednoho po druhém. Vyzařuje z něj sympatická sebejistota, na rozdíl od mnoha jiných učitelů nemusí o svou autoritu bojovat. Evu to uklidní: odjakživa bývá nervózní za jiné lidi, takže když narazí na někoho – jak to říct –_soběstačného_, je to pro ni vždycky úleva.
 
@@ -61,7 +65,9 @@ Nepoznává se. Polkne. Dýchá.
 
 Udělá krok k němu. Přitáhne si ji dvěma prsty za bradu a zkoumavě ji políbí; ona mu polibek oplatí a potom odběhne.
 
-  
+</section>
+
+<section>
 
 „Kdyby mi už tenkrát v kabinetě nařídil, abych se svlékla, udělám to,“ říká o dvě desetiletí později Skippymu. „Udělala bych _cokoliv_, chápeš?“
 
@@ -78,3 +84,5 @@ Skippy si nešťastně přikryje rukama tvář. Evu napadne, že vypadá jako po
 Eva ho překvapeně pohladí po tváři.
 
 „To je život, Skippy,“ říká. „Já za to přece nemůžu.“
+
+</section>

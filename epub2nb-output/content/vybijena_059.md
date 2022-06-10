@@ -3,9 +3,13 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
+<section>
+
 Můj manžel Boris je dozorčí v metru. Jeho životním posláním je upozorňovat cestující, že přijíždějící souprava končí ve stanici Kačerov. Po všech dívčích snech o úspěšném, bohatém manželovi, který mi na odchodu do práce pokaždé s úsměvem pošle vzdušný polibek (já a naše tři rozkošné děti stojíme na prosklené terase funkcionalistické předměstské vily), žiju na sídlišti v paneláku s člověkem, který osm hodin denně buzeruje lidi, že překročili bezpečnostní čáru.
 
-  
+</section>
+
+<section>
 
 Když se na cestách za úspěšnými lidmi, kterým zařizuji byt, nemohu vyhnout stanici metra, kde Boris pracuje, stoupám si alespoň tak, aby mě ze své kukaně nemohl vidět. Během čekání na vlak obvykle pozoruji hezké dívky a zkouším v duchu odhadnout, jak budou vypadat za deset dvacet let – v podstatě je to jen obdoba počítačové simulace interiéru (žádná z oněch mladých žen sebevědomě nastupujících do vagónu určitě netuší, že v hlavě té obtloustlé, špatně ostříhané postarší brunety by mohly zahlédnout svou poměrně věrnou budoucí podobu). Samozřejmě jsem ale pořád ve střehu – takže když jednoho dne ve staničních reproduktorech náhle praskne, možná jako jediná to tiché lupnutí zaregistruji.
 
@@ -21,7 +25,9 @@ Ve druhém hlášení může i ten, kdo mého manžela nezná, zaznamenat únav
 
 V obojím mám letitou praxi.
 
-  
+</section>
+
+<section>
 
 Miluji dozorčího v metru – a neustále cítím potřebu to vysvětlovat. Tohle je zvláštní: teoreticky samozřejmě vím, že život je nepředstavitelně rozmanitý a mnohovrstevný a že se vzpírá všem zjednodušujícím výkladům a tak dále, ale kdykoliv v praxi narazím na byť jen náznak _opravdové_ životní pestrosti, obvykle mě to zaskočí. Kaprovou ulicí jde černoch s velikonoční pomlázkou a já na něho civím jako na zjevení. Ostatně proč chodit pro příklady tak daleko: dodneška mě doslova přivádí v úžas, že můj manžel Boris dokáže být _současně_ dobrácký i xenofobní, citlivý a _zároveň_ omezený. Jednou je jemný a něžný – a jindy se chová jako čítankový buran (jako postava v telenovele je úplně nepoužitelný).
 
@@ -37,7 +43,9 @@ Druhý řidič i nadále spí, a tak ve zpětném zrcátku zkontroluje očima 
 
 Při zastávce u dálničního motorestu spolu prohodí pár vět. Táta prodává lidem kávu z automatu a já jim pak s ironickým, téměř omluvným úsměvem (který je pro většinu z nich naprostou záhadou) přiděluji plastovou lžičku, mléko a cukr. Boris se neustále motá kolem: očividně mé postavení nechápe, ale zároveň se bojí zeptat. Jeho sebevědomí je tenkrát ještě malé: když mu v kině obsadí místo, najde si raději jiné; pokud je plno, sedne si na schody. Před prodavačkami do třiceti let se zakoktává. A tak dále. Má sice za sebou dva delší vztahy, jenomže doba, kdy byl sám se svými komplexy, mnohonásobně převažuje. Kdo jiný než já by mu mohl rozumět lépe?
 
-  
+</section>
+
+<section>
 
 Na zpáteční cestě už s tátou čile konverzují. Otec se – světe, div se! – dokonce několikrát nahlas rozesměje.
 
@@ -85,7 +93,9 @@ Probodnu ho očima.
 
 „Já bych jel,“ říká Boris.
 
-  
+</section>
+
+<section>
 
 Ve vinném sklípku v Mikulově si s Borisem začnu tykat i já.
 
@@ -101,7 +111,9 @@ Za námět úvodní konverzace z nedostatku jiných možností volím Ireninu s
 
 Jeho netaktní poznámka se mě dotkne. Irena nebyla žádný magor, ohrazuji se v duchu. Byla to jenom nešťastná ošklivá holka, jejíž život byl regulérní peklo.
 
-  
+</section>
+
+<section>
 
 Po návratu kupodivu bez úhony přežijeme i nevyhnutelný trapas s názvem _první opravdové rande_. Po druhé, nečekaně milé schůzce začnu být nervózní. Zatím vždy zůstalo jen u polibku na rozloučenou, ale co bude za týden? Pochopitelně nemohu Borisovi říct, že jsem panna (vzhledem k _technice_ mých autoerotických hrátek naštěstí ani nemusím). Panna v osmadvaceti, to není normální, to by ho vyděsilo – rázem bych se v jeho očích změnila ve zboží, které nikdo nekupuje.
 
@@ -140,3 +152,5 @@ Vrtí hlavou, ale mě neoklame. Nepotřebuje to vědět, potřebuje to slyšet.
 „Vůbec jsem ho v sobě necítila,“ pravím a _ostýchavě_ si zakryju tvář.
 
 Vlastně ani tentokrát nelžu.
+
+</section>

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-vybijena-8405fa0",
-  "revision": "8405fa0",
+  "identifier": "viewegh-vybijena-6ab585d",
+  "revision": "6ab585d",
   "readingOrder": [
     "promo.html",
     "vybijena_005.html",
@@ -81,8 +81,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:20:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870825833
+    "date": "Fri Jun 10 2022 16:22:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654878167067
   },
   "documents": [
     {
@@ -260,9 +260,9 @@
     {
       "title": "SKIPPY",
       "file": "vybijena_013.html",
-      "words": 1,
-      "chars": 6,
-      "ideas": 1,
+      "words": 476,
+      "chars": 2800,
+      "ideas": 2,
       "role": "chapter",
       "order": 9,
       "prev": "vybijena_012.html",
@@ -380,9 +380,9 @@
     {
       "title": "SKIPPY",
       "file": "vybijena_019.html",
-      "words": 1,
-      "chars": 6,
-      "ideas": 1,
+      "words": 435,
+      "chars": 2527,
+      "ideas": 2,
       "role": "chapter",
       "order": 15,
       "prev": "vybijena_018.html",
@@ -680,9 +680,9 @@
     {
       "title": "SKIPPY",
       "file": "vybijena_034.html",
-      "words": 1,
-      "chars": 6,
-      "ideas": 1,
+      "words": 410,
+      "chars": 2481,
+      "ideas": 2,
       "role": "chapter",
       "order": 30,
       "prev": "vybijena_033.html",
@@ -960,9 +960,9 @@
     {
       "title": "SKIPPY",
       "file": "vybijena_048.html",
-      "words": 1,
-      "chars": 6,
-      "ideas": 1,
+      "words": 235,
+      "chars": 1353,
+      "ideas": 2,
       "role": "chapter",
       "order": 44,
       "prev": "vybijena_047.html",
@@ -1140,9 +1140,9 @@
     {
       "title": "SKIPPY",
       "file": "vybijena_057.html",
-      "words": 1,
-      "chars": 6,
-      "ideas": 1,
+      "words": 421,
+      "chars": 2439,
+      "ideas": 2,
       "role": "chapter",
       "order": 53,
       "prev": "vybijena_056.html",
@@ -1200,9 +1200,9 @@
     {
       "title": "SKIPPY",
       "file": "vybijena_060.html",
-      "words": 1,
-      "chars": 6,
-      "ideas": 1,
+      "words": 485,
+      "chars": 2804,
+      "ideas": 2,
       "role": "chapter",
       "order": 56,
       "prev": "vybijena_059.html",
@@ -1420,9 +1420,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 112,
-      "chars": 722,
-      "ideas": 15,
+      "words": 83,
+      "chars": 562,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "vybijena_070.html",
@@ -1440,14 +1440,14 @@
   ],
   "totals": {
     "all": {
-      "words": 46102,
-      "chars": 279396,
-      "ideas": 1903
+      "words": 48529,
+      "chars": 293604,
+      "ideas": 1901
     },
     "chapters": {
-      "words": 45985,
-      "chars": 278641,
-      "ideas": 1884
+      "words": 48441,
+      "chars": 293009,
+      "ideas": 1890
     }
   }
 }

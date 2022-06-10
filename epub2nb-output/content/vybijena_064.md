@@ -3,13 +3,17 @@ title: EVA
 contentType: prose
 ---
 
+<section>
+
 Na třídní srazy, které s obdivuhodnou vytrvalostí každoročně organizují Marie a Zuzana, se pokaždé docela těší – dokonce víc, než dokáže pochopit. Co si od toho pořád slibuji? ptá se Eva sama sebe, ale stejně si vždycky zajde k holiči a koupí něco nového na sebe.
 
 V posledních letech účast opět stoupá. Asi za tím bude sentiment. Jak říká Tom: _nostalgie se chytá čehokoliv_. Prý si začali uvědomovat, že jiné, lepší mládí už nedostanou, a snaží se spokojit s tím, co skutečně bylo. Navíc jim tahle setkání dávají _jistotu předvídatelnosti_: svět se mění tak rychle, až je to začíná děsit – na srazech se sice občas vzájemně překvapují, ale neděsí. Vědí, co od sebe mohou čekat. Možná na tom něco bude.
 
 První rok po rozvodu přišli s Jeffem natruc oba. Je to snad i moje třída, říkala mu pohledem. Jeff, bedlivě sledován ostatními, ji zběžně políbil na tvář. Seděli samozřejmě každý zvlášť. Viděla na něm, že by se rád bavil, ale že mu to vzhledem k její přítomnosti nepřipadá vhodné. Taky mu nikdy neuniklo, když si k ní někdo přisedl, například Skippy nebo Tom. Nakonec to nevydržel, opil se a přede všemi se líbal s nějakou úplně cizí holkou, na kterou narazil cestou na toaletu – a díval se přitom Evě do očí. Od té doby to mají s Jeffem rozdělené: liché roky chodí ona, sudé on.
 
-  
+</section>
+
+<section>
 
 Letos je na řadě Eva.
 
@@ -46,3 +50,5 @@ Marie vytahuje z kabelky tři čajové svíčky a postupně je zapálí; mlád
 A dál? Co ještě?
 
 „Anebo já si dám dneska taky víno,“ říká k všeobecnému překvapení.
+
+</section>

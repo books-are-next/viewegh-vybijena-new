@@ -3,6 +3,8 @@ title: TOM
 contentType: prose
 ---
 
+<section>
+
 S úlevou shledávám, že potlučené šedivé dveře plechové skříňky na chodbě tentokrát nejsou vypáčené a že Janina fotografie je nepoškozená (na té předešlé měla nožem rozřezaná ňadra). Prohlížím si svou sváteční uniformu se zlatými prýmky, bílou košili, čepici s odznakem: laciné občasné huj, mající zakrýt každodenní fuj, všechnu tu špínu, řev a smrad. Náhle pocítím podivnou apatii. Pomalu, vstoje si zouvám sešlapané kanady (minimálně tři roky je přede mnou nosili jiní), svlékám si tuhé zatuchlé ponožky, zablácené maskáče i zelenou košili, naházím všechno na dno skříňky, znovu ji zamknu a jen v trenkách a tílku přecházím do umývárny.
 
 „Chemická očista, co?“ říká zavalitý dozorčí, když míjím jeho neutěšené stanoviště naproti vstupním dveřím.
@@ -23,7 +25,9 @@ Mladičký vojín zdvihne hlavu. Dozorčí hlasitě, nespokojeně mlaskne a uk�
 
 Rezignovaně přikývnu. Chodbou se šíří kyselý pach zelí.
 
-  
+</section>
+
+<section>
 
 Na nádraží v Břeclavi zavolám z telefonního automatu Janě; v okamžiku, kdy zdvihne sluchátko, zahlédnu procházející hlídku v červených baretech. Připadá mi absurdní salutovat se sluchátkem u ucha, a tak se pouze otočím zády. V duchu doufám, že rotmistr, velitel hlídky, nebude idiot.
 
@@ -40,3 +44,5 @@ Ticho. Zklamané, nebo úlevné? pomyslím si.
 Mluvím s ní ještě pět minut a potom se rozloučím. Zavěsím a zamířím k pokladně. Pojedu za Jeffem.
 
 Mám první opušťák – a jedu do jiných kasáren.
+
+</section>

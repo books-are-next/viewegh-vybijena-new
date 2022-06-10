@@ -3,6 +3,8 @@ title: TOM
 contentType: prose
 ---
 
+<section>
+
 Ráno mě v koupelně cosi zarazí: jsem čerstvě ostříhaný (svatba je svatba) a zrcadlo je čisté. Umývadlo také. Rozhlédnu se: koupelna je uklizená. Historie se opakuje.
 
 Když přijdu do kuchyně, na stole je prostřeno pro tři – znamená to, že na společnou snídani zřejmě dorazí i Jeff. Skippy stojí u sporáku a chystá mi šunku s vejci.
@@ -50,3 +52,5 @@ Rezignovaně popadnu skleničku a přemýšlím o přípitku.
 „Tak sukně hore!“ zvolá Skippy.
 
 Znám ho už od základní školy a jsem přesvědčený, že přinejmenším některé kořeny jeho životní prohry (přistoupím-li na toto diskutabilní rozdělení a připustím-li, že v lidském životě může existovat i něco jako vítězství) vedou až k první podařené šaškárně: svléknout se v deseti letech ve školní jídelně v době oběda do půl těla, lehnout si na stůl mezi starší holky, vyklopit si na prsa dvě misky s vanilkovým pudinkem a začít se příslušně natřásat, to už chce skutečně odvahu. Když tohle dokážete, stanete se nejslavnějším exotem na škole a v následujících týdnech a měsících se na vás budou chodit dívat celé zástupy… Za tenhle úspěch pyká Skippy dodnes. Je obětí svých vlastních stylizací. Třicátník zaživa pohřbený ve školních recesích. Když o tom tak přemýšlím, napadá mě, že na dospívání nejsou nejhorší uhry, sexuální strádání nebo všechny ty obvyklé trapasy; vůbec nejhorší je, že se navzdory té naprosté zmatenosti a bezradnosti všichni pořád tváří tak _samozřejmě_. Nejstrašnější na pubertě je ona předstíraná _nenucenost_. Vidím to ve škole denně. Někdy bych studentům rád řekl: Zkuste si alespoň představit, že my dospělí vás dokážeme prohlédnout. My přece vidíme, jak jste hloupí a nejistí – tak proč se proboha pořád tváříte tak _cool_? Proč, vy beznadějní pitomci, pořád tvrdíte, že jste _v poho_ – i když vás například právě připravili o životní lásku?
+
+</section>

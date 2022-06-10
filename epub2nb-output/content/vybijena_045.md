@@ -3,9 +3,13 @@ title: TOM
 contentType: prose
 ---
 
+<section>
+
 Svatba Evy a Jeffa v říjnu roku 1989 je onou dlouho oddalovanou dobrou zprávou, kterou už všichni potřebovali (samozřejmě s výjimkou mé maličkosti). Víra ve šťastné konce je dočasně obnovena. _Život je přece jenom dobrý_, mohlo by klidně stát na jejich svatebním oznámení.
 
-  
+</section>
+
+<section>
 
 Den před obřadem se probudím už v půl šesté a moje první myšlenka patří Evě: takže zítra se vdává. A příští týden se Jeff odstěhuje z _Doupěte_. Až dosud jsem si význam té změny nechtěl připustit, ale v té chvíli mi to definitivně dojde. Život půjde dál, jenom trhliny budou zase o něco větší. Zůstanu v tomhle ošklivém podnájmu sám se Skippym – s gynekologem, který nosí kovbojské mokasíny, poslouchá rádio Country a sbírá obaly od čokolád. Za normálních okolností bych se ještě pokusil usnout, ale tentokrát bezmála energicky vstanu (čeká nás povinné loučení s Jeffovou svobodou), a dokonce se jdu vysprchovat – jako všichni počínající alkoholici mám rád ten iluzorní pocit, že dosud držím svůj život pevně v rukou. Oholím se a umyju _po sobě_ umývadlo i zrcadlo; výsledek mě uspokojí, avšak kontrast s podlahou je nyní příliš velký, takže si přinesu smeták, kbelík a hadr. Jak se tak činorodě předkláním, zamotá se mi hlava a musím se posadit na mokré linoleum. O co se to snažíš, kreténe? táži se, zatímco upřeně zírám na zažloutlý bakelitový sifon (my, co pijeme, občas hovoříme sami se sebou, a to ne právě vybíravě). Až Jeff vstane a uvidí, že jsem uklidil, bude mě podezírat, že se ho pokouším přesvědčit, aby se neženil… Vstanu, nasoukám se do čistých slipů a tílka a vrátím se do pokoje; ustelu a vyvětrám. Přejdu do kuchyně, chvíli ochromeně pozoruji špinavé sklenice, příbory, zaschlé talíře a pánve plné přepáleného oleje – a potom to všechno potichu umyju. Nakonec i tady zametu a vytřu. O co ti jako jde, kreténe?
 
@@ -63,7 +67,9 @@ Skippy pozdvihne skleničku a podívá se každému z nás do očí.
 
 „Tak sukně hore!“ zvolá a rozhihňá se.
 
-  
+</section>
+
+<section>
 
 Probudím se v sobotu v devět ráno v Žanetině modřanské garsonce, aniž jsem si schopen vybavit, kdy a jak jsem se v noci dostal do Modřan. Na pár vteřin mě zavalí panika, ale peněženku, klíče i doklady vzápětí spatřím na židli pod zmuchlanými džínami; jejich nohavice jsou úplně naruby. Popis jednoho zápasu, napadne mě. Nahlas se uchechtnu, což znamená jediné: jsem dosud opilý. Slyším Žanetu štrachat v koupelně: podle zvuku poznám, že otvírá jakýsi krém. Lipozomy pronikají do nejhlubších vrstev její pleti a činí ji jasnější a zářivější. Zkusím se na posteli opatrně posadit: žaludek se zdá být v pořádku. Bolí mě pochopitelně hlava, ale naštěstí ne tolik, jak by se po zhruba dvaceti hodinách pití dalo čekat. Pokouším se zrekapitulovat včerejší den a noc: postupně jsme vystřídali asi osm či deset různých hospod a barů; vybavím si, že z toho posledního odešli Jeff se Skippym ještě před půlnocí, zatímco já (sám se svým utrpením) pokračoval do vinárny U Sudu, kde jsem si – ach bože, ano – přisedl ke stolu dvou mladých párů odkudsi z Plzně. Udělali mi ochotně místo a já se jim odvděčil tím, že jsem arogantně vetoval každý pokus začít debatu o čemkoli jiném než o Evě. Tady film mých vzpomínek jaksi končí. Pokračování příště. Přecházím do koupelny, stále ještě se usmívám. Žaneta mě nedůvěřivě pozoruje.
 
@@ -104,3 +110,5 @@ Odmítavě mávne rukou: o tomhle slyšet nechce. Jako by nestačilo, co ví. C
 Stojí za mnou, nalíčená a smutná. Kdysi doufala, že jsem ten pravý, ale teď už ví, že pouze _čtvrtý vážný_ vztah jejího života. Z jakési setrvačnosti se mnou ještě spí, ale když každý pátek večer vyráží s kamarádkou do centra, pokaždé celá ožije novou nadějí. Její šedozelené oči už hledají toho pátého. Obejmu ji; nejdřív se vzpouzí, ale potom se podvolí.
 
 „Pochop, že i pro mě je těžký tam jít,“ šeptá.
+
+</section>

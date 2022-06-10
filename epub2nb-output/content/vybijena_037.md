@@ -3,6 +3,8 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
+<section>
+
 Tři roky po maturitě spáchá Irena Větvičková sebevraždu.
 
 Dozvím se to týž den večer od její matky (nejhorší telefonát mého života) jako první ze třídy – čili je bohužel na mně, abych to sdělila svým milým spolužákům. Dám si dva panáky fernetu a zavolám Tomovi.
@@ -45,7 +47,9 @@ Skippy se bezděčně uchechtne – a ihned se polekaně omlouvá.
 
 Upřímně řečeno chceme. Chceme slyšet i ty nechutné detaily. Třeba nám to pomůže pochopit, jak je možné, že ještě dneska ráno to byla naše spolužačka – a v poledne už je z ní mleté maso.
 
-  
+</section>
+
+<section>
 
 Pohřeb (nenávidím pohřby!) mi odhalil netušené věci: například že Eva Šálková vypadá skvěle i v černém šátku (od rána se nutím do maximálního cynismu, protože se bojím, že jinak budu před Tomem a ostatními brečet a opuchnu). Nebo že Irenina starší sestra je celkem úspěšná klavíristka; ani já jsem netušila, že měla sestru.
 
@@ -59,7 +63,9 @@ Marie se otočí a napomene nás pohledem, a tak namísto odpovědi jen mlčky
 
 Jinými slovy: všichni dobře víme, že Větev si nikdy nezašukala.
 
-  
+</section>
+
+<section>
 
 Po pohřbu se přesuneme do naší gymnaziální hospody. Okamžitě si u výčepu objednám dvojitý fernet; když hospodskému prozradím, proč jsme všichni v černém, špatně předstírá, že si na Irenu pamatuje.
 
@@ -70,3 +76,5 @@ Po pohřbu se přesuneme do naší gymnaziální hospody. Okamžitě si u výč
 Třída ztichne. Tomu říkám _coming out_! Tvářím se vzpurně, ale najednou mi dojde, co mě až do té chvíle nenapadlo: Větev je mrtvá, takže ode dneška jsem nejošklivější já.
 
 Musím si prokousnout ret, protože tentokrát bych se už docela určitě rozbrečela.
+
+</section>

@@ -3,6 +3,8 @@ title: EVA
 contentType: prose
 ---
 
+<section>
+
 Autem jezdí, ale jen dvě známé, naučené trasy: každý pátek na nákup do Hypernovy a jednou za čtrnáct dní k rodičům do Vrchlabí – po odchodu do důchodu prodali pražský byt a koupili si zde malý domek. Jinak nejezdí nikam. Celé dny stojí její vínový renault na tomtéž místě (v zimě je to často jediné zasněžené auto v ulici a v létě, když jej nechá stát blíž k parku, bývá zase po týdnu pokryté jemným žlutým pylem, do kterého děti kreslí sprosté obrázky). Loni – sedm let po rozvodu – ho dostala od Jeffa k narozeninám.
 
 „O co se to snažíš?“ řekla mu.
@@ -11,7 +13,9 @@ Autem jezdí, ale jen dvě známé, naučené trasy: každý pátek na nákup do
 
 Je to prý nejbezpečnější vůz ve své třídě.
 
-  
+</section>
+
+<section>
 
 Trasu do Vrchlabí zná zpaměti, každou značku, každou zatáčku; když musí tak jako nyní přejet třeba jen do jiného pruhu, než kterým si zvykla jezdit, ihned se cítí nejistě.
 
@@ -51,7 +55,9 @@ Mávne rukou a vezme ji kolem ramen.
 
 „Nazdar,“ usměje se konečně.
 
-  
+</section>
+
+<section>
 
 Dokud žila s Jeffem, řídil prakticky výlučně on; volant jí podobně jako mnoho jiných ženatých mužů byl ochoten svěřit jen tehdy, když pil. Řízení s namazaným Jeffem nenáviděla. Vzhledem ke své nezkušenosti potřebovala, aby ji navigoval a instruoval, ale on buďto její nervózní otázky (_Kam teď? Rychle! Kdo má přednost? Já, nebo ten náklaďák?_) s opileckou bezstarostností bagatelizoval, nebo na ni podrážděně zvyšoval hlas.
 
@@ -86,3 +92,5 @@ Instruktor se zasměje takovým způsobem, že Eva už nemá nejmenších pochyb
 Vystoupí a odchází. Lidé ji pozorují. Auta za nimi začínají troubit.
 
 „A vy jste stejně nudná, nezajímavá a studená jako všichni abstinenti!“ křičí za ní instruktor.
+
+</section>

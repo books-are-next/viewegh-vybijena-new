@@ -3,6 +3,8 @@ title: JEFF
 contentType: prose
 ---
 
+<section>
+
 I když má pro Skippyho odjakživa slabost, v poslední době se občas přistihuje, že mu jde na nervy: například prakticky vůbec nenakupuje. Tvrdí, že úplně vystačí s jídlem, které přinášejí Jeff s Tomem – tváří se, jako by to byl bůhvíjak skvělý vtip, ale bohužel je to pravda.
 
 Když už se Skippy na nákup vydá, pokaždé to něco znamená. Jestliže například tak jako dnes nakoupí samé čisticí prostředky, je to nepřímý důkaz jeho úmyslu přivést si do _Doupěte_ dámskou návštěvu.
@@ -93,7 +95,9 @@ Skippy obrátí dlaně vzhůru.
 
 „Je nám jasný, že je to pro tebe těžký,“ říká Jeff. „Zkus ale na druhý straně pochopit, že to ty holky prostě znervózňuje.“
 
-  
+</section>
+
+<section>
 
 Dana je celkem pohledná statná zrzka se zapudrovaným akné na čele; oblečená je vkusně, s nápadnou pečlivostí. Ironicky se usmívá, ale Jeff instinktivně tuší, že je to jenom obranná reakce: pokud by se ukázalo, že celé tohle podivné rande ve čtyřech byl jen nepovedený žert, bude mít alibi. Je neustále ve střehu, dokonce i když se směje. Jeff to chápe. Zkouší se vžít do jejích pocitů (od rozvodu dělá podobné pokusy ostatně dost často): jednačtyřicetiletý potrhlý gynekolog ji, prodavačku, pozval na večírek se stejně starým gymnaziálním profesorem a právníkem. Nemá to rozhodně jednoduché, ale zatím si podle jeho názoru vede dobře. Její chování mu připomene Evu, když řídila auto: také se snažila naoko nenuceně konverzovat, ale on dobře viděl, že veškerá její pozornost se ve skutečnosti upínala především k tomu, aby nenabourala.
 
@@ -155,7 +159,9 @@ Skippy neartikulovaně zahýká. Dana se nejistě usmívá.
 
 „S tím zoofilem přehání,“ upozorní dívku Jeff.
 
-  
+</section>
+
+<section>
 
 „Bylo to tu hrozně fajn,“ říká Dana Skippymu, když se krátce před půlnocí loučí a odjíždí objednaným taxíkem. „Děkuju za pozvání.“
 
@@ -167,7 +173,9 @@ Tom pokrčí rameny. Zdá se, že Dana chce cosi říct.
 
 „A tady pan profesor je taky homosexuál?“ zeptá se konečně.
 
-  
+</section>
+
+<section>
 
 „Nic moc, co?“ říká Skippy po jejím odchodu.
 
@@ -176,3 +184,5 @@ Tom pokrčí rameny. Zdá se, že Dana chce cosi říct.
 „Vadilo mi, jak byla příšerně nervózní,“ brání se Skippy. „Úplně sem cejtil ten její kyselej pot.“
 
 „A divíš se, Skippy?“ zvolá Tom podrážděně; už je opilý. „Za rok jí bude třicet, chtěla by se vdát a mít děti, jenže až dosud potkávala jenom samé pitomce – nic ve zlém. Tak se nediv, že je nervózní. Čas jí nemilosrdně ubíhá. Komu má dát všechnu tu lásku, kterou v sobě cítí?“
+
+</section>

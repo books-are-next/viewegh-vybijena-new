@@ -3,6 +3,8 @@ title: EVA
 contentType: prose
 ---
 
+<section>
+
 V polovině listopadu roku 1988 ji cestou na hodinu aerobiku navštíví Marie: příští sobotu jede na Slovensko za Karlem, nechce jet Eva s ní?
 
 Eva přemýšlí, jak se vymluvit: slíbila sice Jeffovi, že v listopadu určitě přijede (jednou už domluvenou návštěvu k jeho zklamání odložila, takže některý z následujících víkendů se stejně na Slovensko vydat musí), ale zároveň ji leká představa, že by měla tu dlouhou cestu absolvovat právě s Marií. Ne že by ji neměla ráda, pouze jí připadá, že toho spolu zase tolik neprožily, a obává se, že si nebudou mít co říct. Možná k tomu přispívá Mariina šusťáková souprava i ta velká sportovní brašna, kterou má přes rameno – navzdory přirozenému pohybovému talentu je Evě svět sportu cizí.
@@ -23,7 +25,9 @@ Eva ostýchavě přikývne.
 
 „Tak vidíš. Pojeď.“
 
-  
+</section>
+
+<section>
 
 Cesta je nakonec příjemnější, než předpokládala. Samozřejmě vzbuzují pozornost – ale to, co by jindy Evu uvádělo do nepříjemných rozpaků, všechno to pohvizdování, dlouhé pohledy a další projevy přízně, je takhle ve dvou kupodivu zábava. Potěšeně si zkouší představit Marii a sebe mužskýma očima: sympatická vysoká bruneta, druhá jen o málo menší pohledná blondýna… Koupí si místenky, jenže stejně pak téměř celou trasu stráví v jídelním voze, jehož personál hovoří pouze maďarsky. Dají si oběd a vypijí každá tři piva, což je Evin osobní rekord. Skoro všechno jim připadá legrační: postarší číšník, ty růžové lampičky s třásněmi nad každým stolkem, názvy stanic i někteří lidé čekající na perónech. Chvílemi se hihňají jako dvě malé holky.
 
@@ -45,7 +49,9 @@ Kasárna i inkriminovaný hotel stojí kdesi na periferii města; Eva má sice 
 
 Eva ji kárá očima, nicméně taxíkář Marii ochotně vyhoví. Když přijíždějí ke kasárnám, všichni tři nahlas zpívají _Tanečnice z Lúčnice._
 
-  
+</section>
+
+<section>
 
 Projdou bránou ve zdi zakončené hned třemi ostnatými dráty. Zeď je čerstvě obílená: doslova svítí a v suché trávě pod ní jsou dosud vidět hrudky vápna. Nově, ale zároveň amatérsky působí i nátěr červenobílé závory; za ní se otvírá rozlehlá asfaltová plocha s mnoha šipkami, různými čísly a nesrozumitelnými zkratkami; uprostřed toho všeho se nalézá komicky malý ostrůvek zeleně, obehnaný červenobílým obrubníkem. Něco mezi státními hranicemi a letištěm, říká si Eva. Nejbližší z budov má na střeše transparent se známým heslem o připravenosti k budování a obraně socialistické vlasti – ve slovenštině to zní nezvykle, bezmála parodicky. Z nízké krychlové budovy vlevo vyjde mladičký voják, zřejmě dozorčí, a nejistě zamíří přímo k nim; v ruce drží ohmataný školní sešit a obyčejnou tužku. Na uniformě má tlusté červené šňůry, zakončené zlatými nábojnicemi – Eva sice chápe, že tohle ustrojení není výrazem jeho vlastního vkusu, ale přesto se neubrání útrpnému úsměvu. Voják zrozpačití ještě víc. Ty šňůry jsou neskutečné, pomyslí si Eva. Estetika primitivních kmenů. Marie dozorčímu nahlásí Karlovo i Jeffovo příjmení a hodnost a on si to poznamená do sešitu; potom jim ukáže, kde mají počkat.
 
@@ -57,7 +63,9 @@ Smějí se, ale ne tak uvolněně jako předtím ve vlaku nebo v taxíku. Náv�
 
 Sotva klesne hlasem, ozve se tiché zavrnění a původně černá spirála se pomalu rozzáří. Marie se obrátí k okénku a ukáže vojákům zdvižený palec.
 
-  
+</section>
+
+<section>
 
 Po hodině je už v malé místnosti značně přetopeno: Eva i Marie si dávno vysvlékly svetry a jsou jen v bavlněných tričkách (pochopitelně je napadlo, že přesně toho chtějí vojáčci dosáhnout), a přesto se začínají potit. Eva zahlédne modrý odraz majáčku sanitky přijíždějící k bráně; siréna je vypnutá. Vyšší voják jde zdvihnout závoru a ambulance vjede dovnitř. Až dosud jim nikdo neřekl, proč musejí čekat tak dlouho. Celkem třikrát se dozorčího ptaly, zda Karla s Jeffem skutečně zavolal, a on pokaždé souhlasně přikývl.
 
@@ -79,7 +87,9 @@ Voják bez odpovědi odejde. Marie rozhodí rukama:
 
 Venku se začíná stmívat, na kasárenském dvoře se rozsvěcují lucerny, na asfalt se snáší žlutooranžové světlo. Nějak se nám ten výlet kazí, říká si Eva.
 
-  
+</section>
+
+<section>
 
 Po dalších dvaceti minutách, které stráví netrpělivým přecházením po návštěvní místnosti a vyhlížením ven, přijíždí od kasárenských budov bílý žigulík, z něhož vystoupí dva vojáci – Eva podle výložek a lampasů na kalhotách usuzuje, že to zřejmě budou důstojníci. Dozorčí i druhý voják ihned vybíhají ven a salutují. Jeden z důstojníků cosi říká. Všichni čtyři teď stojí k dívkám zády. Je to náhoda, nebo záměr? napadne Evu. Roste v ní neurčitá obava, kterou nechce vyslovit nahlas. Marie to udělá za ni.
 
@@ -110,3 +120,5 @@ Eva jí stiskne ruku. Všichni čtyři vojáci se už opět dívají stranou, ne
 Žádná odpověď. Padnou si do náruče. Děje se něco strašného, něco nenapravitelného. Evě ve zlomku vteřiny prolétne hlavou následující výjev: čekají s Jeffem na metro, Jeff se tváří ustaraně, v tunelu je slyšet přijíždějící soupravu. Marie hlasitě vzlykne. Ať je to Karel, pomyslí si Eva. Zastydí se, ale potom své přání zopakuje ještě vášnivěji: Panebože, ať je to Karel!
 
 Náhle na asfaltovém prostranství spatří běžící postavu – je to Jeff. Marie si ho ještě nevšimla. Eva poprvé v životě vidí Jeffa brečet. Ví, co to znamená, ale zároveň cítí obrovské, provinilé štěstí. Jeffovy maskáče jsou neuvěřitelně špinavé (skutečný původ většiny těch velkých tmavých skvrn si Eva uvědomí teprve dodatečně). Chtěla by se mu vrhnout kolem krku, ale v té chvíli už chápe, že Jeff musí nejdříve obejmout Marii.
+
+</section>

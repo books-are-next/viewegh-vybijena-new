@@ -3,6 +3,8 @@ title: TOM
 contentType: prose
 ---
 
+<section>
+
 Nejstarší dochovaná Jeffova gymnaziální fotografie, pochopitelně černobílá, je z lyžařského kursu v prvním ročníku: světlé vlasy dosahující (stejně jako tenkrát ty moje) až na samu hranici dobové přijatelnosti, komický náznak knírku a obvyklý tázavý výraz v hezkých očích. Co na snímku například není: jeho nezbytně klátivá chůze, která co chvíli přecházela v běh, zvyk naklánět při hovoru hlavu na stranu nebo ona krátká hluboká vráska, jež se uprostřed jeho obočí objevovala pokaždé, když s něčím nesouhlasil.
 
 Přátelství s Jeffem, trvající už více než čtvrt století, začalo onu zářijovou vyučovací hodinu, kdy nám profesorka zeměpisu cosi ukazovala na meotaru – nepamatuji se, o co šlo, vím jen, že těsně po projekci se na jednom z velkých oken vzadu ve třídě zasekla roleta. Jeff, který seděl v lavici pod oknem, se okamžitě vymrštil (židle příšerně zaskřípala), a aniž jej k tomu kdokoli vyzval, po krátkém rozběhu vyskočil mezi květináče na mramorový parapet okna. Zavrávoral – třída jen zahučela – ale ihned nabyl rovnováhy a oběma rukama roletu vytáhl. Potom seskočil, uklonil se a zase si sedl.
@@ -13,7 +15,9 @@ Zdálo se mi, že třída ve zlomku vteřiny zaváhala, jak má Jeffův výstup 
 
 Jeff se na mě zazubil a potěšeně mi pokynul rukou. Takhle začalo naše přátelství: zaseknutou zaprášenou roletou.
 
-  
+</section>
+
+<section>
 
 Hned následující přestávku, na chodbě při přechodu mezi učebnami, se ke mně připojil.
 
@@ -51,7 +55,9 @@ Jeho opožděné rozhořčení jako by ani nepatřilo Jeffovi – i on se zjev
 
 Když jsme ty dva studenty v následujících dnech potkali, dívali se stranou a předstírali zaneprázdněnost.
 
-  
+</section>
+
+<section>
 
 Jeff tvrdí, že celé gymnaziální období byla jedna velká trapnost.
 
@@ -88,3 +94,5 @@ Významně se odmlčí.
 Potom ukáže rukou na mě.
 
 „A proč si tady tenhle vzal před pár lety za manželku její věrnou kopii?“
+
+</section>
