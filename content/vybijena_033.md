@@ -3,9 +3,13 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
+<section>
+
 První pomaturitní sraz se koná v restauraci U Medvídků na Perštýně, ale z tramvaje vystoupím už na Karlově náměstí: jednak mám tuhle zastávku odjakživa radši než ty věčné tlačenice před obchodním domem Máj – a za druhé si cestou aspoň zopakuji základní údaje o Liborovi. Před kostelem sv. Ignáce přejdu Ječnou a parkem dojdu k Novoměstské radnici – právě tady si v roce 1963 bral táta mou mámu. Záměrnou oklikou pokračuji Vodičkovou do Jungmannky, kde ke mně před Tuzexem automaticky nakročí jeden z přítomných veksláků – když si mě prohlédne líp, otočí se zády a koutkem úst cosi říká svému kolegovi. Proti své vůli zrychlím, ale jejich zlý řehot mě po pár metrech stejně dohoní.
 
-  
+</section>
+
+<section>
 
 Sraz zorganizovala Marie: spolužáky, kteří mají doma telefon, osobně obvolala, a těm, kteří na zavedení linky dosud marně čekají, poslala s dostatečným předstihem telegram. Její obrovské osobní nasazení se záhy vysvětlí: jakmile do zamluveného salónku v patře nad restaurací dorazí poslední opozdilci a vrchní roznese laciný zteplalý vermut, slavnostně nám oznámí, že je v jiném stavu a že se za měsíc s Karlem berou. Karel se usmívá.
 
@@ -13,7 +17,9 @@ Sraz zorganizovala Marie: spolužáky, kteří mají doma telefon, osobně obvol
 
 Když se o chvíli později dozvím, že byl přijat na lékařskou fakultu, je to pro mě větší překvapení než ten ohlášený sňatek – nebo než ona podobně předvídatelná skutečnost, že pokud se Eva s Jeffem budou na srazu držet za ruce, Tom bude před jejich propletenými prsty neustále uhýbat očima.
 
-  
+</section>
+
+<section>
 
 Jsme téměř všichni, až na Danu a Honzu: Dana je v motolské nemocnici na blíže neurčené operaci (je nám devatenáct, překypujeme zdravím a tohle vysvětlení nám připadá trochu jako výmluva) a Honza s rodiči nedávno emigroval do Švédska. Skoro dvě třetiny z nás se kupodivu dostaly na vysokou školu: Tom (po odvolání) studuje pedagogickou fakultu, Eva s Jeffem práva, Marie, Karel a Rudolf ekonomii. Katku nevzali na FAMU, ale příští rok to chce zkusit znovu. Irena studuje pomaturitní nástavbu na zubní laborantku; Zuzana odešla po prvním semestru z medicíny, teď pracuje v mateřské školce. A tak dále. Za chvíli je nových informací tolik, že v nich začínám mít zmatek. Objednáváme si jídlo, kolují první fotografie: neznámé obličeje nových kamarádů a spolubydlících. Samozřejmě, nenuceně používáme slova, která jsme za celé ty čtyři roky nikdy nevyslovili: _semestr, iritující, de facto – de iure, zápočťák, index_. Z akvária nad barovým pultem nás pozorují jakési ošklivé ryby. Připadá mi, že mnozí se od tohoto srazu v duchu jakoby distancujeme: už máme zbrusu nové životy a k Medvídkům jsme si jen tak nezávazně odskočili. Tváříme se, že abiturientský sraz je něco jako dětská vánoční besídka – stejně milý a stejně bezvýznamný.
 
@@ -25,7 +31,9 @@ Vrchní vyřídí v kuchyni naše objednávky, vrátí se za bar, odkudsi vytá
 
 Všechno jsme viděli, všechno víme.
 
-  
+</section>
+
+<section>
 
 Víno je mizerné (Klášterní tajemství), ale tehdy mi to nevadí: žádné opravdu dobré jsem ještě neochutnala, a tak nemám s čím srovnávat.
 
@@ -85,8 +93,12 @@ Podívám se na Adélku a vesele zamrkám:
 
 „Hezký!“ zvolá automaticky Skippy.
 
-  
+</section>
+
+<section>
 
 Libor stále nejde, a tak v půl dvanácté z budky před Májem zavolám k němu domů; jeho otec mi sdělí, že Libor je na pohotovosti, protože si večer při sálové kopané utrhl meniskus v koleni. Nabízí mi, že pro mě přijede sám, což samozřejmě odmítnu. Vrátím se k Medvídkům a převyprávím to Marii, Zuzaně a ostatním.
 
 „To jsem věděla!“ ušklíbne se Zuzana.
+
+</section>

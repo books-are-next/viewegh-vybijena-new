@@ -3,11 +3,15 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
+<section>
+
 Chcete vědět, jaký je největší skutečný erotický zážitek mého mládí? Zajímá vás, co v mém reálném sexuálním životě tvoří onu vrcholnou chvíli, ještě po letech znovu a znovu ožívající v mých vzpomínkách, zkrátka onu klíčovou scénu, při které v amerických filmech hudba pokaždé nápadně zesílí a ozvou se smyčce?
 
 Řeknu vám to: jeden jediný polibek.
 
-  
+</section>
+
+<section>
 
 Maturitní večírek naší třídy se koná v jakémsi rekreačním středisku na Slapech – organizují to Jeff s Tomem a Skippym (ten ovšem prvním dvěma neustále skáče do řeči a vnáší do jejich pokynů zmatek). Jejich energie a nadšení se nicméně přenesou i na nás ostatní – jako kdybychom si teprve nyní uvědomili, že jsme vlastně ještě nezažili všechno to krásné, co údajně k mládí patří, a že tohle je naše poslední šance.
 
@@ -25,7 +29,9 @@ Je očividné, že se všichni těší, dokonce i já a Větev (stále spolu n
 
 Nechápu, že zrovna my dvě si děláme nějaké naděje.
 
-  
+</section>
+
+<section>
 
 Dřevěné chatičky stojí ve čtyřech řadách za sebou; je před sezónou a hustá tráva mezi nimi je ještě nevyšlapaná. Chatky jsou tak malé, až působí neskutečně; připadá mi, že v sobě mají něco trpasličího – jako by to byly jen jakési zmenšené makety lidského obydlí. Když se s Katkou postavíme před dveře, rukou snadno dosáhneme na rozpálenou a oprýskanou plechovou střechu. Odpolední slunce uvolňuje z černohnědých prken důvěrně známý pach vyjetého oleje (táta ho každoročně vozí sousedovi, který má chatu na Sázavě). Uvnitř panuje dusné přítmí. Stěny i strop jsou obložené zažloutlou dřevotřískou, parapet špinavého okna je posetý mrtvými mouchami; matrace jsou proleželé a plné podezřelých skvrn. Na každé z obou postelí leží malé mýdlo v papírovém obalu, zašedlý hrubý ručník a mimořádně nevkusné povlečení s růžovým květovaným potiskem.
 
@@ -57,7 +63,9 @@ Použila množné číslo, uvědomím si. My obě se musíme zabarikádovat. Je 
 
 Bez varování si přetáhne tílko přes hlavu (má malá, pevná prsa) a protáhne se kolem mě. Ucítím její pot, není to nepříjemné – stejně jako ostatní pachy v chatce. Katka se posadí na postel, přitáhne si velký červený batoh, sevře jej mezi nahými koleny a začíná z něj dolovat plavky. Odhodlaně se začínám svlékat: celé jaro držím dietu a cílevědomě se opaluji. Moje postava má sice i tak k dokonalosti daleko, ale přesto snad každý uvidí, že mezi mnou a Větví je přece jen rozdíl.
 
-  
+</section>
+
+<section>
 
 Ještě se koupeme, když na štěrkové cestě mezi chatkami brzdí nová bílá škodovka. Řídí Ruda, na sedadle spolujezdce sedí Vartecký. Ruda krátce zatroubí, s nucenou vážností vystoupí a protahuje se tak, jako kdyby na Slapy nepřijel z Prahy, nýbrž z jižní Evropy – zřejmě to takhle vídává u otce. Řidičský průkaz má necelé tři měsíce. Vartecký se vstřícně usmívá. Kluci se jako na povel drápou ven z vody a běží k nim. Jsou vesměs štíhlí a opálení, a přesto ten hromadný úprk působí nechtěně komicky – dokonce i v případě Toma a Jeffa. Podívám se na ostatní holky: Anička a Jiřina se pokoušejí plavat naznak. Eva, zasněně stojící v mělké vodě u břehu, vypadá jako zdařilá kopie Botticelliho Venuše. Katka mává Varteckému, ale její široký úsměv naznačuje, že možná uvažujeme podobně.
 
@@ -85,7 +93,9 @@ Vsadila bych se, že večer nebude pít a že minimálně dvakrát půjde auto 
 
 „Hurá,“ volám, „jde se chlastat!“
 
-  
+</section>
+
+<section>
 
 Až do onoho dne se alkoholu prakticky nedotknu: pivo mi nechutná, bílé víno, které mi otec asi dvakrát slavnostně nalije, je příliš kyselé, po sladkých likérech bych ztloustla a z bublinek v sektu mě pálí žáha. Táta si je mé nezkušenosti vědom a očividně mu to dělá starost.
 
@@ -113,7 +123,9 @@ Poslouchám pozorně, vím, že se mi dostává rady od skutečného odborníka.
 
 „Dobře, dobře.“
 
-  
+</section>
+
+<section>
 
 Půlnoc: noc je na začátek června nečekaně teplá, na jasném nebi svítí hvězdy. Díky tátovým pokynům jsem stále střízlivá – na rozdíl od mnoha spolužáků, které už víno zmohlo natolik, že se odpotáceli do chatek. Eda usnul přímo na prknech terasy, kde sedíme, a Anička s Větví přes něj za všeobecného veselí přehodily vojenskou celtu, kterou byl původně přikrytý pingpongový stůl. Skippy se sice ještě jakž takž drží na nohou, ale jeho košile jej usvědčuje, že už se stihl pozvracet. Vartecký odjíždí.
 
@@ -131,7 +143,9 @@ Zaraženě zmlkneme: královna odešla.
 
 „No jenom se z ní všichni nepodělejte!“ zasyčí Zuzana, ale nikdo jí neodpoví.
 
-  
+</section>
+
+<section>
 
 O hodinu později už je nás na terase jenom osm. Večírek skončil – a žádné poznámky o _zdravém jádru_ na tom nemohou nic změnit.
 
@@ -163,7 +177,9 @@ Ofina mu padá do čela a já mu ji odhrnu. Je to poprvé v životě, co se ho
 
 „Nechceš se projít?“ říkám.
 
-  
+</section>
+
+<section>
 
 Venku pod hvězdami mu všechno vyklopím: všechny ty mrazivé pravdy. Pokouší se ten nečekaný příval zadržet, ale já se nedám.
 
@@ -232,3 +248,5 @@ Dlouze a krásně mě políbí.
 (Hudba, smyčce.)
 
 Znovu se mi zhroutí do klína a po chvíli usne. Poslouchám jeho chrápání a jsem šťastná a zoufalá zároveň. Právě jsem objela dva bloky v mercedesu – a po zbytek života už budu chodit pěšky.
+
+</section>

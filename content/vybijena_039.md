@@ -3,6 +3,8 @@ title: EVA
 contentType: prose
 ---
 
+<section>
+
 Odjakživa téměř _fyzicky_ miluje vodu a koupání, zvláště pak v moři. Má také ráda ranní svěžest prázdných pláží – ty chladné ploché kameny, které budou o pár hodin později rozpálené do nesnesitelna. Chodí s Jeffem plavat ještě před snídaní. Jeff už na počátku první společné dovolené musí nahlas přiznat, že jejímu plaveckému tempu nestačí. Očividně to nedokáže pochopit.
 
 „Uznávám, že nemám zrovna skvělou techniku, ale přesto bych předpokládal, že moje fyzička musí na každou ženskou včetně tebe bohatě stačit,“ kroutí s úsměvem hlavou.
@@ -38,3 +40,5 @@ Opaluje se ráda, ale už bez někdejší hysterie: když jí bylo sedmnáct, b�
 „Půjdeš?“ ptá se.
 
 Posílá je napřed. Jako jedna z posledních na pláži si jde zaplavat. Otec si škádlivě klepe na čelo. Počká, až všichni tři zmizí z dohledu, a zamíří dál od břehu. Nespěchá, pomalými tempy krouží kolem skalnatého výběžku a houpe se na vlnách. Po návratu na opuštěný břeh si ještě na chvíli lehne: už ne na rohož, tu ostatně odnesl otec, ale přímo na jeden z těch obrovských, staletími ohlazených balvanů. Tiskne se k němu zády, stehny, dlaněmi i chodidly, jako by chtěla využít každou sebemenší plochu. Neutírá se, ví, že teplý kámen a zapadající slunce ji ještě stačí usušit. Připadá jí, že teď navečer slunce v jistém smyslu hřeje víc než v poledne – každopádně jeho paprsky víc vnímá. Za půl hodiny už by jí možná byla zima, nyní je jí akorát: necítí ani chlad, ani horko. Vnímá své tělo, své mládí a sílu, ale zároveň se ochotně poddává tomu známému, spíše příjemnému smutku, jehož příčinu dost dobře nechápe.
+
+</section>

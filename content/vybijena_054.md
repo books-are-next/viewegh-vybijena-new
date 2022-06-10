@@ -3,6 +3,8 @@ title: JEFF
 contentType: prose
 ---
 
+<section>
+
 Je deset hodin dopoledne – a vypili víc než půl láhve vodky. Přestože se Jeff každou skleničku snaží zajídat, cítí, že je přiopilý. Už i snídat s Tomem a Skippym znamená chlastat, říká si nespokojeně. Kdyby bylo na něm, mnohem raději by si vyjel někam na kole. Takové mírné mnohakilometrové stoupání po úzké venkovské silničce s jabloněmi po stranách – to by bylo přesně ono. V holých korunách svraštělá jablka a v trávě jinovatka. Začíná se těšit, až si v neděli vyrazí na kole do Vrchlabí.
 
 „Vždycky mi připadalo, že pití po ránu má něco do sebe,“ libuje si Tom. „Večer už jsem unavený, takže mě alkohol nejednou přemůže, ale dopoledne bývám svěží a dokážu mu být dlouho rovnocenným soupeřem.“
@@ -84,3 +86,5 @@ Tom si položí čelo do dlaní. Jeff se Skippym si vymění pohled.
 „Co blbneš?“ říká Skippy. „Dyk je to pravěk.“
 
 „Ta děvka,“ mumlá Tom. „Ta zatracená děvka!“
+
+</section>

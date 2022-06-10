@@ -3,6 +3,8 @@ title: JEFF
 contentType: prose
 ---
 
+<section>
+
 Po celou dobu vztahu s Evou se sprchuje dvakrát, někdy i třikrát denně.
 
 „Smrdíš, sportovče,“ říkává mu.
@@ -19,7 +21,9 @@ Jeff dotčeně civí do tmy a přejíždí si prstem po rašících vousech. Je
 
 Během manželství s Evou pochopí, že některé věci je lepší nevědět.
 
-  
+</section>
+
+<section>
 
 Po rozvodu začne zhruba dvakrát měsíčně chodit do jednoho night-clubu (poprvé ho tam zavede starší kolega z firmy). Pokaždé je tam minimálně šest osm holek, takže je z čeho vybírat – zpočátku chodí ovšem na pokoj výhradně s Editou. Jejich večerní hodinka začíná být čím dál přátelštější – Jeff se už nemusí ani sprchovat, natožpak holit. Edita mu vypráví o své rodině: její otec je vášnivý letecký modelář. Kdysi to zkoušela taky, aby mu udělala radost, ale když se pokoušela žiletkou zkrátit _nosník z balzy_, málem si uřízla prst – a nechala toho. Táta chtěl mít kluka, ale má chudák tři holky. On, máma i ségry samozřejmě tuší, co Edita dělá, ale předstírají, že to nevědí. Je vyučená dámská krejčová. Nemůže jim například vůbec nic koupit. Koupí jim mikrovlnku nebo friťák, a otec to ani nerozbalí – a když už, tak se do té krabice dívá, jako kdyby uvnitř byla nějaká nechutnost ze sex-shopu. Jeffovi ta postupující důvěrnost začíná vadit. Když mu po příchodu jednoho večera Edita jako obvykle skočí na klín, jemně ji shodí a dodá, že by si dneska raději vybral někoho jiného. Edita se zatváří ukřivděně, což mu u prostitutky připadá legrační.
 
@@ -42,3 +46,5 @@ Jeff přikývne. Svléká se, Edita si ho prohlíží.
 „Proč sem vlastně chodíš? Oba víme, že zrovna ty bys tam venku –“ mokrou paží ukáže k oknu zakrytému vínovou roletou, „dostal všechno tohle úplně zadarmo.“
 
 Když něčemu nerozumíš, tak se neptej, napadne ho.
+
+</section>

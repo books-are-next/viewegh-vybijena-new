@@ -3,6 +3,8 @@ title: TOM
 contentType: prose
 ---
 
+<section>
+
 Od začátku třetího ročníku, prakticky celý podzim, mluvíme s Jeffem o tom, že tentokrát s sebou na hory o vánočních prázdninách už _opravdu_ vezmeme holky: Evu a Zuzanu.
 
 „Blázníš?“ říká Zuzana, když jí to navrhnu.
@@ -35,7 +37,9 @@ Jeff vážně pokývá hlavou.
 
 „Zejtra zavoláme jejím rodičům,“ říká po chvíli rezolutně.
 
-  
+</section>
+
+<section>
 
 Na Nový rok se oteplí ještě víc a po rozbité asfaltce, kterou scházíme dolů do vsi, se valí voda. Před telefonní budkou zůstávám stát, ale Jeff podrží dveře a naznačí mi, abych vlezl dovnitř. Zatímco si sundává rukavice a čepici, podívám se na hodinky.
 
@@ -94,3 +98,5 @@ Hlas na druhém konci zvážní.
 „Tak děkuju a na shledanou.“
 
 Jeff zavěsí a triumfálně vychází z budky. Podívá se na mě, přejde do klusu a strašlivou angličtinou začíná hlasitě zpívat _The Wall_. U nejbližšího stavení se zastaví, ze zasněženého okapu odlomí obrovský rampouch a několik minut jej nese vztyčený před sebou jako prapor své odhodlanosti.
+
+</section>

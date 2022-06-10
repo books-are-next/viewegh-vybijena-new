@@ -3,6 +3,8 @@ title: JEFF
 contentType: prose
 ---
 
+<section>
+
 Po rozvodu dostává Jeff Alici na jedno odpoledne v týdnu a každý sudý víkend. Nejčastěji chodívají plavat do Podolí nebo do kina. O víkendech téměř vždy vyrážejí ven z Prahy: v zimě na lyže, v létě pod stan nebo na kola. Když se Jeff Alice dnes na všechny ty výlety zpětně ptá, zklamaně zjišťuje, že si většinu z nich už nepamatuje. Ale třeba to i tak mělo smysl, ujišťuje se v duchu.
 
 Co si Alice pamatuje, je šaškování Skippyho, který začne časem jezdit s nimi, dokonce je kvůli tomu ochoten oželet i významná fotbalová nebo hokejová utkání. Jeff jej hned na počátku důrazně upozorní, že před Alicí nesmí mluvit sprostě, což Skippy k jeho překvapení dodrží. Chová se ovšem ještě infantilněji než jindy (přítomnost malé Alice používá jako alibi): na ulici provádí různé výtržnosti, poskakuje, pitvoří se a skládá pro Alici veršovánky jako Vykopejte kráter, povídá páter / Co se to koná? Pohřeb slona. Podobné rýmy pak Jeffovi rezonují v hlavě celé týdny, ale jeho dcera je nadšená – a to je hlavní.
@@ -17,13 +19,17 @@ Očima ukáže na opodál sedící Alici, která se nepřítomně dívá do ohn�
 
 „Už nikdy tě s ní nenechám o samotě,“ odpoví žertem Jeff, ale v duchu mu dává za pravdu.
 
-  
+</section>
+
+<section>
 
 V posledních letech berou Alici někdy i do _Doupěte_ – Eva byla nejdříve proti, ale potom ji Skippy přivedl na inspekci (předtím samozřejmě celý den uklízeli) a ona váhavě souhlasila. Pokaždé ovšem před Aliciným příchodem uklidit nestihnou, avšak jí se mezi těmi prázdnými láhvemi, plechovkami od piva a zřícenými hromadami přečtených novin a časopisů líbí.
 
 „Jsme pro ni svého druhu atrakce, chápeš?“ říká Jeffovi Tom. „Mámin naklizený byt je nudná komerce, zatímco tohle je _underground_. V jejích očích představuje Doupě něco jako nezávislou _rodinnou kulturu_.“
 
-  
+</section>
+
+<section>
 
 „Tys mámu taky miloval?“ zeptá se Alice jednoho dne Toma.
 
@@ -88,3 +94,5 @@ Ta scéna je trapná, ale zároveň dostatečně přesvědčivá. Tom už se op�
 „Jak to myslíš, _zamluvil_?“ zajímá se ihned Alice.
 
 Když něčemu nerozumíš, tak se neptej, napadne Jeffa.
+
+</section>

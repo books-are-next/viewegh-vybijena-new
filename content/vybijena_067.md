@@ -3,6 +3,8 @@ title: TOM
 contentType: prose
 ---
 
+<section>
+
 O půlnoci už je nás jenom devět; vsadil bych se, že si všichni v duchu umiňují, že příští rok nepřijdou. Eva mě žádá, abych jí zavolal taxík.
 
 „Abiturientské srazy, zrcadla našich zmarněných životů,“ pravím.
@@ -23,7 +25,9 @@ Hujerová nám pro změnu líčí pocity, které zažívá při jednání se zá
 
 „Chápete? Všechno, co za padesát let nedostali od života, teď chtějí od nábytku!“
 
-  
+</section>
+
+<section>
 
 O půl druhé zbydeme jen tři: Skippy, Hujerová a já. Jsme mrtví únavou a alkoholem. Dohořely i všechny svíčky, které na začátku večera zapálila Marie – chápu, že to myslí dobře, ale buď se chceme bavit, nebo sedět u stolu se třemi mrtvolami; kombinovat to podle mě nejde. Dívám se na ty prázdné hliníkové kalíšky. Vybíjená, říkám si. Vrchní nás přijde upozornit, že podnik zavírá v jednu. Skippy se chce hádat.
 
@@ -59,7 +63,9 @@ Vrtí hlavou.
 
 „Ámen,“ praví Hujerová.
 
-  
+</section>
+
+<section>
 
 Jdeme společně na Újezd, kde Skippy na úpatí Petřínských sadů zvrací do keřů. Hujerová se mě snaží přesvědčit, že jsme se na maturitním večírku na Slapech líbali. Vím, že mě milovala, ale naštěstí měla vždycky tolik soudnosti, že to nedala najevo. Kolik má vlastně dětí? Jedno? Dvě? Vždycky tyhle věci zapomenu.
 
@@ -78,3 +84,5 @@ Skippy vydává strašlivé zvuky. Opodál svítí ve tmě Zoubkův památník o
 Koneckonců má pravdu. Skippy se vrací.
 
 „Dobře,“ říkám. „Pojďme najít nějaký útulný nonstop, kde naše životní tragédie v klidu rozeberem.“
+
+</section>

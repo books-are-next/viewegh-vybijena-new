@@ -3,6 +3,8 @@ title: JEFF
 contentType: prose
 ---
 
+<section>
+
 Vlastně se v Evě nikdy nevyznal – to je jediná jistota, která mu po tom všem zbyla.
 
 Kdykoli na to zkouší jít racionálně, ničeho se nedobere – tedy kromě pocitu, že bude-li v podobných úvahách ještě pár minut pokračovat, zešílí. Když člověk přemýšlí o ženách, měl by na veškerou racionalitu zapomenout, říká Tomovi. Tudy prostě cesta nevede. Může mu uvést desítky příkladů: Eva si stěžuje na bezzásadovost a populismus v české politice, a když se jí zeptá, proč tedy volila stranu, jejíž předseda je přímo exemplárním příkladem politické bezzásadovosti a populismu, odpoví mu, že má šmrnc, dobře se obléká a má hezké ruce. A tak dále a tak dále. Když o tom Jeff mluví, má pocit, že se zalkne.
@@ -26,3 +28,5 @@ Jeff zavrtí hlavou.
 Tom po nějaké době přikývne.
 
 „V podstatě jde o to je umlčet,“ dodá vážně Jeff.
+
+</section>

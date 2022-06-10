@@ -3,6 +3,8 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
+<section>
+
 „Jo, udělal jsem chybu, ale nikdo nemůže říct, že jsem se k tý chybě nepostavil čelem,“ říká mi táta.
 
 Musím uznat, že se opravdu snažil. Nejdřív se jel představit jejím rodičům – ten malý domek na východním okraji Prahy znal, jeden čas kolem něj jezdil s autobusem. Hned na úvod měl nepředpokládané potíže s parkováním: ze samé nervozity si se svým wartburgem kombi špatně najel, a nemohl se pak v úzkém prostoru mezi domem, popelnicemi a telefonním sloupem vytočit. On, řidič autobusu… Budoucí tchán, o pouhé tři roky starší než táta, musel vyjít ven a ukazovat mu. Sousedé za záclonami se mohli potrhat smíchy.
@@ -23,7 +25,9 @@ Nebo tak nějak podobně.
 
 V tomto duchu proběhla celá návštěva, ale táta to nevzdal: sehnal kočárek a starší postýlku s dřevěným hrazením, prodal část nábytku a z obýváku udělal dětský pokoj. Koupil manželskou postel, novou záchodovou mísu a karmu a nakonec celý byt vymaloval. Začal jezdit přesčasy, aby ušetřil na svatbu. Rodiče nevěsty se trochu uklidnili, avšak i nadále zůstávali zdrženliví. Z těch několika málo svatebních fotek, které jsem doma našla, je dodnes cítit napětí. Skoro nikdo se neusmívá, matka nevěsty se tváří podezíravě.
 
-  
+</section>
+
+<section>
 
 Do porodnice jezdil táta údajně každý den. Začalo mrznout, takže z jeho zimní bundy musel sálat chlad. Určitě mu taky v teple nemocničního pokoje pokaždé zrudly tváře. Sháněl pro matku banány a mandarinky. Představuji si, jak je mlčky pojídá a v rámci svých tehdejších možností přemýšlí; otec vždycky po chvíli nastaví dlaň a ona mu do ní vyplivne pecky.
 
@@ -33,7 +37,9 @@ A teď si zkuste tipnout, co v téže situaci zašeptala moje matka (tátovi t
 
 „No nazdar!“
 
-  
+</section>
+
+<section>
 
 Opustila nás, když mi byly necelé tři měsíce.
 
@@ -41,7 +47,9 @@ Opustila nás, když mi byly necelé tři měsíce.
 
 Mnohokrát mě samozřejmě napadlo, jak se ona hájila sama před sebou. Nikdo mi nemůže upřít, že jsem jí nedala šanci, říkala si možná. Měla jsem skoro celé tři měsíce na to, abych konečně začala vypadat trochu k světu. Dala mi tři měsíce, abych se z té uslintané a ukňourané šeredky konečně změnila v roztomilé, usměvavé mimino – ale já jsem ji zklamala: nezměnila jsem se. Takže odešla. To bylo v mém životě mimochodem poprvé – a zdaleka ne naposled – co jsem se svým zevnějškem tvrdě narazila.
 
-  
+</section>
+
+<section>
 
 Než odešla, vzala tátovi z příborníku nějaké peníze a nový radiomagnetofon Grundig; na kuchyňské lince mu nechala načatou krabici sunaru, plastovou odměrku a kojeneckou láhev. Kdykoli se táta opil a já si dovolila nějakou kritickou poznámku, pokaždé mi tyhle tři věci vypočítával.
 
@@ -51,7 +59,9 @@ Koneckonců měl pravdu.
 
 Onoho pátečního odpoledne, kdy od nás matka utekla za jakýmsi bývalým milencem, se pro mě její věk navždy zastavil. Dneska jí pomalu táhne na šedesát, nicméně když o ní občas přemýšlím, představuju si ji jako tu zmatenou, nijak zvlášť hezkou dívku o více než dvacet let mladší než já – jen díky tomu jí dokážu částečně odpustit.
 
-  
+</section>
+
+<section>
 
 Macechu otec přivedl domů, když mi bylo pět. Roli náhradní matky až do té doby úspěšně zastávali babička s dědou a já jsem po žádné změně ani v nejmenším netoužila, ale svým dětským rozumem jsem vytušila, že si táta z jakéhosi důvodu přeje, abych se k téhle tetě chovala mile, a tak jsem se snažila (zároveň jsem se jí ovšem trochu bála). Byla to silnější, permanentně nabručená odbarvená blondýna. Patřila k tomu typu lidí, kteří si v zimě naříkají na _strašnou zimu_ a v létě na _příšerná vedra_. Když táta neměl peníze, stěžovala si na _hroznou drahotu_, a když jí peníze dal a ona konečně mohla jít nakoupit, stěžovala si na _šílený fronty_. Tvrdila, že trpí samotou, ale návštěvy nesnášela. Člověk musí kvůli jedné návštěvě uklidit celý byt, a když návštěva odejde, nechá po sobě _takovej bordel_, že může začít _šůrovat znova_. Jejím nejoblíbenějším námětem k hovoru byly ovšem zdravotní obtíže. Dalo se to pochopit: bylo jí dvaačtyřicet a už měla za sebou celkem sedm různých operací.
 
@@ -61,7 +71,9 @@ Okamžitě si vyhrnula kombiné, aby zaraženému nešťastníkovi triumfálně 
 
 „Mileno, prosim tě, voblíkni se a přestaň to dítě děsit,“ pravil pouze.
 
-  
+</section>
+
+<section>
 
 Když jsem začala chodit do školy, vzala si nade mnou patronát.
 
@@ -77,7 +89,9 @@ Její dítě by taky bylo mnohem hezčí.
 
 „No já to za tebe psát nebudu!“
 
-  
+</section>
+
+<section>
 
 Vzpomínám si i na chvíle zvláštního klidu (rezignovaného, řekla bych dneska), kdy macecha dočasně přestala se svými _kdyby, kéž by a mělo by_, a na pár hodin dokázala přijmout život takový, jaký je – například o vánočních svátcích nebo o mých narozeninách. Byla jako vyměněná: pohybovala se po bytě mnohem pomaleji než obvykle, netřískala dveřmi a víc se usmívala.
 
@@ -105,7 +119,9 @@ Myslím, že nebyla zlá; prostě si jen vzala příliš velké sousto.
 
 Svedla ji ušlechtilá představa, že bude konat dobro – a konání dobra se nakonec ukázalo být únavnější, než si původně představovala. Vydržela s námi šest let a potom to definitivně vzdala.
 
-  
+</section>
+
+<section>
 
 Moje narozeniny bez mámy.
 
@@ -116,3 +132,5 @@ Vánoce bez mámy.
 První měsíčky. A tak dále.
 
 Je nutné to popisovat? Je _možné_ to popisovat? Zkuste si to aspoň _představit_ – bez toho to nemá cenu.
+
+</section>

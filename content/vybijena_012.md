@@ -3,13 +3,15 @@ title: EVA
 contentType: prose
 ---
 
-  
+<section>
 
 Práce právníka u zahraniční firmy možná vypadá navenek složitě, ale ve skutečnosti je to stejně primitivní jako třeba osmisměrka: stále táž slova, tytéž obraty. Podobností je tu ostatně víc; když samozřejmě pomine plat, řekla by, že tohle zaměstnání má pro její život prakticky stejný význam jako křížovky: celkem kultivovaně jím zabíjí čas.
 
 Je považována za schopnou, ne-li přímo úspěšnou, ale jí to nikdy nepřipadalo obtížné: stačila dobrá angličtina, trocha pracovního nasazení, schopnost komunikovat s lidmi a stanovit si priority úkolů. Dodnes ji to celkem baví, nicméně dávno ví, že se skutečným životem nemá její zaměstnání nic společného. Když na obědě potkává všechny ty perfektně ostříhané, sebevědomé mladíčky v oblecích Hugo Boss, často si vzpomene na Jeffa z počátku devadesátých let: také se domníval, že místo, které tehdy získal, je jeho životní šance. Slyší je, jak si objednávají (dvakrát _telecí saltimbocca_, jednou _spaghetti vongole_ a jednou _pasta al ragu di coniglio_), jak se smějí, vidí je, jak si přehazují saka přes židli a jak žvýkají – a myslí na Jeffa. Někdy si vzpomene i na Karla a na Irenu. Nikdy netušila, jak velké místo mohou v její hlavě zabírat mrtví lidé, kteří jí za svého života připadali celkem nedůležití. Pamatuje si dokonce i přesná data jejich úmrtí, ty dva letopočty jsou už navždy součástí její osobní historie – stejně jako například svatba rodičů nebo narození dcery. Není ostatně sama: když se na jednom z třídních srazů nepříliš šťastně vyjádří, že Alice se narodila _dva roky po Karlovi_, většina spolužáků okamžitě pochopí, jak to myslí.
 
-  
+</section>
+
+<section>
 
 Od počátku manželství přichází Jeff z práce velmi pozdě, Alice tou dobou už většinou spí. Bývá unavený a podrážděný. Chápe ho, má to těžké: jako vždycky chce vyhrávat, jenže podmínky tohoto závodu nejsou ani zdaleka fér.
 
@@ -35,7 +37,9 @@ Oba cítí, jak hluboko klesli. Jeff se zhroutí do křesla a mne si kořen nos
 
 „Bordel mě irituje,“ říká tiše. „Dá se to pochopit?“
 
-  
+</section>
+
+<section>
 
 Svou nepřítomnost se jim Jeff snaží vynahradit o víkendech. Alici nejsou ještě dva roky, ale on už plánuje mnohakilometrové výlety.
 
@@ -45,7 +49,9 @@ Svou nepřítomnost se jim Jeff snaží vynahradit o víkendech. Alici nejsou j
 
 Většinu trasy pak pochopitelně Alici střídavě nesou.
 
-  
+</section>
+
+<section>
 
 Obě Jeffa neustále zdržují.
 
@@ -74,3 +80,5 @@ Jeff to nevydrží a utrhne se: šlápne do pedálů a během tří vteřin zm
 O hodinu později se Jeff v protisměru vrací: shrbený nad řidítky, zablácený, zpocený a spokojený.
 
 „Jedeš moc krásně,“ chválí Alici. „Mám z tebe velikou radost.“
+
+</section>

@@ -3,6 +3,8 @@ title: EVA
 contentType: prose
 ---
 
+<section>
+
 Koncem osmdesátých letech získává od Skippyho a dvou dalších lékařů různé informace o alternativních porodech. Samozřejmě by chtěla rodit do vody, ale když to v únoru roku 1990 řekne svému gynekologovi, podívá se na ni tak útrpně, jako kdyby mu právě svěřila přání rodit do té hromady špinavého sněhu pod okny jeho ordinace.
 
 „Musím vám připomenout, že člověk je savec,“ říká jí s nepříjemným úsměvem. „Vaše dítě určitě nebude mít žábry…“
@@ -63,7 +65,9 @@ Taxíkář brzdí, Skippy otvírá přední dveře a nasedá; okamžitě se ot�
 
 Taxíkář je nesouhlasně pozoruje.
 
-  
+</section>
+
+<section>
 
 Přestože nenastanou žádné komplikace, trvá porod téměř jedenáct hodin. Když Evu nazítří časně ráno vezou z porodního sálu, bůhvíproč počítá zářivky na stropě: tři, čtyři, pět… Pozná svůj pokoj, vzpamatuje se a začne se shánět po Alici, ale dříve než jí nemocniční zřízenec stačí odpovědět, přichází starší lékařka s Alicí v náručí. Dítě spí, vlásky má slepené zaschlou krví.
 
@@ -76,3 +80,5 @@ Eva se posune na posteli, udělá Alici vedle sebe místo a přikryje ji. Nespo
 Eva roztrhne přiloženou obálku a zdvihne obočí.
 
 „To nebyl můj otec,“ říká. „To byl můj češtinář.“
+
+</section>

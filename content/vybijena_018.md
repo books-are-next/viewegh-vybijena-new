@@ -3,6 +3,8 @@ title: TOM
 contentType: prose
 ---
 
+<section>
+
 Třídní profesorka nám o příchodu nové spolužačky řekne v posledním týdnu před letními prázdninami – den poté, co se Eva doprovázena otcem i matkou přijde na školu představit.
 
 „A je aspoň hezká?“ zeptá se ihned Karel a podívá se významně na Marii.
@@ -15,7 +17,9 @@ _Moc_. Moc slova. Kdyby byla Eva Šálková slavnou herečkou či zpěvačkou (c
 
 V tom jsem se ostatně nemýlil.
 
-  
+</section>
+
+<section>
 
 K mnoha nepsaným zákonům klukovské části naší třídy (je nám patnáct, a připadá nám tudíž samozřejmé, že třídu tvoří dva víceméně nezávislé světy: náš a ten dívčí) patří mimo jiné i obecně uznávaná dohoda o _zamlouvání_.
 
@@ -25,7 +29,9 @@ Je to ovšem zákon zcela transparentní a v jistém smyslu i spravedlivý; s
 
 Několik vteřin rozhodne o příštích dvaceti letech.
 
-  
+</section>
+
+<section>
 
 První školní den roku 1977 má Eva na sobě tmavomodrou džínovou sukni značky Wild Cat, která jí je trochu velká (očividně úplně novou, neboť látka působí už na pohled nepoddajně), tenký bílý rolák z umělého úpletu a podivnou háčkovanou šedou vestičku, jejímž hlavním účelem – jak s němým voyeurským úžasem zjistíme hned následující přestávku – je zakrýt příliš výrazně se rýsující dvorce bradavek. Jisté _dobové_ nedostatky v oblečení (takhle to samozřejmě vnímám až dnes) pouze zvýrazní její půvab: tuhá džínovina dá vyniknout jemným liniím nahých kolen a lýtek, neforemná vestička nenuceně vzpřímenému postoji, křivce zad a zadečku, límec roláku zvýrazní nenaučené, jaksi přirozeně hrdé držení hlavy, červeň rtů a čistotu pleti. V mém životě se právě přihodilo něco, co se už nikdy nebude opakovat: skutečnost se ukázala být hezčí než sen.
 
@@ -34,3 +40,5 @@ Představí nám ji sám ředitel. Nebývá to rozhodně jeho zvykem; už tenkr�
 „Tu si _zamlouvám_!“ vykřikne překotně.
 
 Eva zrudne, a v mých očích tak ještě víc zkrásní (to mě překvapí: do té doby považuji červenání za něco v podstatě neestetického, mírně kompromitujícího, podobně jako třeba kýchání nebo smrkání). Všichni, dokonce i ředitel a třídní profesorka, se rozesmějí a také Jeff se dodatečně začne křenit, ale já dobře vím, že svůj nárok vznesl se smrtelnou vážností. Ostatní kluci to zřejmě vnímají podobně, neboť ve třídě rázem zavládne dusné, řevnivé napětí. Takhle hloupě si ji nechat vyfouknout! Mám pocit, že je to ta nejtragičtější nepozornost mého života. Stejně jako spolužáci se naoko tvářím pobaveně, ale v hloubi duše jsem nešťastný a zklamaný a vůči Jeffovi cítím sžíravou nenávist, která mi – zcela bez ohledu na hloubku a opravdovost našeho přátelství – vydrží přes dvě desetiletí.
+
+</section>

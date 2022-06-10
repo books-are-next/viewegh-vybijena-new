@@ -3,6 +3,8 @@ title: AUTOR
 contentType: prose
 ---
 
+<section>
+
 Je mu čtrnáct a půl roku; měří sto šedesát dva centimetrů.
 
 Rád nosí jednobarevné košile s rozhalenkou, do nichž si uvazuje hedvábný šátek. To hnědé semišové sáčko mu vlastnoručně ušila babička Věra, kožešnice. S výsledkem je očividně spokojená: když si autor sako poprvé oblékne, několikrát použije slovo nóbl.
@@ -19,10 +21,14 @@ Hned na počátku prvního ročníku se autor po vzoru dvou nejbližších kamar
 
 Plyne z toho nějaké poučení? Autor si není jistý.
 
-  
+</section>
+
+<section>
 
 Ve třetím ročníku jej tělocvikář poněkud překvapivě nominuje do školního týmu, který se má zúčastnit jakéhosi basketbalového turnaje. Jako jediný v sestavě nehraje košíkovou závodně, ostatní kluci několikrát týdně trénují v městském oddíle; přijímají ho proto mezi sebe s jistou nedůvěrou, ale časem je přesvědčí, že si místo v sestavě zaslouží: jeho střelba není sice úplně přesná, ale na druhé straně slušně brání a občas dokáže získat i zdánlivě ztracené míče.
 
 V závěrečném utkání turnaje dostávají v poslední minutě koš a prohrávají o jediný bod. O celkovém pořadí je sice už rozhodnuto (bez ohledu na výsledek zápasu skončí třetí ze šesti mužstev), nicméně dramatický závěr postaví diváky i obě lavičky na nohy. Jeden ze spoluhráčů je při rozehrávce atakován a v tísni posílá autorovi nepříliš vydařenou přihrávku, ale on míč na poslední chvíli zachytí. „Střílej!“ zakřičí na něho kdosi. „Musíš střílet!“ Autor zdařilou kličkou obejde nejbližšího protihráče a z výskoku střílí rozhodující koš – na který pak vzpomíná celý život.
 
 Celý život vzpomíná na jediný koš v nedůležitém zápase bezvýznamného turnaje.
+
+</section>

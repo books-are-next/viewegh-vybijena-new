@@ -3,6 +3,8 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
+<section>
+
 Stane se něco, co nečekám: od výstupu s Marií se mě už nikdo na Libora nezeptá – ani Marie. Je to stejné, jako kdybych se s maximální svědomitostí soustavně připravovala řekněme na dějepis – a učitelka mě pak nikdy nevyvolala. Najednou je to nezajímá? Nerozumím tomu. Někdy si rouhavě říkám, že i případné odhalení by bylo lepší než tahle věčná nejistota. Ale jaképak odhalení: věřím si. Umím uniknout i z té nejrafinovanější pasti. Jsem připravená odpovědět s klidným úsměvem i na tu nejzáludnější otázku. Představuji si to například takto:
 
 Marie (přede všemi): Jestlipak dostala Hujerová od toho svýho Liborka něco k svátku? (obrací se ke mně; útočně) Mělas včera svátek, ne?
@@ -25,7 +27,9 @@ Já: Slyším tvou ironii, ale nenamáhej se, já s tebou souhlasím. Máš pra
 
 Zavrtím hlavou a hrdě odcházím.
 
-  
+</section>
+
+<section>
 
 Jenomže se mě nikdo na nic nezeptá. Nezajímá je, co jsem dostala k svátku, s kým jsem byla v kině ani co jsem dělala o víkendu. Když se o Liborovi výjimečně zmíním sama (nedokážu si to potěšení odříct, vím toho o něm tolik!), holky to přejdou mlčením, nebo nápadně rychle mění téma. Zneklidňuje mě to. Jestli mají nějaké pochybnosti, proč s nimi nevyrukují? Během jediné minuty bych jim je navždy rozptýlila!
 
@@ -69,8 +73,12 @@ Větev okamžitě znejistí. Takhle by tedy před Marií neobstála.
 
 Žadoní očima o můj souhlas – a já jí ho velkoryse poskytnu.
 
-  
+</section>
+
+<section>
 
 O pár měsíců později naše páteční schůzky naráz skončí. Jednou z nějakého důvodu nemůžu přijít já, příště ona. Obě se zřejmě bojíme, že v naší tiché dohodě s názvem _Vím, že víš, že vím_ nedokážeme pokračovat. Všechny ty lži nám začínají být nesnesitelně trapné.
 
 Ještě jednou se sejdeme v červenci po maturitě: Irena mi nečekaně zavolá a vyjdeme si na krátkou vycházku po nábřeží. O Liborovi ani o Mirkovi už nemluvíme.
+
+</section>
