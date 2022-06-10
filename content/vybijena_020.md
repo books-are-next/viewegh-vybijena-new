@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Po celou školní docházku trvá otec na tom, abych se kromě výtvarného kroužku, který jsem si vybrala sama, každoročně přihlásila ještě na dva další: na _vaření_ a na _sportovní hry_. Každé září se s ním zuřivě hádám, ale on ze svého požadavku nikdy neustoupí.
 
 „Prostě tam budeš chodit a tím to hasne.“

@@ -3,8 +3,6 @@ title: TOM
 contentType: prose
 ---
 
-  
-
 Svatba Evy a Jeffa v říjnu roku 1989 je onou dlouho oddalovanou dobrou zprávou, kterou už všichni potřebovali (samozřejmě s výjimkou mé maličkosti). Víra ve šťastné konce je dočasně obnovena. _Život je přece jenom dobrý_, mohlo by klidně stát na jejich svatebním oznámení.
 
   

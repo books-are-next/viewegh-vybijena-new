@@ -3,8 +3,6 @@ title: EVA
 contentType: prose
 ---
 
-  
-
 _Autoerotiku neprovozuje_, říkával Jeff. Ne snad že by ji to nějak pohoršovalo, to ne, ale zřejmě se sama před sebou stydí.
 
 Jednou ve čtrnácti to ze zvědavosti zkusí: vykoupe se, popřeje rodičům dobrou noc, tiše se v pokojíčku zamkne, zatáhne závěsy a zhasne – a přesto se jí zdá, že ji všechny ty známé předměty kolem, jejichž obrysy nyní pouze tuší, udiveně, nesouhlasně pozorují. Upírá oči do tmy a připadá si natolik divně, jakoby _cize_, že toho po chvíli nechá – a ani později nemá potřebu se k tomu zážitku vracet. Prostě s tím nezačne, takže jí to nechybí – to je celé. Jeff se v oněch nekonečných měsících, kdy ho znovu a znovu odmítá, pochopitelně začne domnívat, že je Eva _tak trochu frigidní_. Nemůže mu to vyčítat a ani mu to nevymlouvá, ale od oné suplované hodiny s Varteckým ví své.

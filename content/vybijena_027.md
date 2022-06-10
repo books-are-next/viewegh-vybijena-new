@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Stane se něco, co nečekám: od výstupu s Marií se mě už nikdo na Libora nezeptá – ani Marie. Je to stejné, jako kdybych se s maximální svědomitostí soustavně připravovala řekněme na dějepis – a učitelka mě pak nikdy nevyvolala. Najednou je to nezajímá? Nerozumím tomu. Někdy si rouhavě říkám, že i případné odhalení by bylo lepší než tahle věčná nejistota. Ale jaképak odhalení: věřím si. Umím uniknout i z té nejrafinovanější pasti. Jsem připravená odpovědět s klidným úsměvem i na tu nejzáludnější otázku. Představuji si to například takto:
 
 Marie (přede všemi): Jestlipak dostala Hujerová od toho svýho Liborka něco k svátku? (obrací se ke mně; útočně) Mělas včera svátek, ne?

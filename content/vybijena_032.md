@@ -3,8 +3,6 @@ title: JEFF
 contentType: prose
 ---
 
-  
-
 Ono červencové odpoledne je slunečné a teplé. Sejdou se u Železničního mostu, pochopitelně se nepolíbí – od chvíle, kdy Eva Jeffovi přiznala, že na Slapech přišla o panenství, jsou to teprve dva týdny.
 
 Celých těch čtrnáct dní se jí důsledně vyhýbal; představa, že by se setkali, v něm vyvolávala zvláštní závrať, žaludeční nevolnost a bušení srdce. Nyní ale stojí Eva proti němu, v letních sandálech a světlých šatech na ramínka, bez úsměvu, klidně, bez viditelných známek provinilosti. Od řeky fouká vítr, občas si musí přidržovat spodní lem šatů. Dříve než stačí Jeff promluvit, potkávají Hujerovou s Větví: kráčejí po nábřeží přímo proti nim, takže není možné se setkání vyhnout. Dívky vypadají zaskočeně, ale rychle se vzchopí.

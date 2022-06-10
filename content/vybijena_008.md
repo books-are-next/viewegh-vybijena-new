@@ -3,8 +3,6 @@ title: EVA
 contentType: prose
 ---
 
-  
-
 Autem jezdí, ale jen dvě známé, naučené trasy: každý pátek na nákup do Hypernovy a jednou za čtrnáct dní k rodičům do Vrchlabí – po odchodu do důchodu prodali pražský byt a koupili si zde malý domek. Jinak nejezdí nikam. Celé dny stojí její vínový renault na tomtéž místě (v zimě je to často jediné zasněžené auto v ulici a v létě, když jej nechá stát blíž k parku, bývá zase po týdnu pokryté jemným žlutým pylem, do kterého děti kreslí sprosté obrázky). Loni – sedm let po rozvodu – ho dostala od Jeffa k narozeninám.
 
 „O co se to snažíš?“ řekla mu.

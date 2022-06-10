@@ -3,8 +3,6 @@ title: EVA
 contentType: prose
 ---
 
-  
-
 Koncem osmdesátých letech získává od Skippyho a dvou dalších lékařů různé informace o alternativních porodech. Samozřejmě by chtěla rodit do vody, ale když to v únoru roku 1990 řekne svému gynekologovi, podívá se na ni tak útrpně, jako kdyby mu právě svěřila přání rodit do té hromady špinavého sněhu pod okny jeho ordinace.
 
 „Musím vám připomenout, že člověk je savec,“ říká jí s nepříjemným úsměvem. „Vaše dítě určitě nebude mít žábry…“

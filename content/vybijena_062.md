@@ -3,8 +3,6 @@ title: AUTOR
 contentType: prose
 ---
 
-  
-
 V prosinci, dva měsíce před odevzdáním rukopisu do nakladatelství, přijíždí do Sázavy na několik dní babička K. Příští rok jí bude devadesát, avšak dosud se těší relativně dobrému zdraví, znamenité paměti i schopnosti bystrého úsudku.
 
 Autor ji po obědě vezme na delší procházku; cesty jsou namrzlé, ale babička má jakýsi klacek, který používá jako hůl, a navíc se spolu drží za ruku. Proud její řeči je jako obvykle monotónně souvislý; autor více zpozorní teprve ve chvíli, kdy babička nahlas zalituje, že ztratila kontakt na jakousi spolužačku z gymnázia.

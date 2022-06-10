@@ -3,8 +3,6 @@ title: EVA
 contentType: prose
 ---
 
-  
-
 V polovině listopadu roku 1988 ji cestou na hodinu aerobiku navštíví Marie: příští sobotu jede na Slovensko za Karlem, nechce jet Eva s ní?
 
 Eva přemýšlí, jak se vymluvit: slíbila sice Jeffovi, že v listopadu určitě přijede (jednou už domluvenou návštěvu k jeho zklamání odložila, takže některý z následujících víkendů se stejně na Slovensko vydat musí), ale zároveň ji leká představa, že by měla tu dlouhou cestu absolvovat právě s Marií. Ne že by ji neměla ráda, pouze jí připadá, že toho spolu zase tolik neprožily, a obává se, že si nebudou mít co říct. Možná k tomu přispívá Mariina šusťáková souprava i ta velká sportovní brašna, kterou má přes rameno – navzdory přirozenému pohybovému talentu je Evě svět sportu cizí.

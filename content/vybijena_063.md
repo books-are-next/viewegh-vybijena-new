@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Stromy v nemocničním areálu jsou z větší části opadané a mezi holými větvemi objevuji budovy, které ještě před pár týdny nebylo vidět. Listí seschlo a ztvrdlo, při každém závanu studeného listopadového větru o asfalt skoro skřípe; na mnoha místech už je z něj jen hnědá drť, ale pod třešní u pavilonu, kde leží táta, jsou ještě poslední syté barvy: teplá žlutá a karmínová. Chytám se jich očima jako tonoucí stébla.
 
 „Tati? Chtěl bys napít?“

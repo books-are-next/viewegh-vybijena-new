@@ -3,8 +3,6 @@ title: EVA
 contentType: prose
 ---
 
-  
-
 Odjakživa téměř _fyzicky_ miluje vodu a koupání, zvláště pak v moři. Má také ráda ranní svěžest prázdných pláží – ty chladné ploché kameny, které budou o pár hodin později rozpálené do nesnesitelna. Chodí s Jeffem plavat ještě před snídaní. Jeff už na počátku první společné dovolené musí nahlas přiznat, že jejímu plaveckému tempu nestačí. Očividně to nedokáže pochopit.
 
 „Uznávám, že nemám zrovna skvělou techniku, ale přesto bych předpokládal, že moje fyzička musí na každou ženskou včetně tebe bohatě stačit,“ kroutí s úsměvem hlavou.

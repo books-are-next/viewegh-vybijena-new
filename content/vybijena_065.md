@@ -3,8 +3,6 @@ title: TOM
 contentType: prose
 ---
 
-  
-
 Na každém setkání bývalé třídy, obvykle hned na úvod, musím spolužákům vyprávět, co se za poslední rok na _našem_ gymnáziu změnilo; už se z toho stal jakýsi rituál. Ani letošní sraz není výjimkou.
 
 „Tak co je novýho, povídej,“ žádá mě bez okolků Marie.

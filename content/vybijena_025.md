@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Školní chodba o přestávce před biologií: sedím na teplém radiátoru, formálně nahlížím do sešitu (všechno už jsem se samozřejmě na­učila doma) a nahřívám si svou panenskou prcinku – když z ničeho nic přijde útok.
 
 „Podle mě Hujerová s tim svym klukem normálně kecá,“ říká Marie tak, abych to slyšela.

@@ -3,8 +3,6 @@ title: TOM
 contentType: prose
 ---
 
-  
-
 Třídní profesorka nám o příchodu nové spolužačky řekne v posledním týdnu před letními prázdninami – den poté, co se Eva doprovázena otcem i matkou přijde na školu představit.
 
 „A je aspoň hezká?“ zeptá se ihned Karel a podívá se významně na Marii.

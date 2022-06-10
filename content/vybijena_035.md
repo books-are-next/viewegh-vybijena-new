@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 O svého snoubence přijdu ve zdymadle na Střeleckém ostrově.
 
 Ještě dnes, po dvaceti letech, když jdeme s Borisem a dětmi na procházku na Petřín, se někdy zastavím u kamenného zábradlí mostu, nakláním se dolů a snažím se v kalné vodě zahlédnout jeho tvář. Andulka ztratí trpělivost a jde napřed.

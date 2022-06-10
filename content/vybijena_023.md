@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Jak asi tušíte, vybíjená ze mě roupy nevyhnala.
 
 Moje sexualita se naopak probudí o pár let dřív, než si otec autobusák dokáže představit: ten malý knoflík slasti objevím ve svých třinácti letech, tedy v době, kdy mi před usnutím (pokud je v dobrém rozpoložení) stále ještě zpívá _Spi děťátko, spi, zavři očka svý_ a další ukolébavky. Nakonec vždycky společně _počítáme ovečky_, což je ovšem jen formální rituál, neboť táta nikdy nemá trpělivost čekat, až doopravdy usnu. Našich oveček je proto jen dvanáct: jakmile _dvanáctá ovečka přejde lávku_ _přes potok_ (ano, přesně takhle to říkal; dneska se mi při té vzpomínce hrnou slzy do očí), políbí mě na čelo, přikryje mě až po bradu, zhasne a jde si otevřít pivo – a já zatím potmě, s očima široce rozevřenýma a s rukou v klíně, čekám na třináctou ovečku. Jakmile přijde, zkroutí mi pokaždé palce u nohou a já zabečím tak hlasitě, že si před pusu musím dávat polštář.

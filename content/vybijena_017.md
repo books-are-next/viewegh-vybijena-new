@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 „Jo, udělal jsem chybu, ale nikdo nemůže říct, že jsem se k tý chybě nepostavil čelem,“ říká mi táta.
 
 Musím uznat, že se opravdu snažil. Nejdřív se jel představit jejím rodičům – ten malý domek na východním okraji Prahy znal, jeden čas kolem něj jezdil s autobusem. Hned na úvod měl nepředpokládané potíže s parkováním: ze samé nervozity si se svým wartburgem kombi špatně najel, a nemohl se pak v úzkém prostoru mezi domem, popelnicemi a telefonním sloupem vytočit. On, řidič autobusu… Budoucí tchán, o pouhé tři roky starší než táta, musel vyjít ven a ukazovat mu. Sousedé za záclonami se mohli potrhat smíchy.

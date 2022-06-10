@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Můj manžel Boris je dozorčí v metru. Jeho životním posláním je upozorňovat cestující, že přijíždějící souprava končí ve stanici Kačerov. Po všech dívčích snech o úspěšném, bohatém manželovi, který mi na odchodu do práce pokaždé s úsměvem pošle vzdušný polibek (já a naše tři rozkošné děti stojíme na prosklené terase funkcionalistické předměstské vily), žiju na sídlišti v paneláku s člověkem, který osm hodin denně buzeruje lidi, že překročili bezpečnostní čáru.
 
   

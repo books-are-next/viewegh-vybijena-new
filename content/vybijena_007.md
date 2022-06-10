@@ -3,8 +3,6 @@ title: TOM
 contentType: prose
 ---
 
-  
-
 Ve svých dvaašedesáti vypadá Vartecký stále ještě velmi dobře; do školy jezdí od jara do podzimu na kole, dvakrát týdně hraje volejbal a každý pátek chodí se svou o šestnáct let mladší manželkou do sauny. Některé kolegyně (ženy mají ve sboru více než osmdesátiprocentní převahu) mu všemožně nadbíhají, čemuž čelí jakýmsi zasmušilým, zdvořilým klidem. Na večírcích, jako je tento, připomíná velkého dobráckého psa, kterého týrají děti: všechno to hlazení, pusinkování a sedání na klín snáší s imponující trpělivostí, a teprve když projevy přízně dosáhnou samé hranice snesitelnosti, vstane, opatrně ze sebe přiopilé učitelky setřese a důstojně přejde do opačného koutu sborovny. Seženu mu volnou židli, přiťukneme si a nezávazně tlacháme. Kolem prochází kolegyně Mrázová: oběma rukama svírá papírový tácek, na němž zbyl jen mastný otisk dvou chlebíčků, kousek kližky z rostbífu a žlutý oblouček citrónové kůry. Nenápadně se k Varteckému nakloním.
 
 „A mladé hostesky už přinášejí oceněným pedagogům státní vyznamenání,“ pošeptám mu.

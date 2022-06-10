@@ -3,8 +3,6 @@ title: JEFF
 contentType: prose
 ---
 
-  
-
 Prvního října roku 1988 nastupuje roční vojenskou službu.
 
 Eva ho jde vyprovodit. Jedou metrem ze stanice Gottwaldova; do odjezdu soupravy zbývá ještě šest minut, a tak se posadí na volnou lavičku. Za zády mají nuselské údolí. Jeff se otočí: pohled na všechny ty červené střechy, komíny a televizní antény mu tentokrát připadá docela malebný. Pochopitelně, pomyslí si. Náhle si uvědomí, že zapomněl Evě vysvětlit, jak se zapíná a vypíná karma a jak si poradit s nejčastějšími poruchami. Začne s výkladem, ale má pocit, že ho Eva neposlouchá dostatečně soustředěně. Měl jí to předvést doma, přímo na karmě. Pozdě. Nakloní hlavu na stranu a mlaskne. Až jí poteče jenom studená, bude muset někomu říct. Varteckému? napadne ho. Eva nejspíš vycítí jeho stísněnost, protože ho vezme za ruku; dokonce ho sama od sebe políbí. To neudělala už dlouho. Rachot přijíždějící soupravy mu jako obvykle připomene Irenu. Vsadil by se, že Eva na ni myslí taky. Měli jet jedenáctkou k Muzeu. Pozdě.

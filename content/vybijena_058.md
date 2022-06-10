@@ -3,8 +3,6 @@ title: JEFF
 contentType: prose
 ---
 
-  
-
 Po rozvodu dostává Jeff Alici na jedno odpoledne v týdnu a každý sudý víkend. Nejčastěji chodívají plavat do Podolí nebo do kina. O víkendech téměř vždy vyrážejí ven z Prahy: v zimě na lyže, v létě pod stan nebo na kola. Když se Jeff Alice dnes na všechny ty výlety zpětně ptá, zklamaně zjišťuje, že si většinu z nich už nepamatuje. Ale třeba to i tak mělo smysl, ujišťuje se v duchu.
 
 Co si Alice pamatuje, je šaškování Skippyho, který začne časem jezdit s nimi, dokonce je kvůli tomu ochoten oželet i významná fotbalová nebo hokejová utkání. Jeff jej hned na počátku důrazně upozorní, že před Alicí nesmí mluvit sprostě, což Skippy k jeho překvapení dodrží. Chová se ovšem ještě infantilněji než jindy (přítomnost malé Alice používá jako alibi): na ulici provádí různé výtržnosti, poskakuje, pitvoří se a skládá pro Alici veršovánky jako Vykopejte kráter, povídá páter / Co se to koná? Pohřeb slona. Podobné rýmy pak Jeffovi rezonují v hlavě celé týdny, ale jeho dcera je nadšená – a to je hlavní.

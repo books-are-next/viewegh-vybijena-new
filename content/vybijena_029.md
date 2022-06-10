@@ -3,8 +3,6 @@ title: HUJEROVÁ
 contentType: prose
 ---
 
-  
-
 Vždycky když jdu za tátou do Bohnic, těším se na stromy v parku (_těším_ se je asi silné slovo, ale víte, jak to myslím): stoleté lípy, jedle, smrky, javory, červené buky. Odjakživa přistupuju k životu zcela racionálně a pragmaticky, nicméně v tomhle případě se nemůžu zbavit dojmu, že z těch věkovitých stromů vyzařuje obrovský, mystický, jaksi _zásadní_ mír. Rozumíte, co chci říct? Všude kolem jsou pavilóny plné šílenců, psychopatů, umírajících alkoholiků, unavených sester a nervózních návštěv, ale ty stromy přesto zachovávají naprostý klid. Vzpřímeně stojí, korunami probleskuje slunce, vítr šumí mezi lístečky – a člověk má skoro pocit, že se tu žádné tragédie neodehrávají. Lidé umírají, protože přišel jejich čas. Jinak to nebude. Tátův nepříliš šťastný život se zkrátka naplnil a já, jeho dcera, jsem tady s ním. Všechno je, jak má být. Jenomže mezitím dorazím k budově, kde táta už několik měsíců leží, stromy zmizí, obklopí mě holé zdi, a sotva otevřenými dveřmi nejbližšího pokoje zahlédnu prvního chroptícího starce, je veškerá iluze pryč. Copak nás se smrtí může smířit buk nebo javor?
 
   

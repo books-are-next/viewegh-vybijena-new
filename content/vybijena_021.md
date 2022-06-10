@@ -3,8 +3,6 @@ title: TOM
 contentType: prose
 ---
 
-  
-
 Na tabuli v hale u pokladen je napsáno, že venkovní teplota je patnáct stupňů; voda má údajně devatenáct. Říkám, že bychom mohli bazén pro změnu vynechat a jít třeba do kina; Jeff je pro, ale Eva nás prosí, ať to nevzdáváme.
 
 „Já si prostě _musím_ zaplavat,“ tvrdí. „Musím!“
