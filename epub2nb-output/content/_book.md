@@ -13,6 +13,7 @@ meta:
   modified: '2019-01-24T00:00:00.000Z'
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2480-1
 readingOrder:
   - promo.html
   - vybijena_005.html
