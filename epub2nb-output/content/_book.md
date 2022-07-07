@@ -82,7 +82,7 @@ readingOrder:
   - vybijena_068.html
   - vybijena_069.html
   - vybijena_070.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

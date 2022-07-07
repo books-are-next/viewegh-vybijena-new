@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-vybijena-d15bc0f",
-  "revision": "d15bc0f",
+  "identifier": "viewegh-vybijena-eafa478",
+  "revision": "eafa478",
   "readingOrder": [
     "promo.html",
     "vybijena_005.html",
@@ -78,11 +78,11 @@
     "vybijena_068.html",
     "vybijena_069.html",
     "vybijena_070.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:32:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980360810
+    "date": "Thu Jul 07 2022 08:42:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183343041
   },
   "documents": [
     {
@@ -1406,7 +1406,7 @@
       "role": "chapter",
       "order": 66,
       "prev": "vybijena_069.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1419,11 +1419,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 135,
-      "chars": 894,
+      "chars": 893,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "vybijena_070.html",
       "next": null,
@@ -1441,7 +1441,7 @@
   "totals": {
     "all": {
       "words": 48581,
-      "chars": 293936,
+      "chars": 293935,
       "ideas": 1911
     },
     "chapters": {
