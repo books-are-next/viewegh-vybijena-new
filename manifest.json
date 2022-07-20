@@ -81,8 +81,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:07:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188420162
+    "date": "Wed Jul 20 2022 12:41:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658320877371
   },
   "documents": [
     {
@@ -1421,7 +1421,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 135,
-      "chars": 893,
+      "chars": 894,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -1441,7 +1441,7 @@
   "totals": {
     "all": {
       "words": 48581,
-      "chars": 293935,
+      "chars": 293936,
       "ideas": 1911
     },
     "chapters": {
