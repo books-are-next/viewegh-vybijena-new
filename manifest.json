@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-vybijena-32f86e0",
-  "revision": "32f86e0",
+  "identifier": "viewegh-vybijena-6222b87",
+  "revision": "6222b87",
   "readingOrder": [
     "promo.html",
     "vybijena_005.html",
@@ -81,8 +81,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:11:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151903009
+    "date": "Mon Oct 10 2022 16:03:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417800928
   },
   "documents": [
     {
@@ -1421,7 +1421,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 135,
-      "chars": 894,
+      "chars": 895,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -1441,7 +1441,7 @@
   "totals": {
     "all": {
       "words": 48581,
-      "chars": 293936,
+      "chars": 293937,
       "ideas": 1911
     },
     "chapters": {
