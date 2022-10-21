@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-vybijena-6222b87",
-  "revision": "6222b87",
+  "identifier": "viewegh-vybijena-ff72bce",
+  "revision": "ff72bce",
   "readingOrder": [
     "promo.html",
     "vybijena_005.html",
@@ -81,8 +81,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:03:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417800928
+    "date": "Fri Oct 21 2022 11:47:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352839689
   },
   "documents": [
     {
